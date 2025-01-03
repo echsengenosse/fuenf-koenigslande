@@ -1,8 +1,9 @@
 **Geografie:** 
 - [ ] Wer regiert was und welcher Ort liegt wo? 
+- [ ] Politik
 - [ ] Map
 - [ ] Hintergrund Lore
- **Homebrew:** 
+**Homebrew:** 
 - [ ] öffentlich zugängliche Klassen/Fähigkeiten/Völker/Zauber
 **NPCs:** 
 - [ ] Wen hat man wo getroffen? 
@@ -12,5 +13,5 @@
 - [ ] Wo gefunden
 - [ ] Status (offen/abgeschlossen)
 **Schnellhinweise:**
-- [ ] Zustände
+- [x] Zustände
 - [ ] Aktionen

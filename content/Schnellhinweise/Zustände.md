@@ -1,150 +1,86 @@
-# Blind (Blinded)
-*Du kannst nicht sehen*
+Alle Beschreibungen basieren auf dem Text aus SRD v. 5.1 (https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_DE.pdf).
 
-Du verlierst Fähigkeitswürfe die Sicht benötigen automatisch.
-Du hast Nachteil auf Angriffswürfe.
-Angriffswürfe gegen dich haben Vorteil.
+# Betäubt
+- Eine betäubte Kreatur ist kampfunfähig (siehe entsprechenden Zustand), kann sich nicht bewegen und nur stockend sprechen. 
+- Die Kreatur scheitert bei Stärke- und Geschicklichkeitsrettungswürfen automatisch. 
+- Angriffswürfe gegen die Kreatur sind im Vorteil.
 
-*PHB, Seite 290.*
+# Bewusstlos
+- Eine bewusstlose Kreatur ist kampfunfähig (siehe entsprechenden Zustand), kann sich nicht bewegen oder sprechen und ist sich ihrer Umgebung nicht bewusst. 
+- Die Kreatur lässt fallen, was auch immer sie hält, und erleidet den Zustand liegend. 
+- Die Kreatur scheitert bei Stärke- und Geschicklichkeitsrettungswürfen automatisch. 
+- Angriffswürfe gegen die Kreatur sind im Vorteil. 
+- Jeder Angriff, der die Kreatur trifft, ist ein kritischer Treffer, wenn sich der Angreifer im Abstand von bis zu 1,5 Metern um die Kreatur befindet.
 
-# Betäubt (Paralyzed)
-*Du bist betäubt*
+# Bezaubert
+- Eine bezauberte Kreatur kann den Zauberwirker nicht angreifen oder als Ziel für schädigende Fähigkeiten oder magische Effekte wählen.
+- Der Zauberwirker ist bei Attributswürfen, die soziale Interaktionen mit der Kreatur betreffen, im Vorteil.
 
-Du bist [[Zustände#Kampfunfähig (Incapacitated|Kampfunfähig]], kannst dich nicht bewegen und nur stammelnd reden.
-Angriffe gegen dich sind im Vorteil.
-Stärke- oder Geschicklichkeitsrrettungswürfe schlagen automatisch fehl.
-
-*PHB, Seite 290.*
-
-# Bewusstlos (Unconscious)
-*Du bist bewusstlos*
-
-Du bist [[Zustände#Kampfunfähig (Incapacitated|Kampfunfähig]], kannst dich nicht bewegen und nimmst deine Umgebung nicht wahr.
-Du lässt fallen was du in Händen hältst und fällst hin.
-Angriffe gegen dich sind im Vorteil.
-Jeder Angriff, der dich trifft, ist ein kritischer Treffer, wenn der Angreifer innerhalb von 5 Fuß von dir ist.
-Stärke- oder Geschicklichkeitsrettungswürfe schlagen automatisch fehl.
-
-*PHB, Seite 290.*
-# Bezaubert (Charmed)
-*Du bist von einer anderen Kreatur bezaubert*
-
-Du kannst den Bezaubernden nicht angreifen oder als Ziel für verletzende Fähigkeiten oder magische Effekte wählen.
-Der Bezaubernde hat Vorteil auf Fähigkeitswürfe in sozialer Interaktion mit dir.
-
-*PHB, Seite 290.*
+# Blind
+- Eine blinde Kreatur kann nicht sehen und scheitert automatisch bei jedem Attributswurf, der Sicht erfordert. 
+- Angriffswürfe gegen die Kreatur sind im Vorteil, die Angriffswürfe der Kreatur selbst im Nachteil.
 
 # Erschöpfung
-Erschöpfung wird in sechs Stufen unterschieden:
+Einige Spezialfähigkeiten und Umweltgefahren wie Hunger und die langfristigen Auswirkungen von sehr niedrigen oder hohen Temperaturen können einen besonderen Zustand auslösen, der als Erschöpfung bezeichnet wird. Erschöpfung wird in sechs Stufen gemessen. Ein Effekt kann einer Kreatur eine oder mehrere Erschöpfungsstufen verleihen, wie in der Beschreibung des Effekts angegeben. 
 
-| Stufe | Effekt                                   |
-| ----- | ---------------------------------------- |
-| 1     | Nachteil auf Fähigkeitswürfe             |
-| 2     | Geschwindigkeit halbiert                 |
-| 3     | Nachteil auf Angriffs- und Rettungswürfe |
-| 4     | Trefferpunkte-Maximum halbiert           |
-| 5     | Geschwindigkeit auf 0 reduziert          |
-| 6     | Tod                                      |
+Stufe | Effekt 
+:---:|:-
+1 | Nachteil bei Attributswürfen 
+2 | Halbe Bewegungsrate 
+3 | Nachteil bei Angriffs- und Rettungswürfen 
+4 | Halbes Trefferpunktemaximum 
+5 | Bewegungsrate auf 0 reduziert 
+6 | Tod 
 
-Du erleidest den Effekt deiner aktuelle Erschöpfungsstufe, sowie aller niedrigeren Stufen.
-Eine lange Rast zu beenden reduziert deine Erschöpfungsstufe um 1, vorausgesetzt du hattest zu essen und zu trinken.
-Von den Toten erweckt zu werden, reduziert deine Erschöpfungsstufe um 1.
+Erleidet eine bereits erschöpfte Kreatur einen weiteren Effekt, der Erschöpfung verursacht, steigt die aktuelle Erschöpfungsstufe um den in der Beschreibung des Effekts angegebenen Wert. 
 
-*PHB, Seite 291.*
+Eine Kreatur erhält den Effekt ihrer aktuellen Erschöpfungsstufe sowie aller niedrigeren Stufen. Zum Beispiel hat eine Kreatur, die unter Erschöpfungsstufe 2 leidet, nur noch die halbe Bewegungsrate und ist bei Attributswürfen im Nachteil. 
 
-# Festgesetzt (Restrained)
-*Du bist festgesetzt*
+Ein Effekt, der Erschöpfung verringert, senkt die Stufe entsprechend der Beschreibung, und alle Erschöpfungseffekte enden, sobald die Erschöpfungsstufe einer Kreatur unter 1 sinkt. 
 
-Deine Geschwindigkeit ist 0 und du kannst nicht von Bonus auf deine Geschwindigkeit profitieren.
-Du bist bei Angriffen im Nachteil.
-Angriffe gegen dich sind im Vorteil.
-Du bist bei Geschicklichkeitsrettungswürrfen im Nachteil.
+Nach einer langen Rast sinkt die Erschöpfungsstufe einer Kreatur um 1, vorausgesetzt, sie hat auch etwas gegessen und getrunken.
 
-*PHB, Seite 290.*
+# Festgesetzt
+- Die Bewegungsrate einer festgesetzten Kreatur wird zu 0, und es kann kein Bonus auf die Bewegungsrate genutzt werden. 
+- Angriffswürfe gegen die Kreatur sind im Vorteil, die Angriffswürfe der Kreatur selbst im Nachteil. 
+- Die Kreatur ist bei Stärke- und Geschicklichkeitsrettungswürfen im Nachteil.
 
-# Gelähmt (Paralyzed)
-*Du kannst nichts tun*
+# Gelähmt
+- Eine gelähmte Kreatur ist kampfunfähig (siehe entsprechenden Zustand) und kann weder sich bewegen noch sprechen. 
+- Die Kreatur scheitert bei Stärke- und Geschicklichkeitsrettungswürfen automatisch. • Angriffswürfe gegen die Kreatur sind im Vorteil. 
+- Jeder Angriff, der die Kreatur trifft, ist ein kritischer Treffer, wenn sich der Angreifer im Abstand von bis zu 1,5 Metern um die Kreatur befindet.
 
-Du bist [[Zustände#Kampfunfähig (Incapacitated|Kampfunfähig]] und kannst dich weder bewegen noch sprechen.
-Angriffswürfe gegen dich sind im Vorteil.
-Jeder Angriff, der dich trifft, ist ein kritischer Treffer, wenn der Angreifer innerhalb von 5 Fuß von dir ist.
-Alle Stärke- oder Geschicklichkeitsrettungswürfe schlagen automatisch fehl.
+# Gepackt
+- Die Bewegungsrate einer gepackten Kreatur wird zu 0, und es kann kein Bonus auf die Bewegungsrate genutzt werden. 
+- Der Zustand endet, wenn die packende Kreatur kampfunfähig ist (siehe entsprechenden Zustand). 
+- Der Zustand endet auch, wenn ein Effekt die gepackte Kreatur aus der Reichweite der packenden Kreatur oder ihres packenden Effekts entfernt, etwa der Zauber Donnerwoge.
 
-*PHB, Seite 291.*
-# Gepackt (Grappled)
-*Du bist im Haltegriff*
+# Kampfunfähig
+- Eine kampfunfähige Kreatur kann weder Aktionen noch Reaktionen ausführen.
 
-Deine Geschwindigkeit ist 0 und du kannst nicht von Bonus auf deine Geschwindigkeit profitieren.
-Der Zustand endet, wenn der Haltende kampfunfähig wird.
-Der Zustand endet außerdem, wenn du aus der Reichweite des Haltenden entfernt wirst.
+# Liegend
+- Eine liegende Kreatur kann als einzige Bewegung kriechen, es sei denn, sie steht auf und beendet dadurch den Zustand. 
+- Die Kreatur ist bei Angriffswürfen im Nachteil. 
+- Jeder Angriffswurf gegen die Kreatur ist im Vorteil, wenn der Angreifer sich im Abstand von bis zu 1,5 Metern um die Kreatur befindet. Anderenfalls ist der Angriffswurf im Nachteil.
 
-*PHB, Seite 291.*
+# Taub
+- Eine taube Kreatur kann nichts hören und scheitert automatisch bei jedem Attributswurf, der Hören erfordert
 
-# Kampfunfähig (Incapacitated)
-Du kannst weder Aktionen noch Reaktionen ausführen
+# Unsichtbar
+- Eine unsichtbare Kreatur kann nicht ohne die Hilfe von Magie oder besonderen Sinnen gesehen werden. Um sich zu verstecken, wird die Kreatur komplett verschleiert. Die Position der Kreatur kann aus Geräuschen, die sie macht, oder Spuren, die sie hinterlässt, abgeleitet werden. 
+- Angriffswürfe gegen die Kreatur sind im Nachteil, die Angriffswürfe der Kreatur selbst im Vorteil.
 
-*PHB, Seite 291.*
+# Verängstigt
+- Eine verängstigte Kreatur ist bei Attributswürfen und Angriffswürfen im Nachteil, solange sich die Quelle ihrer Furcht in Sichtlinie befindet.
+- Die Kreatur kann sich nicht willentlich auf die Quelle ihrer Furcht zubewegen.
 
-# Liegend (Prone)
-*Du liegst*
+# Vergiftet
+- Eine vergiftete Kreatur ist bei Angriffs- und Attributswürfen im Nachteil.
 
-Deine einzige Bewegungsoption ist _Kriechen_, wenn du nicht aufstehst. Aufstehen kostet die Hälfte deiner Bewegungsreichweite.
-Du bist bei Angriffen im Nachteil.
-Angriffe gegen dich sind im Vorteil, wenn der Angreifer innerhalb von 5 Fuß von dir ist, anderenfalls sind sie im Nachteil.
-
-# Sterbend (Dying)
-*Du stirbst*
-
-Du bist [[Zustände#Bewusstlos (Unconscious)|Bewusstlos]], es sei denn, du hast auf einmal soviel Schaden erhalten, dass du auf 0 Trefferpunkte fällst und der überschüssige Schaden noch einmal mindestens so hoch wie dein Trefferpunkte-Maximum ist. In diesem Fall stirbst du sofort.
-Diese Bewusstlosigkeit endet, wenn du mindestens einen Trefferpunkt erhältst.
-Wenn du deinen Zug mit 0 Trefferpunkten beginnst, musst du einen Todesrettungswurf machen. Würfle einen W20. Ein Ergebnis von mindestens 10 ist ein Erfolg, darunter ein Misserfolg. Bei deinem dritten Erfolg bist du stabil. Bei deinem dritten Misserfolg stirbst du.
-Eine gewürfelte 1 wird als zwei Misserfolge gewertet. Bei einer gewürfelten 20 erhältst du sofort einen Trefferpunkt.
-Wenn du Schaden erleidest während du 0 Trefferpunkte hast, erleidest du einen Misserfolg. Bei einem kritischen Treffer, erleidest zu zwei Misserfolge.
-Angriffe gegen dich sind im Vorteil (siehe _bewusstlos_).
-Jeder Angriff, der dich trifft, ist ein kritischer Treffer, wenn der Angreifer innerhalb von 5 Fuß von dir ist (siehe _bewusstlos_).
-
-*PHB, Seite 197.*
-
-# Taub (Deafened)
-*Du kannst nicht hören*
-
-Du verlierst Fähigkeitswürfe die Hören benötigen automatisch.
-
-*PHB, Seite 292.*
-
-# Unsichtbar (Invisible)
-*Ohne die Hilfe von Magie oder speziellen Sinnen kannst du nicht gesehen werden*
-
-Du giltst als komplett verschleiert, wenn du versuchst dich zu verstecken.
-Du kannst immer noch durch Geräusche oder von dir hinterlassene Spuren entdeckt werden.
-Du hast Vorteil auf Angriffswürfe.
-Angriffswürfe gegen dich sind im Nachteil.
-
-*PHB, Seite 292.*
-
-# Verängstigt (Frightened)
-*Du hast Angst*
-
-Du bist bei Fähigkeitenproben und Angriffen im Nachteil, solange die Quelle deiner Angst für dich sichtbar ist.
-Du kannst dich nicht willentlich der Quelle deiner Angst nähern.
-
-*PHB, Seite 292.*
-
-# Vergiftet (Poisoned)
-*Du bist vergiftet*
-
-Du bist bei Fähigkeitswürfen und Angriffen im Nachteil.
-
-*PHB, Seite 292.*
-
-# Versteinert (Petrified)
-*Du bist, zusammen mit allen nicht-magischen Objekten die du trägst oder mitführst, in eine feste, unbewegliche Substanz (meistens Stein) verwandelt worden*
-
-Dein Gewicht verzehnfacht sich und du hörst auf zu altern.
-Du bist [[Zustände#Kampfunfähig (Incapacitated|Kampfunfähig]], kannst dich weder bewegen noch sprechen und nimmst deine Umgebung nicht mehr wahr.
-Angriffswürfe gegen dich sind im Vorteil.
-Alle Stärke- oder Geschicklichkeitsrettungswürfe schlagen automatisch fehl.
-Du bist gegen jeden Schaden resistent
-Du bist immun gegen Gifte und Krankheit, allerdings ist ein Gift, von dem du bereits betroffen bist, nur ruhend und nicht neutralisiert.
-
-*PHB, Seite 292.*
+# Versteinert
+- Eine versteinerte Kreatur wird zusammen mit nichtmagischer Ausrüstung, die sie trägt, in eine feste, unbewegliche Substanz verwandelt (normalerweise Stein). Ihr Gewicht steigt um den Faktor zehn und sie hört auf zu altern. 
+- Die Kreatur ist kampfunfähig (siehe entsprechenden Zustand), kann sich nicht bewegen oder sprechen und ist sich ihrer Umgebung nicht bewusst. 
+- Angriffswürfe gegen die Kreatur sind im Vorteil. 
+- Die Kreatur scheitert automatisch bei Rettungswürfen auf Stärke und Geschicklichkeit. • 
+- Die Kreatur ist gegen alle Schadensarten resistent. 
+- Die Kreatur ist gegen Gift und Krankheiten immun. Gifte und Krankheiten, die sich bereits in ihrem Körper befinden, werden jedoch nur pausiert, nicht neutralisiert.
