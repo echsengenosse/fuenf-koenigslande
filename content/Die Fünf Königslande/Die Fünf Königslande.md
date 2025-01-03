@@ -1,1 +1,0 @@
-Ein paar Informationen für euch.
