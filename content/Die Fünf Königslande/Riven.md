@@ -3,7 +3,7 @@ tags:
   - "#Charakter"
   - "#NPC"
 ausgesprochen: RIV-ven
-bild: z_Dateien/Bilder/Riven.png
+bild: content/z_Dateien/Bilder/Riven.png
 sprache:
   - Gemeinsprache
   - elfisch
