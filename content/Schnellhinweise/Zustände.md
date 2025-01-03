@@ -1,16 +1,150 @@
-# Bezaubert (Charmed)
-Charmed usually benefits the one who cast the spell, as a charmed target can't attack or target the charmer in any way. Plus, the charmer has advantage on social ability checks with the creature. This condition will usually last until the spell runs out, however it can be removed with the fifth level Greater Restoration spell.
-
 # Blind (Blinded)
-As the name suggests, a blinded creature is unable to see, meaning they cannot pass any ability check that requires sight. On top of that, the blinded creature has disadvantage on attack rolls, and anything attacking the blinded creature has advantage. While blindness can be caused by some spells, a more common example is when a species without darkvision enters a pitch-black area without light, which is why it's important to always being a torch along.
+*Du kannst nicht sehen*
 
-# Erschöpfung (Exhaustion)
-Exhaustion is slightly more complicated than other conditions, as it has levels of severity. There are six levels of exhaustion, with points being gained through abilities and environmental hazards. For example, going too long without eating and being out in cold weather without proper clothing will gain the creature a point of exhaustion.
+Du verlierst Fähigkeitswürfe die Sicht benötigen automatisch.
+Du hast Nachteil auf Angriffswürfe.
+Angriffswürfe gegen dich haben Vorteil.
 
-Level one gives disadvantage to ability checks. Two halves the creatures speed. Three gives disadvantage to attack rolls and saving throws. Four halves the creatures maximum hit points. Five reduces speed to zero. Finally, the sixth and final level causes death. Levels are reduced as the player counters the hazard, such as eating when starved or warming up by a fire after being out in the cold.
+*PHB, Seite 290.*
+
+# Betäubt (Paralyzed)
+*Du bist betäubt*
+
+Du bist [[Zustände#Kampfunfähig (Incapacitated|Kampfunfähig]], kannst dich nicht bewegen und nur stammelnd reden.
+Angriffe gegen dich sind im Vorteil.
+Stärke- oder Geschicklichkeitsrrettungswürfe schlagen automatisch fehl.
+
+*PHB, Seite 290.*
+
+# Bewusstlos (Unconscious)
+*Du bist bewusstlos*
+
+Du bist [[Zustände#Kampfunfähig (Incapacitated|Kampfunfähig]], kannst dich nicht bewegen und nimmst deine Umgebung nicht wahr.
+Du lässt fallen was du in Händen hältst und fällst hin.
+Angriffe gegen dich sind im Vorteil.
+Jeder Angriff, der dich trifft, ist ein kritischer Treffer, wenn der Angreifer innerhalb von 5 Fuß von dir ist.
+Stärke- oder Geschicklichkeitsrettungswürfe schlagen automatisch fehl.
+
+*PHB, Seite 290.*
+# Bezaubert (Charmed)
+*Du bist von einer anderen Kreatur bezaubert*
+
+Du kannst den Bezaubernden nicht angreifen oder als Ziel für verletzende Fähigkeiten oder magische Effekte wählen.
+Der Bezaubernde hat Vorteil auf Fähigkeitswürfe in sozialer Interaktion mit dir.
+
+*PHB, Seite 290.*
+
+# Erschöpfung
+Erschöpfung wird in sechs Stufen unterschieden:
+
+| Stufe | Effekt                                   |
+| ----- | ---------------------------------------- |
+| 1     | Nachteil auf Fähigkeitswürfe             |
+| 2     | Geschwindigkeit halbiert                 |
+| 3     | Nachteil auf Angriffs- und Rettungswürfe |
+| 4     | Trefferpunkte-Maximum halbiert           |
+| 5     | Geschwindigkeit auf 0 reduziert          |
+| 6     | Tod                                      |
+
+Du erleidest den Effekt deiner aktuelle Erschöpfungsstufe, sowie aller niedrigeren Stufen.
+Eine lange Rast zu beenden reduziert deine Erschöpfungsstufe um 1, vorausgesetzt du hattest zu essen und zu trinken.
+Von den Toten erweckt zu werden, reduziert deine Erschöpfungsstufe um 1.
+
+*PHB, Seite 291.*
+
+# Festgesetzt (Restrained)
+*Du bist festgesetzt*
+
+Deine Geschwindigkeit ist 0 und du kannst nicht von Bonus auf deine Geschwindigkeit profitieren.
+Du bist bei Angriffen im Nachteil.
+Angriffe gegen dich sind im Vorteil.
+Du bist bei Geschicklichkeitsrettungswürrfen im Nachteil.
+
+*PHB, Seite 290.*
+
+# Gelähmt (Paralyzed)
+*Du kannst nichts tun*
+
+Du bist [[Zustände#Kampfunfähig (Incapacitated|Kampfunfähig]] und kannst dich weder bewegen noch sprechen.
+Angriffswürfe gegen dich sind im Vorteil.
+Jeder Angriff, der dich trifft, ist ein kritischer Treffer, wenn der Angreifer innerhalb von 5 Fuß von dir ist.
+Alle Stärke- oder Geschicklichkeitsrettungswürfe schlagen automatisch fehl.
+
+*PHB, Seite 291.*
+# Gepackt (Grappled)
+*Du bist im Haltegriff*
+
+Deine Geschwindigkeit ist 0 und du kannst nicht von Bonus auf deine Geschwindigkeit profitieren.
+Der Zustand endet, wenn der Haltende kampfunfähig wird.
+Der Zustand endet außerdem, wenn du aus der Reichweite des Haltenden entfernt wirst.
+
+*PHB, Seite 291.*
+
+# Kampfunfähig (Incapacitated)
+Du kannst weder Aktionen noch Reaktionen ausführen
+
+*PHB, Seite 291.*
+
+# Liegend (Prone)
+*Du liegst*
+
+Deine einzige Bewegungsoption ist _Kriechen_, wenn du nicht aufstehst. Aufstehen kostet die Hälfte deiner Bewegungsreichweite.
+Du bist bei Angriffen im Nachteil.
+Angriffe gegen dich sind im Vorteil, wenn der Angreifer innerhalb von 5 Fuß von dir ist, anderenfalls sind sie im Nachteil.
+
+# Sterbend (Dying)
+*Du stirbst*
+
+Du bist [[Zustände#Bewusstlos (Unconscious)|Bewusstlos]], es sei denn, du hast auf einmal soviel Schaden erhalten, dass du auf 0 Trefferpunkte fällst und der überschüssige Schaden noch einmal mindestens so hoch wie dein Trefferpunkte-Maximum ist. In diesem Fall stirbst du sofort.
+Diese Bewusstlosigkeit endet, wenn du mindestens einen Trefferpunkt erhältst.
+Wenn du deinen Zug mit 0 Trefferpunkten beginnst, musst du einen Todesrettungswurf machen. Würfle einen W20. Ein Ergebnis von mindestens 10 ist ein Erfolg, darunter ein Misserfolg. Bei deinem dritten Erfolg bist du stabil. Bei deinem dritten Misserfolg stirbst du.
+Eine gewürfelte 1 wird als zwei Misserfolge gewertet. Bei einer gewürfelten 20 erhältst du sofort einen Trefferpunkt.
+Wenn du Schaden erleidest während du 0 Trefferpunkte hast, erleidest du einen Misserfolg. Bei einem kritischen Treffer, erleidest zu zwei Misserfolge.
+Angriffe gegen dich sind im Vorteil (siehe _bewusstlos_).
+Jeder Angriff, der dich trifft, ist ein kritischer Treffer, wenn der Angreifer innerhalb von 5 Fuß von dir ist (siehe _bewusstlos_).
+
+*PHB, Seite 197.*
 
 # Taub (Deafened)
-A creature who is deafened cannot hear any sound and will immediately fail any ability checks that require hearing. Usually, this condition will have a set duration from whatever spell or object caused it, or the creature will have to pass a Constitution saving throw to remove the effect.
+*Du kannst nicht hören*
+
+Du verlierst Fähigkeitswürfe die Hören benötigen automatisch.
+
+*PHB, Seite 292.*
+
+# Unsichtbar (Invisible)
+*Ohne die Hilfe von Magie oder speziellen Sinnen kannst du nicht gesehen werden*
+
+Du giltst als komplett verschleiert, wenn du versuchst dich zu verstecken.
+Du kannst immer noch durch Geräusche oder von dir hinterlassene Spuren entdeckt werden.
+Du hast Vorteil auf Angriffswürfe.
+Angriffswürfe gegen dich sind im Nachteil.
+
+*PHB, Seite 292.*
 
 # Verängstigt (Frightened)
-Being inflicted by the frightened condition means the creature is terrified by whatever caused it. Frightened gives the creature disadvantage on ability checks and attack rolls while the cause of fear is in their line of sight. Also, the creature cannot move closer to the source of its fear by choice. Depending on the specifics of the spell causing it, a frightened creature will usually have to succeed a constitution saving throw at the end of their turn to remove the effect.
+*Du hast Angst*
+
+Du bist bei Fähigkeitenproben und Angriffen im Nachteil, solange die Quelle deiner Angst für dich sichtbar ist.
+Du kannst dich nicht willentlich der Quelle deiner Angst nähern.
+
+*PHB, Seite 292.*
+
+# Vergiftet (Poisoned)
+*Du bist vergiftet*
+
+Du bist bei Fähigkeitswürfen und Angriffen im Nachteil.
+
+*PHB, Seite 292.*
+
+# Versteinert (Petrified)
+*Du bist, zusammen mit allen nicht-magischen Objekten die du trägst oder mitführst, in eine feste, unbewegliche Substanz (meistens Stein) verwandelt worden*
+
+Dein Gewicht verzehnfacht sich und du hörst auf zu altern.
+Du bist [[Zustände#Kampfunfähig (Incapacitated|Kampfunfähig]], kannst dich weder bewegen noch sprechen und nimmst deine Umgebung nicht mehr wahr.
+Angriffswürfe gegen dich sind im Vorteil.
+Alle Stärke- oder Geschicklichkeitsrettungswürfe schlagen automatisch fehl.
+Du bist gegen jeden Schaden resistent
+Du bist immun gegen Gifte und Krankheit, allerdings ist ein Gift, von dem du bereits betroffen bist, nur ruhend und nicht neutralisiert.
+
+*PHB, Seite 292.*
