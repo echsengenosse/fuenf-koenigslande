@@ -1,5 +1,7 @@
 ---
-title: Die Fünf Königslande
+title: Lena's D&D Welt
 ---
 
-Willkommen Reisende! Dies ist eine Info-Seite über die **Fünf Königslande**. Schaut immer mal wieder vorbei und entdeckt neue Erweiterungen!
+Willkommen!
+
+Hier findest du allerlei nützliche Informationen zu meiner [[Allgemeines|Spielwelt]], ihrer Geografie, Politik und vielem mehr. Außerdem gibt es ein paar nützliche Schnellreferenzen.
