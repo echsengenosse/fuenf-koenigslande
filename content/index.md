@@ -2,5 +2,4 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Willkommen Reisende! Dies ist eine Info-Seite über die **Fünf Königslande**. Schaut immer mal wieder vorbei und entdeckt neue Erweiterungen!
