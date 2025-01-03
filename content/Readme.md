@@ -1,1 +1,0 @@
-Lies diesen Text für ein paar besondere Informationen.
