@@ -1,6 +1,4 @@
-
-<img  src='https://i.pinimg.com/originals/83/a4/8f/83a48fb528841f53237acd9013a95f2d.jpg' 
- />
+![[83a48fb528841f53237acd9013a95f2d.jpg|350]]
 
 **Beschreibung:** 
 >Ein Halbelf in den mittleren bis späteren Jahren (Schätzungsweise 100-120) mit dunkelbraunen Haaren, Vollbart und grünen Augen. Er trägt einen langen, rotbraunen Mantel und eine Art Amulett um den Hals.

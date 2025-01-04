@@ -1,6 +1,5 @@
 
-<img  src='https://i.pinimg.com/originals/88/84/d2/8884d254e6bbad885e5f5be41c03abb7.png' 
- />
+![[8884d254e6bbad885e5f5be41c03abb7.png|350]]
 
 **Beschreibung:**
 >Ein Mensch in den 40ern. In den braunen Haaren sind erste Streifen grauen Haars zu sehen. Mehrere Narben durchziehen sein Gesicht und hinterlassen helle Streifen im dichten Bart. Er trägt eine Rüstung mit einem darüberliegenden roten, zerschlissenen Wappenrock. Das Wappen darauf ist ein Stierkopf umgeben von Sternen, sowie ein weiteres Wappen und mehrere Abzeichen. Zudem trägt er Schild, Schwert und einen finsteren Gesichtsausdruck.

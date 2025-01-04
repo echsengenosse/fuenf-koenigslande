@@ -1,6 +1,4 @@
-
-<img  src='https://cdna.artstation.com/p/assets/images/images/023/715/984/large/liana-shadyan-cleric.jpg?1580134546' 
- />
+![[liana-shadyan-cleric.jpg|350]]
 
 **Beschreibung:**
 >Eine weibliche Firbolg, schätzungsweise in den 30ern, mit roten Haaren, grünen Augen und unzähligen Narben im Gesicht und am Hals. Ihre Rüstung und ihre Waffen sind in einem überraschend tadellosem Zustand und jeder Fleck und jeder Kratzer wird mit äußerster Akribie entfernt.
