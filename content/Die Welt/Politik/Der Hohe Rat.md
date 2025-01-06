@@ -1,5 +1,6 @@
-Der Hohe Rat unterstützt den jeweiligen Herrscher, berät ihn in allen Angelegenheiten und übernimmt allerlei wichtige Aufgaben. Jedes Königreich hat seinen eigenen Rat, der aus den sogenannten **Ratsfürsten**, Vertretern der **Großmeister des Arkanen** und aus Vetretern der **Großmeister der Gilden und Zünfte** besteht.
-Bekannte Mitglieder:
+Der Hohe Rat unterstützt den jeweiligen Herrscher, berät ihn in allen Angelegenheiten und übernimmt verschiedene wichtige Aufgaben. Jedes Königreich hat seinen eigenen Rat, der aus den sogenannten **Ratsfürsten**, Vertretern der **Großmeister des Arkanen** und aus Vertretern der **Großmeister der Gilden und Zünfte** besteht.
+
+**Bekannte Mitglieder:**
 
 # Nairen
 ## Fürsten

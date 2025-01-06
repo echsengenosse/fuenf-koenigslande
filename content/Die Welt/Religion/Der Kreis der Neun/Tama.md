@@ -1,0 +1,2 @@
+_Gott der Elemente und der Natur_  
+Tama ist der Gott der Stürme, des Wetters und der Elemente. Er repräsentiert die rohe, ungezähmte Kraft der Natur und wird von jenen verehrt, die die wilden Kräfte der Erde und des Himmels beherrschen wollen.

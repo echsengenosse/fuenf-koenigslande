@@ -1,111 +1,103 @@
 ![[Militärabzeichen Fünf Königslande.png|500]]
 
-Jedes Königreich in den [[Fünf Königslande|Fünf Königslanden]] hat ein stehendes Heer, das dem obersten Herrscher untersteht. Die exakte Anrede für die jeweiligen Ränge weichen dabei regional ein wenig von einander ab.
-Nach dem Eintritt ins Militär verpflichtet man sich in der Regel zu einer Dienstzeit von min. 2 Jahren. 
+**Überblick über das Militärsystem in den Fünf Königslanden**
 
-Die Ränge sind in 3 Ebenen unterteilt. Die unterste Ebene bildet die **Mannschaft**. Sie macht den größten Teil des Heeres aus. Die mittlere Ebene bildet die **Offiziere**. Sie haben eine deutlich höhere Befehlsgewalt inne und ihnen unterstehen in der Regel bereits größere Gruppen von Soldaten. Die oberste Ebene bildet den **Militäradel**. Dieser ist nicht 1:1 mit dem regulären Adel gleichzusetzen. Lediglich regierende Adelige, die die Militärlaufbahn bis zum Offizier durchlaufen haben, dürfen offiziell die entsprechenden Rangabzeichen tragen. Sie sind in der Regel die obersten Anführer ihrer Armee, militärisch nur noch dem König unterstellt.
+Jedes Königreich in den [[Fünf Königslanden]] unterhält ein stehendes Heer, das dem jeweiligen Herrscher unterstellt ist. Die Anrede der militärischen Ränge variiert leicht je nach Region. Ein Militärdienstvertrag verpflichtet die Soldaten in der Regel zu einer Mindestdienstzeit von zwei Jahren.
 
-# Mannschaft
-## Anwärter
-![[0.1 Militärabzeichen Anwärter 1.png|100]]
+Das Militärsystem ist in drei Ebenen unterteilt:
 
-Als **Anwärter** werden alle jungen Männer und Frauen bezeichnet, die sich in den ersten 4 Wochen ihrer Ausbildung befinden. Während dieser Zeit werden sie auf ihre Tauglichkeit für den Militärdienst getestet und ihre Fähigkeiten werden auf den selben Stand gebracht. Junge Erwachsene aus adeligem Haus überspringen diesen Grad häufig, da sie die erforderlichen Fähigkeiten bereits mitbringen.
+- **Mannschaft**: Die Basis des Militärs.
+- **Offiziere**: Personen mit höheren Befehlsgewalt, die größere Gruppen von Soldaten führen.
+- **Militäradel**: Adelige, die die höchsten militärischen Führungspositionen innehaben, jedoch nicht direkt mit dem normalen Adel gleichzusetzen sind.
 
-## Rekrut
-![[0.2 Militärabzeichen Rekrut.png|100]]
+---
 
-Erst ab diesem Grad gilt man offiziell als Teil des Militärs. Mit dem Rang des **Rekruten** beginnt die eigentliche Grundausbildung in allen notwendigen Disziplinen. Die Dienstzeit als Rekrut beläuft sich in der Regel auf 3 Monate.
+### **Mannschaft**
 
-## Soldat
-![[0.3 Militärabzeichen Soldat.png|100]]
+#### **Anwärter**
 
-**Soldaten** machen die größten Teil des Militärs aus. Alle, die die Grundausbildung erfolgreich abgeschlossen haben, gelten als Soldaten. Zu ihnen zählen sowohl die Infanteristen als auch die Kavalleristen. Die Dienstzeit eines Soldaten beläuft sich in der Regel auf 22 Monate, wobei eine Beförderung in höhere Ränge ab 13 Monaten Gesamtdienstzeit (Einschließlich Zeit als Rekrut) möglich ist. 
+![[0.1 Militärabzeichen Anwärter 1.png|100]]  
+Anwärter sind junge Männer und Frauen, die sich in den ersten vier Wochen ihrer militärischen Ausbildung befinden. Diese Zeit dient dazu, ihre Tauglichkeit zu testen und ihre Fähigkeiten auf das erforderliche Niveau zu bringen. Adelige überspringen diesen Grad oft, da sie die nötigen Fähigkeiten bereits haben.
 
-## Spezialist
-![[0.4 Militärabzeichen Spezialist.png|100]]
+#### **Rekrut**
 
-**Spezialisten** sind eine besondere Untergruppe der Soldaten. Sie zeichnen sich durch besondere Fähigkeiten in notwendigen Bereichen des Militärs aus. Sie unterteilen sich in verschiedene Unterkategorien:
-- Aufklärer
-- Gardisten
-- Handwerker
-- Jäger
-- Köche
-- Sanitäter
-- Schützen
-- Techniker
+![[0.2 Militärabzeichen Rekrut.png|100]]  
+Rekruten sind die Soldaten in der ersten Phase ihrer Grundausbildung, die in allen militärisch notwendigen Disziplinen geschult werden. Der Rekrutendienst dauert in der Regel 3 Monate.
 
-Man kann durch Aufzeigen besonderer Talente während der Ausbildung nach Abschluss der Grundausbildung für einen dieser Bereiche ausgewählt werden oder aber man bringt bereits Berufserfahrung o.ä. grade in den handwerklichen Disziplinen mit.
-Ein Spezialist ist einem Soldaten nur in seinem Spezialgebiet weisungsbefugt. Ihm untersteht aber in der Regel ein Trupp Soldaten, der ihn bei seinen Tätigkeiten unterstützt.
+#### **Soldat**
 
-## Truppenführer
-![[0.5 Militärabzeichen Truppenführer.png|100]]
+![[0.3 Militärabzeichen Soldat.png|100]]  
+Soldaten stellen den Großteil des Heeres. Sie haben die Grundausbildung abgeschlossen und sind für den Militärdienst geeignet. Ihre Dienstzeit dauert in der Regel 22 Monate, wobei eine Beförderung nach etwa 13 Monaten möglich ist.
 
-Bei den **Truppenführern** handelt es sich um Soldaten, die während ihrer Dienstzeit besondere Fähigkeiten im Anführen von Gruppen und Ausführen von Aufträgen erwiesen haben. Ihnen wird damit eine permanente Führungsposition, und damit das Kommando über bis zu 60 Soldaten, verliehen. Der Grad des Truppenführers ist in der Regel der höchste Grad, den ein Soldat ohne adeligen Hintergrund in seinen 2 Jahren Pflichtzeit erreicht.
+#### **Spezialist**
 
-# Offiziere
-Offiziere machen den gehobenen Dienst des Militärs aus. Ihnen fällt der Großteil der Verwaltung und Versorgung der Truppen im Auftrag des Adels zu. Außerdem sind sie Teil der taktischen und strategischen Entscheidungen im Auftragsfall.
+![[0.4 Militärabzeichen Spezialist.png|100]]  
+Spezialisten sind Soldaten, die besondere Fähigkeiten in spezifischen Bereichen wie Aufklärung, Handwerk, Sanität oder Technik besitzen. Sie führen eine spezielle Aufgabe aus, aber in der Regel unterstehen ihnen Truppen von Soldaten.
 
-## Ausbilder
-![[1.1 Militärabzeichen Ausbilder.png|100]]
+#### **Truppenführer**
 
-Dieser Rang wird in den unterschiedlichen Armeen unterschiedlich betitelt. Personen mit dem Rang **Ausbilder** sind in erster Linie für die Ausbildung der Anwärter und Rekruten zuständig. Dieser Rang ist oftmals der erste Schritt in eine gehobene militärische Laufbahn und setzt eine Dienstzeit von min. 18 Monaten (ohne Zeit als Rekrut) voraus.
+![[0.5 Militärabzeichen Truppenführer.png|100]]  
+Truppenführer sind Soldaten, die sich besonders in Führungsrollen hervorgetan haben und nun Gruppen von bis zu 60 Soldaten führen. Dieser Rang ist der höchste, den ein Soldat ohne adeligen Hintergrund erreichen kann.
 
-## Leutnant
-![[1.2 Militärabzeichen Leutnant.png|100]]
+---
 
-Der **Leutnant** ist für die Verwaltung und Verteilung von bis zu 150 Soldaten zuständig. Er verteilt die Aufträge an die Gruppen und sieht zu, dass alle Aufgaben ordnungsgemäß erledigt werden. Die Position als Leutnant setzt eine Dienstzeit von min. 26 Monaten (ohne Zeit als Rekrut) voraus.
+### **Offiziere**
 
-## Hauptmann
-![[1.3 Militärabzeichen Hauptmann.png|100]]
+#### **Ausbilder**
 
-Der **Hauptmann** ist für bis zu 300 Soldaten zuständig. Er kann Spezialaufträge und Sonderkommandos erteilen. Die Position als Hauptmann setzt eine Dienstzeit von min. 7 Monaten als Leutnant voraus. Dies ist in der Regel der höchste Rang den eine Person ohne adeligen Hintergrund erreicht.
+![[1.1 Militärabzeichen Ausbilder.png|100]]  
+Ausbilder sind für die Grundausbildung der Rekruten verantwortlich. Dieser Rang erfordert in der Regel eine Dienstzeit von mindestens 18 Monaten und ist oft der erste Schritt in eine höhere militärische Laufbahn.
 
-## Offizier
-![[1.4 Militärabzeichen Offizier.png|100]]
+#### **Leutnant**
 
-Der Rang des **Offiziers** ähnelt dem des Spezialisten. Offiziere sind für bestimmte Unterkategorien verantwortlich. Dazu gehören:
-- Ausrüstungsoffizier (in großen Armeen wird die Position noch vom Ressourcenoffizier unterschieden)
-- Infanterieoffizier
-- Heilungsoffizier (Arzt)
-- Kavallerieoffizier
-- Versorgungsoffizier
-- Verwaltungsoffizier
+![[1.2 Militärabzeichen Leutnant.png|100]]  
+Leutnanten führen bis zu 150 Soldaten und sind dafür verantwortlich, Aufträge an ihre Gruppen zu erteilen. Die Dienstzeit als Leutnant beträgt mindestens 26 Monate.
 
-Offiziere sorgen für die notwendige Ausstattung ihrer Spezialbereiche, für die entsprechende Finanzplanung und so weiter.
+#### **Hauptmann**
 
-## Kommandant
-![[1.5 Militärabzeichen Kommandant.png|100]]
+![[1.3 Militärabzeichen Hauptmann.png|100]]  
+Hauptmänner führen bis zu 300 Soldaten und können auch Sonderaufträge und Kommandos erteilen. Dieser Rang erfordert in der Regel mindestens 7 Monate Dienstzeit als Leutnant.
 
-**Kommandanten** sind in der Regel nicht regierende Adelige mit langer militärischer Erfahrung. Sie sind für bis zu 5.000 Soldaten zuständig (zumeist besteht ein Kommando aber aus 1.000-3.000 Soldaten) und tragen damit die Verantwortung für einen signifikanten Teil der Armee.
+#### **Offizier**
 
-# Adel
-Alle Adeligen eines Königreiches sind verpflichtet dem König im Ernstfall schnell militärische Unterstützung zukommen zu lassen. Fürsten und Herzöge stellen dabei zumeist eine eigene Armee, während Ritter, Barone und Grafen kleinere Einheiten zur Verfügung stellen.
-Solange keine kriegerischen Auseinandersetzungen herrschen sind die Adeligen und ihre Soldaten für alles Mögliche zuständig. Darunter fällt die Sicherung der Königswege, die Unterstützung von Stadtwachen, Begleitschutz für königliche Karawanen uvm.
+![[1.4 Militärabzeichen Offizier.png|100]]  
+Offiziere sind für bestimmte Spezialgebiete innerhalb des Militärs zuständig, wie z.B. Infanterie, Kavallerie, Sanität oder Versorgung. Sie tragen Verantwortung für die Ressourcen und die strategische Planung in ihrem Bereich.
 
-## Ritter
-![[2.1 Militärabzeichen Ritter.png|100]]
+#### **Kommandant**
 
-Als niedrigster Adelsstand, der oftmals ohne große Ländereien daher kommt, sind **Ritter** lediglich zu der Bereitstellung von 25 Soldaten im Kriegsfall verpflichtet. Außerhalb von Kriegszeiten sind Ritter von dieser Pflicht befreit. Sie übernehmen dafür aber häufig die oberste militärische Leitung eines Teils einer Armee eines höheren Adeligen in dessen Abwesenheit.
+![[1.5 Militärabzeichen Kommandant.png|100]]  
+Kommandanten führen große militärische Einheiten, in der Regel zwischen 1.000 und 3.000 Soldaten. Sie sind in der Regel hochrangige, erfahrene Offiziere und tragen eine signifikante Verantwortung.
 
-## Baron
-![[2.2 Militärabzeichen Baron.png|100]]
+---
 
-**Barone** sind zu der Bereitstellung von ca. 50 Soldaten (die Zahl schwankt je nach Größe der Baronie) verpflichtet. Sie könnten diese Anzahl selbst verwalten, geben sie jedoch in der Regel an höhere Adelige ab.
+### **Adel**
 
-## Graf
-![[2.3 Militärabzeichen Graf.png|100]]
+Der Adel eines Königreiches ist verpflichtet, dem Herrscher im Kriegsfall militärische Unterstützung zu leisten. Fürsten, Herzöge und andere Adelige stellen eine eigene Armee oder kleinere Einheiten zur Verfügung. In Friedenszeiten übernehmen sie Aufgaben wie die Sicherung von Königswegen oder die Begleitung königlicher Karawanen.
 
-**Grafen** sind zu der Bereitstellung von ca. 100 Soldaten (die Zahl schwankt je nach Größe der Grafschaft) verpflichtet. Sie könnten diese Anzahl selbst verwalten, geben sie jedoch in der Regel an höhere Adelige ab.
+#### **Ritter**
 
-## Fürst
-![[2.4 Militärabzeichen Fürst.png|100]]
+![[2.1 Militärabzeichen Ritter.png|100]]  
+Ritter sind verpflichtet, im Kriegsfall etwa 25 Soldaten zu stellen. Sie übernehmen oft die Leitung von Truppenteilen in Abwesenheit höherer Adliger.
 
-**Fürsten** sind zu der Bereitstellung von ca. 500 Soldaten (die Zahl schwankt je nach Größe des Fürstentums) verpflichtet. Sie könnten diese Anzahl selbst verwalten.
+#### **Baron**
 
-## Herzog
-![[2.5 Militärabzeichen Herzog.png|100]]
+![[2.2 Militärabzeichen Baron.png|100]]  
+Barone stellen ca. 50 Soldaten zur Verfügung, verwalten diese jedoch meist durch höhere Adelige.
 
-**Herzöge** sind zu der Bereitstellung von ca. 1.000 Soldaten (die Zahl schwankt je nach Größe der Baronie) verpflichtet. 
+#### **Graf**
+
+![[2.3 Militärabzeichen Graf.png|100]]  
+Grafen stellen ca. 100 Soldaten bereit. Diese Zahl kann variieren, abhängig von der Größe der Grafschaft. Auch sie übergeben die Verwaltung in der Regel an höhergestellte Adelige.
+
+#### **Fürst**
+
+![[2.4 Militärabzeichen Fürst.png|100]]  
+Fürsten stellen etwa 500 Soldaten zur Verfügung und verwalten diese oft selbst.
+
+#### **Herzog**
+
+![[2.5 Militärabzeichen Herzog.png|100]]  
+Herzöge stellen etwa 1.000 Soldaten zur Verfügung und haben damit die größte Armee innerhalb der Adelsschicht.
 
 # Teileinheiten
 | Name      | Truppenstärke | Unterstellte Truppenteile | Führung                               |

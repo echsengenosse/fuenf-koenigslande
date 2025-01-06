@@ -1,0 +1,2 @@
+_Göttin des Krieges und des Handwerks_  
+Iria war eine tapfere Kriegerin und Schmiedin, die in der Schlacht und beim Schmieden von Waffen gleichermaßen glänzte. Sie ist eine Göttin des Schutzes und der Stärke.

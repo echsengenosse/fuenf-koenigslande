@@ -3,11 +3,11 @@
 
 *Jaylynn/Maria heute*
 
-**Beschreibung:**
->Eine menschliche Frau Anfang/Mitte 30 mit dunklen Haaren und hellen Augen. Sie trägt meistens einfache, dunkle Kleidung.
+**Beschreibung:**  
+Eine menschliche Frau Anfang/Mitte 30, mit dunklen Haaren und hellen Augen. Sie trägt meistens einfache, dunkle Kleidung.
 
-Jaylynn kann sich nur an die letzten 5 Jahre ihres Lebens erinnern. Ihre Erinnerungen beginnen damit, dass sie in einem feuchten, dunklen Grab aufgewacht ist. Sie hat sich befreit und ist von dort abgehauen.
-Im [[Eiswindtal]] hat sie dann [[Finnley Lost]], der ihr erklärte, dass sie wahrscheinlich Maria, Morris verstorbene Frau, ist.
+Jaylynn kann sich nur an die letzten fünf Jahre ihres Lebens erinnern. Ihre Erinnerungen beginnen damit, dass sie in einem feuchten, dunklen Grab aufgewacht ist. Sie hat sich befreit und ist von dort geflohen.  
+Im [[Eiswindtal]] traf sie dann [[Finnley Lost]], der ihr erklärte, dass sie vermutlich Maria, Morris' verstorbene Frau, ist.
 
 ![[16211941468242340189513716136014.jpg|350]]
 *Maria in Morris Erinnerung*

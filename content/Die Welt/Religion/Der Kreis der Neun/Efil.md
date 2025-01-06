@@ -1,0 +1,2 @@
+_Gott des Lichts und der Tugend_  
+Efil war ein tapferer Krieger, der sich immer für das Gute und die Ordnung einsetzte. Er stand immer an der Seite der Unschuldigen und kämpfte für die Reinheit des Herzens und die Tugenden des Lebens.

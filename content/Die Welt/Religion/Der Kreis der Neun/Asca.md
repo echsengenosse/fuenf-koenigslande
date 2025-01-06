@@ -1,0 +1,2 @@
+_Göttin der Magie, Liebe und des Schicksals_  
+Sie war einst eine weise Magierin und wurde für ihren Mut und ihre Entschlossenheit im Angesicht von Dunkelheit und Chaos belohnt. Asca verkörpert die Bedeutung von Wissen und Liebe sowie die Kräfte, die das Schicksal lenken.

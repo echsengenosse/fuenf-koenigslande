@@ -1,0 +1,2 @@
+_Göttin der Jagd und Tiere_  
+Rhey war eine Meisterin der Jagd und war mit Tieren und Natur in tiefer Verbindung. Sie ist die Göttin, die in den Tiefen der Wildnis lebt und jene beschützt, die sich den Gesetzen der Natur beugen.
