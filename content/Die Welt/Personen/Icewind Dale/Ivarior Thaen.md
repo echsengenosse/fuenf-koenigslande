@@ -1,13 +1,40 @@
 ![[r7kjanz8fr361.jpg|350]]
+# Allgemeine Infos
+- **Vollständiger Name:** Ivarior "Ivar" Thaen
+- **Volk:** Elf (Drow)
+- **Geschlecht:** männlich
+- **Alter:** um die 300
+- **Beruf:** Abenturer
+- **Herkunft:** unbekannt
+- **Aufenthaltsort:** [[Ythryn]]
+- **Status:** lebendig
 
-**Beschreibung:**  
-Ein Drow, vermutlich um die 300 Jahre alt, mit wilden weißen Haaren und roten Augen. Sein Gesicht und seine Arme sind von Narben überzogen – von feinen, geraden Linien bis hin zu Wunden, die wie Bissspuren aussehen. Doch das Auffälligste sind die goldenen Armreifen und der goldene Halsreif mit acht roten Edelsteinen. Diese passen nicht recht zu seiner sonst eher einfachen Kleidung und Ausrüstung.
+# Aussehen
+- **Haarfarbe:** weiß
+- **Augenfarbe:** rot
+- **Statur:** sportlich muskulös
+- **Besonderheiten:** übersäht mit unterschiedlichsten Narben (von Bissspuren bis hin zu fein säuberlichen graden Linien). Außerdem trägt er goldene Armreifen und einen Halsring, in den rote Edelsteine eingelassen sind - deutliche Zeichen eines Sklaven mit hohem Rang,
 
-Unter den goldenen Ringen ist vernarbte Haut zu sehen, ein Zeichen dafür, dass er die Spuren der Sklaverei schon lange trägt.  
-Er ist stumm, man hat ihm die Zunge herausgeschnitten.
+# Persönlichkeit
+- **Charaktereigenschaften:**
+	- loyal
+	- immer ein schiefes Grinsen im Gesicht
+	- kindlicher Sinn für Unfug
+- **Ziele:** unbekannt
+# Fähigkeiten
+- **Kampffähigkeiten:** Schurke
+- **Magische Fähigkeiten:** unbekannt
 
-**Charakterzüge:**
+# Wichtige Beziehungen
+- **Verbündete:** [[Finnley Lost]], [[Jaylynn]], [[Kephalos M'nark]], [[Silia]], [[Yash Baravel]]
+- **Feinde:** [[Mawen]]
 
-- loyal
-- immer ein schiefes Grinsen im Gesicht
-- kindlicher Sinn für Unfug
+# Hintergrund
+Über Ivars Hintergrund ist nicht viel bekannt. [[Mawen]] nannte ihn einen **Geheimnisträger** und erklärte, dass er wahrscheinlich nicht mit Erlaubnis seiner Herrin unterwegs sei.
+[[Finnley Lost]], [[Kephalos M'nark]] und [[Yash Baravel]] gabelt ihn im **Grat der Welt** auf, wo er grade im Kampf mit einem Monster war und zu verlieren schien. Finn hat ihm das Leben gerettet und daraufhin hat Ivar sich den dreien angeschlossen.
+
+# Sonstiges
+Ivarior kann nicht sprechen. Ihm wurde die Zunge rausgeschnitten. Er kann aber durch Zeichensprache und Schrift kommunizieren.
+
+___
+**Spieler:innen Notizen:**

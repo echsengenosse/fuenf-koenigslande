@@ -1,7 +1,7 @@
 [Bild]
 # Allgemeine Infos
-- **Vollständiger Name:** Rodan Turnoroth
-- **Volk:** Dragonborn (schwarz)
+- **Vollständiger Name:** 
+- **Volk:** 
 - **Geschlecht:** 
 - **Alter:** 
 - **Beruf:** 
