@@ -1,25 +1,35 @@
-Vadian ist das westliche Königreich und entsprechend auch unter dem Namen **Westreich** bekannt.
+# Allgemeine Infos
+>- **Name des Königreichs:** Vadian
+>- **Alias:** 
+>- **Hauptstadt:** [[Thorwacht]]
+>- **Herrscher_in:** [[Lady Ninra]] "die Unbeugsame"
+>- **Gründung:** 2247 HM / 0 DF
+>- **Bevölkerung:** ca. 830 Tsd.
+>- **Kontinent:** [[Fünf Königslande]]
 
-# Herrscher:in
+# Geografie
+>- **Landschaft:** 
+>- **Wichtige Städte:** 
+>- **Ressourcen:** 
 
-**Lady Ninra "die Unbeugsame" von Samil**
+# Gesellschaft
+>- **Bevölkerung:** 
+>- **Kultur:** 
+>- **Religionen:** 
 
-# Hauptstadt
-[[Thorwacht]]
+# Politik
+>- **Herrschaftsform:** 
+>- **Regierung:** 
+>- **Ziele:** Magie und Forschung
+>- **Verhältnis zu anderen Reichen:** 
 
-# Ziele
-*Magie und Forschung*
-
-# Beziehungen
-
-# Wichtige Personen
-
-## Lord Varadan Benjar Thorinstein (kurz Varrn)
+## Wichtige Personen
+### Lord Varadan Benjar Thorinstein (kurz Varrn)
 Geschwister: Kaleb (36 †), Sarim (31), Sali (31), Tira (29), Zuri (27), Miron (24) und Eirie (19)
 Kinder: Scarlett und Simeon
 
-## Lady Eleanor Thorinstein von Samil
+### Lady Eleanor Thorinstein von Samil
 Ehefrau von Varrn und jüngere Schwester von Ninra
 
-## Herzog Erdrin Hohenthal von Jusann
+### Herzog Erdrin Hohenthal von Jusann
 Frau Cileha, Kinder Nakin, Talla und Thubin

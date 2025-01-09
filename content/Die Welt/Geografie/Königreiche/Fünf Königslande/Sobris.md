@@ -1,15 +1,34 @@
-Sobris ist das südwestliche Königreich und entsprechend auch unter dem Namen **westliche Süderlande** bekannt.
+# Allgemeine Infos
+>- **Name des Königreichs:** Sobris
+>- **Alias:** 
+>- **Hauptstadt:** [[Rarock]]
+>- **Herrscher_in:** [[König Miron]] "der Schöne"
+>- **Gründung:** 2247 HM / 0 DF
+>- **Bevölkerung:** ca. 1,3 Mio.
+>- **Kontinent:** [[Fünf Königslande]]
 
-# Herrscher:in
+# Geografie
+>- **Landschaft:** 
+>- **Wichtige Städte:** 
+>- **Ressourcen:** 
 
-**König Miron "der Schöne" von Irso**
+# Gesellschaft
+>- **Bevölkerung:** 
+>- **Kultur:** 
+>- **Religionen:** 
 
-# Hauptstadt
-[[Rarock]]
-
-# Ziele
-
-## Beziehungen
-
+# Politik
+>- **Herrschaftsform:** 
+>- **Regierung:** 
+>- **Ziele:** 
+>- **Verhältnis zu anderen Reichen:** 
 
 ## Wichtige Personen
+
+
+# Geschichte
+
+
+# Sonstiges
+
+

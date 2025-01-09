@@ -23,6 +23,8 @@
 >- **Ziele:** 
 >- **Verhältnis zu anderen Reichen:** 
 
+## Wichtige Personen
+
 
 # Geschichte
 

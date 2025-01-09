@@ -1,25 +1,43 @@
-Orandir ist das östliche Königreich und entsprechend auch einfach als **Ostreich** bekannt.
+# Allgemeine Infos
+>- **Name des Königreichs:** Oradir
+>- **Alias:** Ostreich
+>- **Hauptstadt:** [[Forlion]]
+>- **Herrscher_in:** [[König Larcon]] "der Große"
+>- **Gründung:** 2247 HM / 0 DF
+>- **Bevölkerung:** ca. 970 Tsd.
+>- **Kontinent:** [[Fünf Königslande]]
 
-# Herrscher:in
+# Geografie
+>- **Landschaft:** 
+>- **Wichtige Städte:** 
+>- **Ressourcen:** 
 
-**König Larcon "der Schöne" von [[Hohenheim]]**
+# Gesellschaft
+>- **Bevölkerung:** 
+>- **Kultur:** 
+>- **Religionen:** 
 
-# Hauptstadt
-[[Forlion]]
+# Politik
+>- **Herrschaftsform:** 
+>- **Regierung:** [[König Larcon]] und der Hohe Rat von Orandir
+>- **Ziele:** 
+>- **Verhältnis zu anderen Reichen:** 
 
-# Ziele
+## Wichtige Personen
+### Annai von Thas
+
+### Erleas von Treuchtlingen
+
+### Leodan von Finsterwald
+
+### Prinz Teljen Arethar Miran von Gendar-Hohenheim
+
+### Großmeister Albinean
 
 
-# Beziehungen
+# Geschichte
 
 
-# Wichtige Personen
-## Annai von Thas
+# Sonstiges
 
-## Erleas von Treuchtlingen
 
-## Leodan von Finsterwald
-
-## Prinz Teljen Arethar Miran von Gendar-Hohenheim
-
-## Großmeister Albinean
