@@ -1,5 +1,7 @@
 >**Alias:** 
+>
 >**Domäne:** 
+>
 >**Gesinnung:** 
 # Allgemeines
 
