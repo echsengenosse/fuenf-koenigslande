@@ -40,5 +40,8 @@ Er wurde zusammen mit [[Yash Baravel]] von [[Finnley Lost]] in [[Thorwacht]] ang
 ___
 **Spieler:innen Notizen:**
 
-
-
+- Mönch, Pfad des langen Todes. 
+- Kann sich heilen, indem er Leute umhaut. 
+- stammt aus [[Phaeros]] (anderer Kontinent). 
+	- Ist dort rausgeflogen, nachdem Leute ihn eines Verbrechens beschuldigt haben (laut Kephalos zu unrecht, die mochten ihn einfach nicht). 
+- Freibeuter.
