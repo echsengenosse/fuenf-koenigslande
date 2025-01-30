@@ -1,13 +1,13 @@
 # Herkunft
 Dungeons and Dragons bietet eine bunte Welt voller unterschiedlicher Völker. Viele davon können laut den offiziellen Regeln von Wizards of the Coast auch von Spieler:innen gewählt und gespielt werden. In meiner Vorstellung von meiner Welt gibt es jedoch bestimmte Gebiete, in denen manche Völker häufiger sind als andere, und in gewissen Gebieten würde das Spielen einiger dieser Völker zu Problemen führen, die in gewissen Arten von Kampagnen nicht erwünscht sind oder die meiner Meinung nach dort nicht hinein passen.
 
-Die Spalte "Herkunft" bezieht sich auf die Orte in meiner Welt, an denen das Volk am häufigsten vorkommt. Nur weil die meisten Elfen ihre Wurzeln in [[Paeth]] haben, heißt das nicht, dass man nicht auch eine Elfe spielen kann, die aus [[Corvur]] stammt.
+Die Spalte "Herkunft" bezieht sich auf die Orte in meiner Welt, an denen das Volk am häufigsten vorkommt. Nur weil die meisten Elfen ihre Wurzeln in [[Paeyth]] haben, heißt das nicht, dass man nicht auch eine Elfe spielen kann, die aus [[Corvur]] stammt.
 
 Die Spalte mit "Spielervolk" bezieht sich auf meine Welt. Völker, bei denen in dieser Spalte **ja** steht, können in den meisten Fällen ungefragt verwendet werden. Völker, bei denen **bedingt** steht, erfordern eine vorherige Absprache mit dem/der SL. Völker, bei denen **nein** steht, können in der Regel nicht als Spielervolk gewählt werden (Fragen kostet im Zweifel aber nichts. Manchmal ändert sich meine Meinung auch).
 
 | Volk                            | Herkunft                                | Spielervolk | Häufigkeit  |
 | :------------------------------ | :-------------------------------------- | :---------- | ----------- |
-| ==**Standard Völker**==         |                                         |             |             |
+| ==**STANDARD VÖLKER**==         |                                         |             |             |
 | **Elfen**                       | [[Paeyth]]                              | ja          | sehr häufig |
 | -Drow                           | [[Underdark]]                           | bedingt     | selten      |
 | **Zwerge**                      | [[Durglyn]]                             | ja          | sehr häufig |
@@ -15,7 +15,7 @@ Die Spalte mit "Spielervolk" bezieht sich auf meine Welt. Völker, bei denen in 
 | **Menschen**                    | überall                                 | ja          | sehr häufig |
 | **Halbelfen**                   | überall                                 | ja          | sehr häufig |
 |                                 |                                         |             |             |
-| ==**Seltene Standard Völker**== |                                         |             |             |
+| ==**SELTENE STANDARD VÖLKER**== |                                         |             |             |
 | **Aasimar**                     | [[Krisbayne]] (als heilig verehrt)      | ja          | selten      |
 | **Dragonborn**                  | [[Dracheninseln]]                       | ja          | mäßig       |
 | **Gnom**                        | [[Fünf Königslande]] / [[Corvur]]       | ja          | häufig      |
@@ -25,18 +25,18 @@ Die Spalte mit "Spielervolk" bezieht sich auf meine Welt. Völker, bei denen in 
 | **Halbling**                    | [[Yashad]] ([[Corvur]])                 | ja          | sehr häufig |
 | **Tiefling**                    | [[Neun Höllen]] / überall               | ja          | mäßig       |
 |                                 |                                         |             |             |
-| ==**Exotische Völker**==        |                                         |             |             |
+| ==**EXOTISCHE VÖLKER**==        |                                         |             |             |
 | **Firbolg**                     | [[Paeyth]] / [[Fünf Königslande]]       | ja          | selten      |
 | **Genasi**                      | [[Paeyth]]                              | ja          | selten      |
 | **Goliath**                     | überall wo es Gebirge gibt              | bedingt     | selten      |
 | **Triton**                      | Meer                                    | nein        | sehr selten |
 |                                 |                                         |             |             |
-| ==**Vogelvölker**==             |                                         |             |             |
+| ==**VOGELVÖLKER**==             |                                         |             |             |
 | **Aarakocra**                   | [[Khurat-Inseln]]                       | bedingt     | selten      |
 | **Kenku**                       | [[Khurat-Inseln]]                       | bedingt     | selten      |
 | **Owlin**                       | [[Khurat-Inseln]]                       | bedingt     | sehr selten |
 |                                 |                                         |             |             |
-| ==**Feen**==                    |                                         |             |             |
+| ==**FEEN**==                    |                                         |             |             |
 | **Eladrin**                     | [[Feywild]]                             | nein        | sehr selten |
 | **Feen**                        | [[Feywild]]                             | nein        | sehr selten |
 | **Harengon**                    | [[Feywild]]                             | nein        | sehr selten |
@@ -45,7 +45,7 @@ Die Spalte mit "Spielervolk" bezieht sich auf meine Welt. Völker, bei denen in 
 | **Tabaxi**                      | [[Zhuresh]]                             | bedingt     | selten      |
 | -Leonin                         | [[Zhuresh]]                             | bedingt     | sehr selten |
 |                                 |                                         |             |             |
-| ==**Monster Völker**==          |                                         |             |             |
+| ==**MONSTER VÖLKER**==          |                                         |             |             |
 | **Bugbear**                     | [[Rheknos]]                             | nein        | mäßig       |
 | **Centaur**                     | [[Rheknos]]                             | nein        | sehr selten |
 | **Echsenmenschen**              | [[Rheknos]] / eigene Insel              | nein        | selten      |
@@ -58,7 +58,7 @@ Die Spalte mit "Spielervolk" bezieht sich auf meine Welt. Völker, bei denen in 
 | **Ork**                         | [[Rheknos]]                             | nein        | mäßig       |
 | **Yuan-ti**                     | [[Henand]] (Inseln südlich von Rheknos) | nein        | sehr selten |
 |                                 |                                         |             |             |
-| ==**Spezial Völker**==          |                                         |             |             |
+| ==**SPEZIAL VÖLKER**==          |                                         |             |             |
 | **Changeling**                  | überall / unbekannt                     | ja          | selten      |
 | **Dhampir**                     | [[Shadowfell]]                          | bedingt     | sehr selten |
 | **Hexblood**                    | Orte alter oder merkwürdiger Magie      | bedingt     | vereinzelt  |
