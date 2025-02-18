@@ -8,7 +8,9 @@ Die Fünf Königslande bestehen aus:
 - [[Sobris]], dem südwestlichen Königreich
 - [[Vadian]], dem westlichen Königreich
 
-![[Die Fünf Königslande Beta.jpg]]
+
+![[FuenfKoenigslandeKarteBlank.png]]
+*(Eine Karte mit den bereits besuchten/ erwähnten Orten findet ihr [[Karte|HIER]])*
 
 # Titel und Adelsränge
 Die klassischen Adelsränge der Fünf Königslande und ihre zugehörige Anrede
