@@ -5,7 +5,8 @@
 [[Antorras]] - Hauptstadt/Stadtstaat
 # Nairen
 0. [[Thanisthal]] - Hauptstadt
-1. [[Waidfells]]
+1. [[Waidfels]]
+	- [[Nebelhain]]
 2. [[Klingenheim]]
 3. [[Treuchtlingen]]
 
@@ -18,6 +19,7 @@
 # Saavia
 0. [[Hellhorn]] -Hauptstadt
 1. [[Lovkhin-Gebirge]]
+	- [[Garagh'tarr]]
 2. [[Sanam]]
 3. [[Kleinberg]]
 

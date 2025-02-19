@@ -1,0 +1,1 @@
+Ein Gebirge im Zentrum von [[Saavia]]. Wie in vielen Gebirgen gibt es auch hier einen Zugang zum [[Underdark]]. Der hier gelegene Zugang führt nach [[Garagh'tarr]].
