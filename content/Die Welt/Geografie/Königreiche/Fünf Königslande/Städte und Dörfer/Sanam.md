@@ -1,7 +1,7 @@
 # Allgemeine Infos
 - **Name:** Sanam
 - **Typ:** Dorf
-- **Lage:** [[Saavia]] / [[Grenzgebirge]]
+- **Lage:** [[Saavia]] / [[Alondir]]
 - **Bevölkerung:** unbekannt
 - **Wichtige Anführer:** unbekannt
 - **Gründung:** unbekannt
