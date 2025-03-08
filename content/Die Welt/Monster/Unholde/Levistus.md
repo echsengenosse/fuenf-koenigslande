@@ -1,0 +1,1 @@
+Levistus ist der der Herr über [[Stygia]], der 5. Ebene der [[Neun Höllen]] und vermutlich der meistgehasste Erzteufel dort. Er ist berühmt für seinen Verrat und wird in einem uralten Eisberg festgehalten. Dieser Ort ist auch als "Grab von Levistus" bekannt.
