@@ -31,7 +31,7 @@ Grundsätzlich ist die Verehrung der alten Götter in den Fünf Königslanden ni
 |     [[Torog]] |    NB     | List, Tod                 | Versklavung, Folter         | Hinrichtung                |
 |     [[Vecna]] |    NB     | Arkana, Grab, Tod, Wissen | Nekromantie, Geheimnisse    | Gefängnis                  |
 |     [[Zehir]] |    CB     | List, Natur, Tod          | Assassinen, Gift, Schlangen | Gefängnis                  |
-"*" Diese Gottheiten werden in größeren Regionen (z.B. Tiamat auf den [[Dracheninseln]], Gruumsh auf [[Rheknos]] und Lolth im [[Underdark]]) außerhalb der Fünf Königslande verehrt und bilden keine "unmittelbare Gefahr" für die Bewohner:innen der Fünf Königslande. Daher werden Anhänger:innen dieser Gottheiten in der Regel in diese Gebiete verbannt.
+-* Diese Gottheiten werden in größeren Regionen (z.B. Tiamat auf den [[Dracheninseln]], Gruumsh auf [[Rheknos]] und Lolth im [[Underdark]]) außerhalb der Fünf Königslande verehrt und bilden keine "unmittelbare Gefahr" für die Bewohner:innen der Fünf Königslande. Daher werden Anhänger:innen dieser Gottheiten in der Regel in diese Gebiete verbannt.
 
 ## Geringere Gottheiten
 Gottheit	|Gesinnung	|Hexenmeister Patron |Domäne	|Symbol
