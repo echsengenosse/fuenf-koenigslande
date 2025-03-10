@@ -36,3 +36,5 @@ Avarice schlug ihr Lager in **Caer Dineval** auf, wo sie den Kult der [[Ritter d
 
 ___
 **Spieler:innen Notizen:**
+- Evokation-Magierin
+- vermutlich wenig TP, dafür Rang ‘Magister’ mit Grad 5 Zauber

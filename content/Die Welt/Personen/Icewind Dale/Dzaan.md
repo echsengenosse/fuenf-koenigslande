@@ -7,7 +7,7 @@
 - **Beruf:** Illusionsmagier
 - **Herkunft:** [[Mhare]]
 - **Aufenthaltsort:** [[Ythryn]]
-- **Status:** lebendig (?)
+- **Status:** lebendig
 
 # Aussehen
 - **Haarfarbe:** braun
@@ -33,14 +33,19 @@ Dzaan zusammen mit [[Avarice]] und [[Vellynne Harpell]] von der [[Arkane Bruders
 Dzaan fand mithilfe einiger Abenteurer einen Turm in der Eiswüste, den er [[Ythryn]] zuordnete. Er tötete die Abenteurer, die ihm bei der Suche geholfen hatten, nachdem sie anderen von ihrem Fund erzählten. Dafür wurde Dzaan vom Stadtsprecher zum Tode verurteilt und verbrannt, während sein Simulakrum im Turm verweilte.
 
 # Sonstiges
-Das Simulakrum wurde Mithilfe der Gruppe um Mano, Morris, Slice, Torryn und Xierran zu einem echten Menschen und ist nun unter dem Namen **Silas** unterwegs. Es gibt zudem Hinweise, die dafür sprechen, dass Dzaan selbst noch am Leben ist.
+Das Simulakrum wurde Mithilfe der Gruppe um Mano, Morris, Slice, Torryn und Xierran zu einem echten Menschen und ist nun unter dem Namen [[Silas]] unterwegs. Es gibt zudem Hinweise, die dafür sprechen, dass Dzaan selbst noch am Leben ist.
 
 ___
 **Spieler:innen Notizen:**
 - Magier der arkanen Bruderschaft aus [[Lados]], der eine geheime Stadt untersuchen möchte.
 - Hat Abenteuer aufgetragen diese zu finden und sie danach umgebracht
-- Kommt Ursprünglich aus [[Mhare]] ([[Zhuresh]])
+- Kommt Ursprünglich aus [[Mhare]] ([[Zuresh]])
 - Hat ein Simulacrum erstellt, dass zu einer echten Person durch den Raum im Magierturm im Icewindtal gemacht wurde. Diese nennt sich selbst Silas
 - Illusionsmagier, hat wahrscheinlich wenig TP, Hat den Grad ‘Meister’ und kann Grad 6 Zauber.
 - Er ist Kundschafter, Erforscher
 - Kam mit [[Vellynne Harpell]], [[Nass Lantomir]] und [[Avarice]] ins Eiswindtal, um Ythryn zu finden.
+
+Update, nach einem Gespräch mit [[Silas]]:
+- Hat den Titel ‘Hohenmagier’ und kann Grad 7 Zauber  
+- Ist roter Magie, aber nicht aus Überzeugung
+- Ist Per Se keine gewalttätige Person

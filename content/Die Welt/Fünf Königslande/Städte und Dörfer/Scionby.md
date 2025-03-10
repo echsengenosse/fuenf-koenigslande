@@ -34,3 +34,6 @@
 # Geschichte
 Im Jahre 976 [[Die Sieben Zeitalter#8. Drachenfrieden|DF]] geschahen im [[Haus Saley]] (Morris' Haus) mehrere Mordfälle - zum Einen an [[Maria Saley]] und zum Anderen an [[Balmaer Nachtschein]]. Nur einer dieser Morde ist eindeutig aufgeklärt.
 
+___
+**Spieler:innen Notizen:**
+- Heimat von Morris, [[Finnley Lost]] und [[Jaylynn]]

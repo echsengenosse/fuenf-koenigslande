@@ -40,5 +40,5 @@ Morris hatte Yash während seines Rituals der **Acht Arkana** bezaubert und ihn 
 
 ___
 **Spieler:innen Notizen:**
-
-
+- hat [[Kephalos M'nark]] bei einer Kneipenschlägerei kennengelernt
+- wurde von [[Finnley Lost]] angeheuert

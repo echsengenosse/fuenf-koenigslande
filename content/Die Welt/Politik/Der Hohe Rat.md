@@ -4,7 +4,7 @@ Der Hohe Rat unterstützt den jeweiligen Herrscher, berät ihn in allen Angelege
 
 # Nairen
 ## Fürsten
-- [[content/Die Welt/Geografie/Königreiche/Fünf Königslande/Nairen#Lord Arrin Steyn|Lord Arrin Steyn]]
+- [[Nairen#Lord Arrin Steyn|Lord Arrin Steyn]]
 - [[Lord Rhaine Eldor]]
 - [[Lord Kaden von Wallersheim]]
 - [[Lord Murkon Adross]]
@@ -13,7 +13,7 @@ Der Hohe Rat unterstützt den jeweiligen Herrscher, berät ihn in allen Angelege
 - [[Lord Kirrm Warinn]]
 
 ## Arkana
-- [[content/Die Welt/Geografie/Königreiche/Fünf Königslande/Nairen#Großmeister Marleon|Großmeister Marleon]]
+- [[Nairen#Großmeister Marleon|Großmeister Marleon]]
 
 ## Gilden und Zünfte
 - [[Großmeister Eras]]

@@ -44,4 +44,6 @@ ___
 - Kann sich heilen, indem er Leute umhaut. 
 - stammt aus [[Phaeros]] (anderer Kontinent). 
 	- Ist dort rausgeflogen, nachdem Leute ihn eines Verbrechens beschuldigt haben (laut Kephalos zu unrecht, die mochten ihn einfach nicht). 
-- Freibeuter.
+- Freibeuter
+- hat [[Yash Baravel]] bei einer Kneipenschlägerei kennengelernt
+- wurde von [[Finnley Lost]] angeheuert
