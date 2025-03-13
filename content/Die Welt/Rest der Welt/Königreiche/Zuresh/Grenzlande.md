@@ -1,11 +1,35 @@
-# Herrscher:in
-**Königin Zahiri "Edelmut"**
-*Tieflingin*
+# Allgemeine Infos
+>- **Name des Königreichs:** Die Grenzlande
+>- **Alias:** 
+>- **Hauptstadt:** 
+>- **Herrscher_in:** [[Königin Zahiri "Edelmut"]] (Tieflingin)
+>- **Gründung:** 
+>- **Bevölkerung:** 
+>- **Kontinent:** 
 
-# Hauptstadt
+# Geografie
+>- **Landschaft:** 
+>- **Wichtige Städte:** 
+>- **Ressourcen:** 
 
-# Ziele
+# Gesellschaft
+>- **Bevölkerung:** 
+>- **Kultur:** 
+>- **Religionen:** 
 
-# Beziehungen
+# Politik
+>- **Herrschaftsform:** 
+>- **Regierung:** 
+>- **Ziele:** 
+>- **Verhältnis zu anderen Reichen:** 
 
-# Wichtige Personen
+## Wichtige Personen
+
+
+# Geschichte
+
+
+# Sonstiges
+
+
+

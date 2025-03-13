@@ -5,7 +5,7 @@
 - **Geschlecht:** männlich
 - **Alter:** Mitte 30
 - **Beruf:** Illusionsmagier
-- **Herkunft:** [[Mhare]]
+- **Herkunft:** [[Mhare]] ([[Al Gamran]])
 - **Aufenthaltsort:** [[Ythryn]]
 - **Status:** lebendig
 

@@ -1,11 +1,33 @@
-# Herrscher:in
-**König Ilofyr Yelumi**
-*Halbelf*
 
-# Hauptstadt
+# Allgemeine Infos
+>- **Name des Königreichs:** 
+>- **Alias:** 
+>- **Hauptstadt:** [[Qaleef]] und [[Muhaba]] (Mhare hat zwei Hauptstädte, eine als arkanes und politisches Zentrum und eine als religiöses und diplomatisches Zentrum)
+>- **Herrscher_in:** [[König Ilofyr Yelumi]] (Halbelf)
+>- **Gründung:** 
+>- **Bevölkerung:** 
+>- **Kontinent:** [[Zuresh]]
 
-# Ziele
+# Geografie
+>- **Landschaft:** 
+>- **Wichtige Städte:** 
+>- **Ressourcen:** 
 
-# Beziehungen
+# Gesellschaft
+>- **Bevölkerung:** 
+>- **Kultur:** 
+>- **Religionen:** 
 
-# Wichtige Personen
+# Politik
+>- **Herrschaftsform:** 
+>- **Regierung:** 
+>- **Ziele:** 
+>- **Verhältnis zu anderen Reichen:** 
+
+## Wichtige Personen
+
+
+# Geschichte
+
+
+# Sonstiges
