@@ -1,11 +1,20 @@
->[!infobox]+
->**Titel:** Die Roten Magier
->**Anführer:innen:** Igendsoein Dufe
+>[!Info]+
+>**Name:** Die Roten Magier
+>
+>**Anführer:innen:** So ein Typ
+>
 >**Mitglieder:** [[Dzaan]]
+>
+>**Reichweite:** unbekannt
+>
+>**Ansässig in:** [[Mhare]]
 
 
 [Freitext]
 
-# Bekannte Anführer:innen
+# Beschreibung
 
-# Bekannte Mitglieder
+# Ziele
+
+# Sonstiges
+

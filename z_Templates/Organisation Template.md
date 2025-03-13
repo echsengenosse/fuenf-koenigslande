@@ -1,12 +1,20 @@
-
->[!infobox]+
->**Titel**
->**Anführer:innen**
->**Mitglieder**
+>[!Info]+
+>**Name:** 
+>
+>**Anführer:innen:** 
+>
+>**Mitglieder:** 
+>
+>**Reichweite:** 
+>
+>**Ansässig in:** 
 
 
 [Freitext]
 
-# Bekannte Anführer:innen
+# Beschreibung
 
-# Bekannte Mitglieder
+# Ziele
+
+# Sonstiges
+
