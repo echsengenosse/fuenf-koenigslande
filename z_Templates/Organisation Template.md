@@ -1,3 +1,5 @@
+[Bild/Logo/Wappen]
+
 | **ÜBERSICHT**   |     |
 | ---------------: | --- |
 | **Name**        |     |
@@ -6,7 +8,6 @@
 | **Mitglieder**  |     |
 | **Reichweite**  |     |
 | **Ansässig in** |     |
-
 
 [Freitext]
 

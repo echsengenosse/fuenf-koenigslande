@@ -1,5 +1,3 @@
-
-
 | **ÜBERSICHT**   |                            |
 | ---------------: | -------------------------- |
 | **Name**        | Die Roten Magier von Mhare |
@@ -8,6 +6,8 @@
 | **Mitglieder**  | [[Dzaan]]                  |
 | **Reichweite**  | unbekannt                  |
 | **Ansässig in** | [[Mhare]]                  |
+
+==DIES IST EIN TEST!!!==
 
 
 Die **Roten Magier von Mhare** sind die herrschende Klasse des südlichen Teils des Königreichs. Sie sind über die Grenzen des Königreichs für ihre außerordentlichen magischen Fähigkeiten bekannt. 
@@ -18,4 +18,5 @@ Die **Roten Magier von Mhare** sind die herrschende Klasse des südlichen Teils 
 Außerhalb von [[Mhare]] begegnen ihnen viele mit Vorsicht, da sie sich den Ruf als grausame Tyrannen erarbeitet haben.
 
 ___
-**Spieler:innen Notizen:
+**Spieler:innen Notizen:**
+- Haben keinen guten Ruf und sind auch bereit schlimme Dinge zu tun sollte es ihren Zweck dienen 

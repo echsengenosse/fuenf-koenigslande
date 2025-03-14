@@ -1,14 +1,20 @@
+|        **ÜBERSICHT** |                                                                                        |
+| -------------------: | -------------------------------------------------------------------------------------- |
+|             **Name** | Das Silberne Syndikat                                                                  |
+|            **Alias** | Das Syndikat                                                                           |
+| **Anführer:in(nen)** | - [[Rodan Turnoroth]]: schwarzer Dragonborn<br>- [[Jamenas Jentheris]]: älterer Mensch |
+|       **Mitglieder** | Slice                                                                                  |
+|       **Reichweite** | international                                                                          |
+|      **Ansässig in** | jedem Königreich der [[Fünf Königslande]]                                              |
+
 Das **Silberne Syndikat** ist eine international tätige Vereinigung mit mafiösen Strukturen.
 
-# Bekannte Anführer:innen
-- **[[Rodan Turnoroth]]**: schwarzer Dragonborn
-- **[[Jamenas Jentheris]]**: älterer Mensch
+# Ziele
 
-# Bekannte (ehemalige) Mitglieder
-**Slice**: Spielercharakter
+# Sonstiges
 
----
-**Spieler:innen Notizen:**
+___
+**Spieler:innen Notizen:
 - Titel auf Drakonisch: 
 	- Jirai – Waffe – Slice 
 	- Rilar – Anführer 

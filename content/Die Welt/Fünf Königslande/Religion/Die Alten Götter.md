@@ -34,8 +34,3 @@ Grundsätzlich ist die Verehrung der alten Götter in den Fünf Königslanden ni
 
 -* Diese Gottheiten werden in größeren Regionen (z.B. Tiamat auf den [[Dracheninseln]], Gruumsh auf [[Rheknos]] und Lolth im [[Underdark]]) außerhalb der Fünf Königslande verehrt und bilden keine "unmittelbare Gefahr" für die Bewohner:innen der Fünf Königslande. Daher werden Anhänger:innen dieser Gottheiten in der Regel in diese Gebiete verbannt.
 
-## Geringere Gottheiten
-Gottheit	|Gesinnung	|Hexenmeister Patron |Domäne	|Symbol
-------------: | :------------: | ------------ | ------------|  ------------
-[[Der Reisende]] |CN |Die Erzfee |Natur, Täuschung |Gebogene Tür über einer Straße, die in der Ferne verschwindet
-[[Vesh]] |NE |Die Erzfee, Die Unsterbliche |Tod, Leben |Blutroter Ring, der an einer Kette hängt
