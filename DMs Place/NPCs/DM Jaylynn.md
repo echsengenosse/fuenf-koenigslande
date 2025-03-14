@@ -1,0 +1,24 @@
+Maria ist die verstorbene Frau von Morris. Jana hatte die Idee, dass Maria als das Gefäß eines Dämonen oder sowas zurück auf die Welt gekommen sein könnte und fragte mich, ob sich das umsetzen ließe. Dazu wären folgende Ideen passend:
+
+- Maria hängt mit [Quezz ib'Andara](app://obsidian.md/Quezz%20ib'Andara) zusammen. Durch dessen Befreiung aus der Bibliothek erwachte sie wieder zum Leben.
+- ihr Tod und ihre Wiederauferstehung hängen mit [An'grath](app://obsidian.md/An'grath) zusammen. Es waren An'graths Hexenmeister, die sie umgebracht haben und ebendiese sind nun auch für ihre Wiederbelebung zuständig.
+- auf der Suche nach Wissen über die Erhebung zu einem Gott stießen die Hexenmeister von An'grath über Maria und fragten sie dazu aus. Sie wollte ihr Wissen nicht preisgeben und wurde daraufhin von den Hexenmeistern umgebracht. Sie steht aber in Verbindung zu [Vecna](app://obsidian.md/Vecna) und ihr Tod war damit nicht permanent.
+___
+## Marias Story
+
+Maria erinnert sich nicht oder nur kaum an ihre Vergangenheit und Finn fühlt sich dafür (nicht ganz zu unrecht) verantwortlich. Sie war in dem Grab, in das Morris sie damals gelegt hatte, aufgewacht, ohne Erinnerungen, ohne irgendwas und war einfach losgezogen, weg von dem Dorf, das sie begraben hatte.  
+Ihr sind in der Zeit eine Menge schlimme Dinge passiert und sie hat schlimme Dinge getan, um zu überleben. Das hat sie abgestumpft. Im Kern ist sie immernoch die liebenswerte, gutherzige Frau, die Morris damals geheiratet hat, doch sie ist nicht mehr die selbe. Und es ist nicht klar, ob sie es jemals wieder werden kann (abgesehen von Wunsch. Ich kann mir auch True Resurrection vorstellen).
+
+Irgendwann traf sie auf Finn und seine Begleiter und erinnerte sich daran, dass sie ihn aus der Vergangenheit kannte. Dieses Treffen ist das, von dem sie sprach, als sie zu Morris (als Jaylynn) meinte, dass vor kurzem noch jemand so genannt hatte.  
+Später hat Finn ihr einen Teil von ihrer gemeinsamen Vergangenheit erzählt, hat erzählt, dass sie mit Morris verheiratet ist/war usw. Aber den Teil mit dem Töten hat er bisher ausgelassen.
+
+Aus irgendeinem Grund ist Maria jetzt auf der Suche nach den Artefakten von Vecna.
+
+___
+
+Jaylynn erzählte Finn, dass sie irgendwann, völlig ohne Erinnerungen, eine Stadt erreichte. Die Füße blutig vom laufen, die Kleider schmutzig und ihr Körper völlig ausgehungert. Verzweifelt klopfte sie am einem Tempel an, wo man ihr zu essen und zu trinken gab. Man versorgte ihre Wunden und fragte, wer sie sei. Als sie darauf nicht antworten konnte, gab man ihr den Namen Jaylynn und bot ihr an, dort zu bleiben, bis es ihr wieder besser ginge. Sie war dankbar über die Hilfe und arbeite im Gegenzug im Tempel mit, machte sauber, half Bittstellern und so weiter. Doch ihre fehlenden Erinnerungen nagten an ihr. Sie wollte wissen, was mit ihr geschehen war, was sie vergessen hatte und wie ihr früheres Leben ausgesehen hatte.  
+Sie wollte ihr früheres Leben nicht unbedingt zurück, schließlich endete das in dem feuchten dunklen Grab irgendwo in dem kleinen Dorf. Entsprechend blieb sie auch Jaylynn, als sie erfuhr, dass ihr eigentlicher Name Maria war. Doch Maria war vor 5 Jahren gestorben. Sie war Jaylynn.  
+Bei ihrer Suche nach Antworten stieß sie auf die Lehren von [Vecna](app://obsidian.md/Vecna) und die Schattenwache von Cairn Amon. Sie reiste dorthin, um möglicherweise Antworten zu finden. Sie freundete sich mit ein paar der Bloodhuntern an und erfuhr von dem Plan, die Artefakte von Vecna zu finden und zu zerstören. Sie hielt das für eine kluge Sache und versprach zu helfen.  
+Ihre Recherchen führten sie schließlich ins Eiswindtal. Sie hatte von schwarzen Obelisken gehört, die im Zusammenhang mit Vecna stehen sollen und überall auf der Welt verteilt waren. Sie wollte sich so einen mal von Nahem anschauen und fand heraus, dass es in Ythryn einen gegeben hatte, der jetzt wohl im Reghed Gletscher begraben lag. Das war der, der am dichtesten dran war. Daher ging sie ins Tal, wo sie schließlich auch Kikyo traf. Sie arbeitete eine zeitlang mit Kikyo zusammen und schloss sich schließlich Finn an, nachdem dieser ihr etwas über ihre Vergangenheit erzählen konnte. Sie weiß, dass da mehr hintersteckt und er ihr nicht alles erzählt hat, doch das ist ihr egal.  
+Sie spürt eine Verbundenheit zu ihm und fühlt sich von ihm angezogen. Sie macht durchaus auch immer mal wieder Avancen in seine Richtung, die er meistens ablehnt, da er es Morris gegenüber nicht fair findet, da die beiden ja verheiratet sind/ waren.  
+Sie kann sich jedoch nicht an Morris erinnern und meint, dass es doch keine Rolle spiele und so weiter. Es ist auch dazu gekommen, dass sie miteinander geschlafen haben.

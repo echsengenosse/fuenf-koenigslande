@@ -7,9 +7,6 @@
 | **Reichweite**  | unbekannt                  |
 | **Ansässig in** | [[Mhare]]                  |
 
-==DIES IST EIN TEST!!!==
-
-
 Die **Roten Magier von Mhare** sind die herrschende Klasse des südlichen Teils des Königreichs. Sie sind über die Grenzen des Königreichs für ihre außerordentlichen magischen Fähigkeiten bekannt. 
 
 # Ziele

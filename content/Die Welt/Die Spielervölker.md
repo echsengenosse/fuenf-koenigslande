@@ -42,8 +42,8 @@ Die Spalte mit "Spielervolk" bezieht sich auf meine Welt. Völker, bei denen in 
 | **Harengon**                    | [[Feywild]]                             | nein        | sehr selten |
 | **Loxodon**                     | [[Krisbayne]] (besondere Tempel)        | nein        | sehr selten |
 | **Satyr**                       | [[Feywild]]                             | bedingt     | selten      |
-| **Tabaxi**                      | [[Zhuresh]]                             | bedingt     | selten      |
-| -Leonin                         | [[Zhuresh]]                             | bedingt     | sehr selten |
+| **Tabaxi**                      | [[Zuresh]]                              | bedingt     | selten      |
+| -Leonin                         | [[Zuresh]]                              | bedingt     | sehr selten |
 |                                 |                                         |             |             |
 | ==**MONSTER VÖLKER**==          |                                         |             |             |
 | **Bugbear**                     | [[Rheknos]]                             | nein        | mäßig       |
