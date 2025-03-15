@@ -18,9 +18,9 @@ Die [[Fünf Königslande]] sind im Grundsatz föderalistisch strukturiert. Das h
 
 | ID  | Sitz              | Gebiet           | Art          | Herrscher:in                     |
 | :-- | :---------------- | :--------------- | ------------ | -------------------------------- |
-| H   | [[Thanisthal]]    | [[Otria]]        | Königsgebiet | [[König Erlen]]                  |
-| H1  | [[Südmarkt]]      | [[Worsann]]      | Herzogtum    |                                  |
-| H2  | [[Waidfels]]      | [[Dumenor]]      | Herzogtum    | [[Herzog Idras von Thorinstein]] |
+| K   | [[Thanisthal]]    | [[Otria]]        | Königsgebiet | [[König Erlen]]                  |
+| H1  | [[Waidfels]]      | [[Dumenor]]      | Herzogtum    | [[Herzog Idras von Thorinstein]] |
+| H2  | [[Südmarkt]]      | [[Worsann]]      | Herzogtum    |                                  |
 | H3  | [[Horstatt]]      | [[Ered]]         | Herzogtum    |                                  |
 | F1  | [[Klingenheim]]   | [[Adock]]        | Fürstentum   | [[Fürst Steyn]]                  |
 | F2  | [[Nebelstatt]]    | [[Dunenthal]]    | Fürstenstum  | [[Fürst Barish]]                 |
@@ -41,24 +41,24 @@ Die [[Fünf Königslande]] sind im Grundsatz föderalistisch strukturiert. Das h
 
 | ID  | Sitz            | Gebiet          | Art          | Herrscher:in     |
 | :-- | --------------- | :-------------- | :----------- | ---------------- |
-| H   | [[Forlion]]     | [[Hohenheim]]   | Königsgebiet | [[König Larcon]] |
+| K   | [[Forlion]]     | [[Hohenheim]]   | Königsgebiet | [[König Larcon]] |
 | H1  | [[Waleath]]     | [[Leath]]       | Herzogtum    |                  |
 | H2  | [[Cawick]]      | [[Harethon]]    | Herzogtum    |                  |
 | F1  | [[Barazan]]     | [[Hasensumpf]]  | Fürstentum   |                  |
 | F2  | [[Elion]]       | [[Hadden]]      | Fürstentum   |                  |
 | F3  | [[Skarifell]]   | [[Klai]]        | Fürstentum   |                  |
-| F4  | [[Tirak]]       | [[Kaspan]]      | Fürstentum   |                  |
+| F4  | [[Tirak]]       | [[Grünfurth]]   | Fürstentum   |                  |
 | G1  | [[Taston]]      | [[Ampor]]       | Grafschaft   |                  |
 | G2  | [[Vandega]]     | [[Allzwigg]]    | Grafschaft   |                  |
 | B1  | [[Raham]]       | [[Peva]]        | Baronie      |                  |
-| B2  | [[Thellstedt]]  | [[Finsterwald]] | Baronie      | [[Baron Geldan]] |
-| B3  | [[Eilbrick]]    | [[Dämmerwall]]  | Baronie      |                  |
+| B2  | [[Eilbrick]]    | [[Dämmerwall]]  | Baronie      |                  |
+| B3  | [[Thellstedt]]  | [[Finsterwald]] | Baronie      | [[Baron Geldan]] |
 | B4  | [[Wharenburgh]] | [[Thas]]        | Baronie      |                  |
 
 ## Saavia
 | ID  | Sitz               | Gebiet          | Art          | Herrscher:in    |
 | :-- | ------------------ | :-------------- | :----------- | --------------- |
-| H   | [[Hellhorn]]       | [[Homberg]]     | Königsgebiet | [[König Purik]] |
+| K   | [[Hellhorn]]       | [[Homberg]]     | Königsgebiet | [[König Purik]] |
 | H1  | [[Grimsand]]       | [[Rosenthor]]   | Herzogtum    |                 |
 | H2  | [[Hoholm]]         | [[Bearn]]       | Herzogtum    |                 |
 | F1  | [[Schaarberg]]     | [[Alondir]]     | Fürstentum   |                 |
@@ -76,7 +76,7 @@ Die [[Fünf Königslande]] sind im Grundsatz föderalistisch strukturiert. Das h
 ## Sobris
 | ID  | Sitz            | Gebiet          | Art          | Herrscher:in    |
 | :-- | --------------- | :-------------- | :----------- | --------------- |
-| H   | [[Rarock]]      | [[Irso]]        | Königsgebiet | [[König Miron]] |
+| K   | [[Rarock]]      | [[Irso]]        | Königsgebiet | [[König Miron]] |
 | H1  | [[Mistelstein]] | [[Garek]]       | Herzogtum    |                 |
 | H2  | [[Nittendorf]]  | [[Sievenheim]]  | Herzogtum    |                 |
 | F1  | [[Ostbeck]]     | [[Windlauf]]    | Fürstentum   |                 |
@@ -92,7 +92,7 @@ Die [[Fünf Königslande]] sind im Grundsatz föderalistisch strukturiert. Das h
 ## Vadian
 | ID  | Sitz            | Gebiet          | Art          | Herrscher:in                         |
 | :-- | --------------- | :-------------- | :----------- | ------------------------------------ |
-| H   | [[Thorwacht]]   | [[Samil]]       | Königsgebiet | [[Lady Ninra]]                       |
+| K   | [[Thorwacht]]   | [[Samil]]       | Königsgebiet | [[Lady Ninra]]                       |
 | H1  | [[Parrs]]       | [[Jusann]]      | Herzogtum    | [[Herzog Hohenthal]]                 |
 | F1  | [[Salzau]]      | [[Livar]]       | Fürstentum   |                                      |
 | F2  | [[Marthe]]      | [[Vamaren]]     | Fürstentum   |                                      |
@@ -103,7 +103,7 @@ Die [[Fünf Königslande]] sind im Grundsatz föderalistisch strukturiert. Das h
 | B1  | [[Scionby]]     | [[Graelhorn]]   | Baronie      | [[Baron Rorik Langon]]               |
 | B2  | [[Eppenwald]]   | [[Elmer]]       | Baronie      |                                      |
 | B3  | [[Helwarden]]   | [[Eulenberg]]   | Baronie      |                                      |
-| B4  | [[Kiesenstatt]] | [[Kiesenstatt]] | Baronie      | [[Lord Varradan Benjar Thorinstein]] |
+| B4  | [[Kiesenstadt]] | [[Kiesenstatt]] | Baronie      | [[Lord Varradan Benjar Thorinstein]] |
 
 # Titel und Adelsränge
 Die klassischen Adelsränge der Fünf Königslande und ihre zugehörige Anrede
