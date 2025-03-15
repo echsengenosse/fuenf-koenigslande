@@ -9,100 +9,101 @@ Die Fünf Königslande bestehen aus:
 - [[Vadian]], dem westlichen Königreich
 
 
-![[FuenfKoenigslandeKarteBlank.png]]
+![[FuenfKoenigslandeKarteRegierungssitze.png]]
 *(Eine Karte mit den bereits besuchten/ erwähnten Orten findet ihr [[Karte|HIER]])*
 
 # Herrschaftsgebiete
 Die [[Fünf Königslande]] sind im Grundsatz föderalistisch strukturiert. Das heißt, dass jedes Königreich in Herzogtümer, Fürstentümer, Grafschaften und Baronien unterteilt. Jedes dieser Gebiete kann mehrere Städte und Ortschaften umfassen, hat in der Regel aber einen Herrscherrsitz. Dieser liegt üblicherweise in oder nahe einer Stadt.
 ## Nairen
 
-| ID  | Name             | Art          | Sitz              | Herrscher:in                     |
-| :-- | :--------------- | ------------ | :---------------- | -------------------------------- |
-| K   | [[Otria]]        | Königsgebiet | [[Thanisthal]]    | [[König Erlen]]                  |
-| H1  | [[Worsann]]      | Herzogtum    | [[Südmarkt]]      |                                  |
-| H2  | [[Dumenor]]      | Herzogtum    | [[Waidfels]]      | [[Herzog Idras von Thorinstein]] |
-| H3  | [[Ered]]         | Herzogtum    | [[Horstatt]]      |                                  |
-| F1  | [[Dunenthal]]    | Fürstenstum  | [[Nebelstatt]]    | [[Fürst Barish]]                 |
-| F2  | [[Sicarr]]       | Fürstentum   | [[Lifford]]       | [[Fürst Adross]]                 |
-| F3  | [[Hohewald]]     | Fürstentum   | [[Flussspitze]]   | [[Fürst Kunath]]                 |
-| F4  | [[Schwarzenweg]] | Fürstentum   | [[Treuchtlingen]] | [[Erleas von Treuchtlingen]]     |
-| F5  | [[Adock]]        | Fürstentum   | [[Klingenheim]]   | [[Fürst Steyn]]                  |
-| F6  | [[Witter]]       | Fürstentum   | [[Cofeld]]        | [[Fürst Warinn]]                 |
-| F7  | [[Ravenheim]]    | Fürstentum   | [[Niwald]]        | [[Fürst Eldor]]                  |
-| G1  | [[Lagan]]        | Grafschaft   | [[Wegdorf]]       |                                  |
-| G2  | [[Huntal]]       | Grafschaft   | [[Eichenfort]]    |                                  |
-| G3  | [[Calia]]        | Grafschaft   | [[Fallon]]        |                                  |
-| G4  | [[Salusia]]      | Grafschaft   | [[Shefford]]      |                                  |
-| B1  | [[Hardun]]       | Baronie      | [[Trafeld]]       |                                  |
-| B2  | [[Brondan]]      | Baronie      | [[Hochminster]]   |                                  |
-| B3  | [[Neia]]         | Baronie      | [[Sharbur]]       |                                  |
-| B4  | [[Thunor]]       | Baronie      | [[Gindrifell]]    |                                  |
+| ID  | Sitz              | Gebiet           | Art          | Herrscher:in                     |
+| :-- | :---------------- | :--------------- | ------------ | -------------------------------- |
+| H   | [[Thanisthal]]    | [[Otria]]        | Königsgebiet | [[König Erlen]]                  |
+| H1  | [[Südmarkt]]      | [[Worsann]]      | Herzogtum    |                                  |
+| H2  | [[Waidfels]]      | [[Dumenor]]      | Herzogtum    | [[Herzog Idras von Thorinstein]] |
+| H3  | [[Horstatt]]      | [[Ered]]         | Herzogtum    |                                  |
+| F1  | [[Klingenheim]]   | [[Adock]]        | Fürstentum   | [[Fürst Steyn]]                  |
+| F2  | [[Nebelstatt]]    | [[Dunenthal]]    | Fürstenstum  | [[Fürst Barish]]                 |
+| F3  | [[Lifford]]       | [[Sicarr]]       | Fürstentum   | [[Fürst Adross]]                 |
+| F4  | [[Treuchtlingen]] | [[Schwarzenweg]] | Fürstentum   | [[Erleas von Treuchtlingen]]     |
+| F5  | [[Flussspitze]]   | [[Hohewald]]     | Fürstentum   | [[Fürst Kunath]]                 |
+| F6  | [[Cofeld]]        | [[Witter]]       | Fürstentum   | [[Fürst Warinn]]                 |
+| F7  | [[Niwald]]        | [[Ravenheim]]    | Fürstentum   | [[Fürst Eldor]]                  |
+| G1  | [[Wegdorf]]       | [[Lagan]]        | Grafschaft   |                                  |
+| G2  | [[Eichenfort]]    | [[Huntal]]       | Grafschaft   |                                  |
+| G3  | [[Fallon]]        | [[Calia]]        | Grafschaft   |                                  |
+| G4  | [[Shefford]]      | [[Salusia]]      | Grafschaft   |                                  |
+| B1  | [[Trafeld]]       | [[Hardun]]       | Baronie      |                                  |
+| B2  | [[Hochminster]]   | [[Brondan]]      | Baronie      |                                  |
+| B3  | [[Sharbur]]       | [[Neia]]         | Baronie      |                                  |
+| B4  | [[Gindrifell]]    | [[Thunor]]       | Baronie      |                                  |
 ## Orandir
 
-| ID  | Name            | Art          | Sitz            | Herrscher:in     |
-| :-- | :-------------- | :----------- | --------------- | ---------------- |
-| K   | [[Hohenheim]]   | Königsgebiet | [[Forlion]]     | [[König Larcon]] |
-| H1  | [[Leath]]       | Herzogtum    | [[Waleath]]     |                  |
-| H2  | [[Harethon]]    | Herzogtum    | [[Cawick]]      |                  |
-| F1  | [[Hasensumpf]]  | Fürstentum   | [[Barazan]]     |                  |
-| F2  | [[Hadden]]      | Fürstentum   | [[Elion]]       |                  |
-| F3  | [[Klai]]        | Fürstentum   | [[Skarifell]]   |                  |
-| G1  | [[Ampor]]       | Grafschaft   | [[Taston]]      |                  |
-| G2  | [[Allzwigg]]    | Grafschaft   | [[Vandega]]     |                  |
-| B1  | [[Peva]]        | Baronie      | [[Raham]]       |                  |
-| B2  | [[Dämmerwall]]  | Baronie      | [[Eilbrick]]    |                  |
-| B3  | [[Finsterwald]] | Baronie      | [[Thellstedt]]  | [[Baron Geldan]] |
-| B4  | [[Thas]]        | Baronie      | [[Wharenburgh]] |                  |
+| ID  | Sitz            | Gebiet          | Art          | Herrscher:in     |
+| :-- | --------------- | :-------------- | :----------- | ---------------- |
+| H   | [[Forlion]]     | [[Hohenheim]]   | Königsgebiet | [[König Larcon]] |
+| H1  | [[Waleath]]     | [[Leath]]       | Herzogtum    |                  |
+| H2  | [[Cawick]]      | [[Harethon]]    | Herzogtum    |                  |
+| F1  | [[Barazan]]     | [[Hasensumpf]]  | Fürstentum   |                  |
+| F2  | [[Elion]]       | [[Hadden]]      | Fürstentum   |                  |
+| F3  | [[Skarifell]]   | [[Klai]]        | Fürstentum   |                  |
+| F4  | [[Tirak]]       | [[Kaspan]]      | Fürstentum   |                  |
+| G1  | [[Taston]]      | [[Ampor]]       | Grafschaft   |                  |
+| G2  | [[Vandega]]     | [[Allzwigg]]    | Grafschaft   |                  |
+| B1  | [[Raham]]       | [[Peva]]        | Baronie      |                  |
+| B2  | [[Thellstedt]]  | [[Finsterwald]] | Baronie      | [[Baron Geldan]] |
+| B3  | [[Eilbrick]]    | [[Dämmerwall]]  | Baronie      |                  |
+| B4  | [[Wharenburgh]] | [[Thas]]        | Baronie      |                  |
 
 ## Saavia
-| ID  | Name            | Art          | Sitz               | Herrscher:in    |
-| :-- | :-------------- | :----------- | ------------------ | --------------- |
-| K   | [[Homberg]]     | Königsgebiet | [[Hellhorn]]       | [[König Purik]] |
-| H1  | [[Rosenthor]]   | Herzogtum    | [[Grimsand]]       |                 |
-| H2  | [[Bearn]]       | Herzogtum    | [[Hoholm]]         |                 |
-| F1  | [[Alondir]]     | Fürstentum   | [[Schaarberg]]     |                 |
-| F2  | [[Parone]]      | Fürstentum   | [[Groß Tullashoe]] |                 |
-| F3  | [[Komar]]       | Fürstentum   | [[Altenberg]]      |                 |
-| F4  | [[Winthor]]     | Fürstentum   | [[Rossrenn]]       |                 |
-| F5  | [[Gifton]]      | Fürstentum   | [[Völkerberg]]     |                 |
-| G1  | [[Silberstatt]] | Grafschaft   | [[Eberrath]]       |                 |
-| G2  | [[Kleinberg]]   | Grafschaft   | [[Listhal]]        |                 |
-| B1  | [[Sisto]]       | Baronie      | [[Tullavan]]       |                 |
-| B2  | [[Abetha]]      | Baronie      | [[Huttburgh]]      |                 |
-| B3  | [[Onda]]        | Baronie      | [[Hartschlag]]     |                 |
-| B4  | [[Joansblick]]  | Baronie      | [[Devenroth]]      |                 |
+| ID  | Sitz               | Gebiet          | Art          | Herrscher:in    |
+| :-- | ------------------ | :-------------- | :----------- | --------------- |
+| H   | [[Hellhorn]]       | [[Homberg]]     | Königsgebiet | [[König Purik]] |
+| H1  | [[Grimsand]]       | [[Rosenthor]]   | Herzogtum    |                 |
+| H2  | [[Hoholm]]         | [[Bearn]]       | Herzogtum    |                 |
+| F1  | [[Schaarberg]]     | [[Alondir]]     | Fürstentum   |                 |
+| F2  | [[Groß Tullashoe]] | [[Parone]]      | Fürstentum   |                 |
+| F3  | [[Altenberg]]      | [[Komar]]       | Fürstentum   |                 |
+| F4  | [[Rossrenn]]       | [[Winthor]]     | Fürstentum   |                 |
+| F5  | [[Völkerberg]]     | [[Gifton]]      | Fürstentum   |                 |
+| G1  | [[Listhal]]        | [[Kleinberg]]   | Grafschaft   |                 |
+| G2  | [[Eberrath]]       | [[Silberstatt]] | Grafschaft   |                 |
+| B1  | [[Tullavan]]       | [[Sisto]]       | Baronie      |                 |
+| B2  | [[Huttburgh]]      | [[Abetha]]      | Baronie      |                 |
+| B3  | [[Hartschlag]]     | [[Onda]]        | Baronie      |                 |
+| B4  | [[Devenroth]]      | [[Joansblick]]  | Baronie      |                 |
 
 ## Sobris
-| ID  | Name            | Art          | Sitz            | Herrscher:in    |
-| :-- | :-------------- | :----------- | --------------- | --------------- |
-| K   | [[Irso]]        | Königsgebiet | [[Rarock]]      | [[König Miron]] |
-| H1  | [[Garek]]       | Herzogtum    | [[Mistelstein]] |                 |
-| H2  | [[Sievenheim]]  | Herzogtum    | [[Nittendorf]]  |                 |
-| F1  | [[Windlauf]]    | Fürstentum   | [[Ostbeck]]     |                 |
-| F2  | [[Trias]]       | Fürstentum   | [[Thurnagh]]    |                 |
-| F3  | [[Belaii]]      | Fürstentum   | [[Althofen]]    |                 |
-| F4  | [[Sowold]]      | Fürstentum   | [[Laufenberg]]  |                 |
-| G1  | [[Eichenstatt]] | Grafschaft   | [[Ansheim]]     |                 |
-| G2  | [[Tuscar]]      | Grafschaft   | [[Brachsee]]    |                 |
-| B1  | [[Wiross]]      | Baronie      | [[Kinbrige]]    |                 |
-| B2  | [[Harrendal]]   | Baronie      | [[Beroson]]     |                 |
-| B3  | [[Sunath]]      | Baronie      | [[Berndam]]     |                 |
+| ID  | Sitz            | Gebiet          | Art          | Herrscher:in    |
+| :-- | --------------- | :-------------- | :----------- | --------------- |
+| H   | [[Rarock]]      | [[Irso]]        | Königsgebiet | [[König Miron]] |
+| H1  | [[Mistelstein]] | [[Garek]]       | Herzogtum    |                 |
+| H2  | [[Nittendorf]]  | [[Sievenheim]]  | Herzogtum    |                 |
+| F1  | [[Ostbeck]]     | [[Windlauf]]    | Fürstentum   |                 |
+| F2  | [[Thurnagh]]    | [[Trias]]       | Fürstentum   |                 |
+| F3  | [[Althofen]]    | [[Belaii]]      | Fürstentum   |                 |
+| F4  | [[Laufenberg]]  | [[Sowold]]      | Fürstentum   |                 |
+| G1  | [[Ansheim]]     | [[Eichenstatt]] | Grafschaft   |                 |
+| G2  | [[Brachsee]]    | [[Tuscar]]      | Grafschaft   |                 |
+| B1  | [[Kinbrige]]    | [[Wiross]]      | Baronie      |                 |
+| B2  | [[Beroson]]     | [[Harrendal]]   | Baronie      |                 |
+| B3  | [[Berndam]]     | [[Sunath]]      | Baronie      |                 |
 
 ## Vadian
-| ID  | Name            | Art          | Sitz            | Herrscher:in                         |
-| :-- | :-------------- | :----------- | --------------- | ------------------------------------ |
-| K   | [[Samil]]       | Königsgebiet | [[Thorwacht]]   | [[Lady Ninra]]                       |
-| H1  | [[Jusann]]      | Herzogtum    | [[Parrs]]       | [[Herzog Hohenthal]]                 |
-| F1  | [[Livar]]       | Fürstentum   | [[Salzau]]      |                                      |
-| F2  | [[Vamaren]]     | Fürstentum   | [[Marthe]]      |                                      |
-| F3  | [[Sonnemuhl]]   | Fürstentum   | [[Kerkenthal]]  |                                      |
-| G1  | [[Esh]]         | Grafschaft   | [[Turnbeck]]    |                                      |
-| G2  | [[Omith]]       | Grafschaft   | [[Illthal]]     |                                      |
-| G3  | [[Khurat]]      | Grafschaft   | [[Harenlande]]  |                                      |
-| B1  | [[Kiesenstatt]] | Baronie      | [[Kiesenstatt]] | [[Lord Varradan Benjar Thorinstein]] |
-| B2  | [[Elmer]]       | Baronie      | [[Eppenwald]]   |                                      |
-| B3  | [[Eulenberg]]   | Baronie      | [[Helwarden]]   |                                      |
-| B4  | [[Graelhorn]]   | Baronie      | [[Scionby]]     | [[Baron Rorik Langon]]               |
+| ID  | Sitz            | Gebiet          | Art          | Herrscher:in                         |
+| :-- | --------------- | :-------------- | :----------- | ------------------------------------ |
+| H   | [[Thorwacht]]   | [[Samil]]       | Königsgebiet | [[Lady Ninra]]                       |
+| H1  | [[Parrs]]       | [[Jusann]]      | Herzogtum    | [[Herzog Hohenthal]]                 |
+| F1  | [[Salzau]]      | [[Livar]]       | Fürstentum   |                                      |
+| F2  | [[Marthe]]      | [[Vamaren]]     | Fürstentum   |                                      |
+| F3  | [[Kerkenthal]]  | [[Sonnemuhl]]   | Fürstentum   |                                      |
+| G1  | [[Turnbeck]]    | [[Esh]]         | Grafschaft   |                                      |
+| G2  | [[Illthal]]     | [[Omith]]       | Grafschaft   |                                      |
+| G3  | [[Harenlande]]  | [[Khurat]]      | Grafschaft   |                                      |
+| B1  | [[Scionby]]     | [[Graelhorn]]   | Baronie      | [[Baron Rorik Langon]]               |
+| B2  | [[Eppenwald]]   | [[Elmer]]       | Baronie      |                                      |
+| B3  | [[Helwarden]]   | [[Eulenberg]]   | Baronie      |                                      |
+| B4  | [[Kiesenstatt]] | [[Kiesenstatt]] | Baronie      | [[Lord Varradan Benjar Thorinstein]] |
 
 # Titel und Adelsränge
 Die klassischen Adelsränge der Fünf Königslande und ihre zugehörige Anrede

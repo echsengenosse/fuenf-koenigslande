@@ -7,32 +7,31 @@
 # Antorras
 [[Antorras]] - Hauptstadt/Stadtstaat
 # Nairen
-0. [[Thanisthal]] - Hauptstadt
-1. [[Waidfels]]
+H. [[Thanisthal]] - Hauptstadt
+H2. [[Waidfels]]
 	- [[Nebelhain]]
-2. [[Klingenheim]]
-3. [[Treuchtlingen]]
+F1. [[Klingenheim]]
+F4. [[Treuchtlingen]]
 
 # Orandir
-0. [[Forlion]] - Hauptstadt
-1. [[Kyrc]]
-2. [[Thellstedt]]
-3. [[Tirak]]
-
+H. [[Forlion]] - Hauptstadt
+F4. [[Tirak]]
+B2. [[Thellstedt]]
+1.[[Kyrc]]
 # Saavia
-0. [[Hellhorn]] -Hauptstadt
-1. [[Lovkhin-Gebirge]]
+H. [[Hellhorn]] -Hauptstadt
+G1. [[Kleinberg]]
+1.[[Lovkhin-Gebirge]]
 	- [[Garagh'tarr]]
-2. [[Sanam]]
-3. [[Kleinberg]]
+2.[[Sanam]]
 
 # Sobris
-0. [[Rarock]] - Hauptstadt
+H. [[Rarock]] - Hauptstadt
 
 
 # Vadian
-0. [[Thorwacht]] - Hauptstadt
-1. [[Eiswindtal]]
-2. [[Lados]]
-3. [[Khurat-Inseln]]
-4. [[Scionby]]
+H. [[Thorwacht]] - Hauptstadt
+B1. [[Scionby]]
+1.[[Eiswindtal]]
+2.[[Lados]]
+3.[[Khurat-Inseln]]
