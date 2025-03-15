@@ -3,7 +3,7 @@
 | **Name**        | Arkane Bruderschaft                                             |
 | **Alias**       | ---                                                             |
 | **Anführer:in** | unbekannt                                                       |
-| **Mitglieder**  | [[Avarice]], [[Dzaan]], [[Nass Lantomir]], [[Vellynne Harpell]] |
+| **Mitglieder**  | [[Avarice]], [[Dzaan Zhaendril]], [[Nass Lantomir]], [[Vellynne Harpell]] |
 | **Reichweite**  | unbekannt                                                       |
 | **Ansässig in** | [[Lados]]                                                       |
 
@@ -16,7 +16,7 @@ Die Arkane Bruderschaft hat drei Mitglieder ausgesandt, um Gerüchte über eine 
 Kurz nachdem sie in [[Bryn Shander]] ankamen, trennten sich die drei Magier und versuchen nun jeder für sich, als Erste diese Enklave zu finden. Die vier Magier sind:
 
 - [[Avarice]], eine albino Tiefling-Magierin der Hervorrufung (Evocation) mit einem Paar Gargoyle-Gefährten
-- [[Dzaan]], ein menschlicher Magier der Illusion und [[Rote Magier|Roter Magier]]
+- [[Dzaan Zhaendril]], ein menschlicher Magier der Illusion und [[Rote Magier|Roter Magier]]
 - [[Nass Lantomir]], eine menschliche Magierin der Voraussagung
 - [[Vellynne Harpell]], eine menschliche Nekromantin aus einer berühmten Familie, mit einer Mannschaft von Kobolden – einige lebendig, einige untot
 

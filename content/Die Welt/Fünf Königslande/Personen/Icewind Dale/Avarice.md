@@ -28,7 +28,7 @@
 - **Feinde:** unbekannt
 
 # Hintergrund
-Avarice ist zusammen mit [[Dzaan]] und [[Vellynne Harpell]] von der [[Arkane Bruderschaft|Arkanen Bruderschaft]] ins Eiswindtal geschickt, um eine alte, netheresische Stadt zu finden und zu erforschen. Als sie im Tal angekommen sind, sind die Magier:innen getrennter Wege gegangen.
+Avarice ist zusammen mit [[Dzaan Zhaendril]] und [[Vellynne Harpell]] von der [[Arkane Bruderschaft|Arkanen Bruderschaft]] ins Eiswindtal geschickt, um eine alte, netheresische Stadt zu finden und zu erforschen. Als sie im Tal angekommen sind, sind die Magier:innen getrennter Wege gegangen.
 Avarice schlug ihr Lager in **Caer Dineval** auf, wo sie den Kult der [[Ritter des Schwarzen Schwertes]] mehr oder weniger von [[Kadroth]] übernahm.
 
 # Sonstiges

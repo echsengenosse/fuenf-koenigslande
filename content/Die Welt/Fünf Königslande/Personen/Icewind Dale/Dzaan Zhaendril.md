@@ -1,6 +1,6 @@
 ![[Dzaan.png|350]]
 # Allgemeine Infos
-- **Vollständiger Name:** Dzaan
+- **Vollständiger Name:** Dzaan Zhaendril
 - **Volk:** Mensch
 - **Geschlecht:** männlich
 - **Alter:** Mitte 30
@@ -46,6 +46,6 @@ ___
 - Kam mit [[Vellynne Harpell]], [[Nass Lantomir]] und [[Avarice]] ins Eiswindtal, um Ythryn zu finden.
 
 Update, nach einem Gespräch mit [[Silas]]:
-- Hat den Titel ‘Hohenmagier’ und kann Grad 7 Zauber  
+- Hat den Titel ‘Hohenmagier’ ([[Ränge der Magie]]) und kann Grad 7 Zauber  
 - Ist roter Magie, aber nicht aus Überzeugung
 - Ist Per Se keine gewalttätige Person

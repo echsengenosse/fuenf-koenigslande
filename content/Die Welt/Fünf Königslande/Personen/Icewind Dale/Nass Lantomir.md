@@ -28,7 +28,7 @@
 - **Feinde:** 
 
 # Hintergrund
-Sie ist [[Avarice]], [[Dzaan]] und [[Vellynne Harpell]] heimlich ins Eiswindtal gefolgt, um eine alte, netheresische Stadt zu finden und zu erforschen. Als sie im Tal angekommen sind, sind die Magier:innen getrennter Wege gegangen.
+Sie ist [[Avarice]], [[Dzaan Zhaendril]] und [[Vellynne Harpell]] heimlich ins Eiswindtal gefolgt, um eine alte, netheresische Stadt zu finden und zu erforschen. Als sie im Tal angekommen sind, sind die Magier:innen getrennter Wege gegangen.
 Nass fand schließlich den Weg auf die **Insel der Sonnenwende**, wo sie ihr Ende fand.
 
 # Sonstiges

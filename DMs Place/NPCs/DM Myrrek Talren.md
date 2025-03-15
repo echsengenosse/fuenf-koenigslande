@@ -1,0 +1,2 @@
+- No children; focused on lichdom.
+- wields the "Hand of Vecna" and is responsible for Sotas (Kikyos Brother) death

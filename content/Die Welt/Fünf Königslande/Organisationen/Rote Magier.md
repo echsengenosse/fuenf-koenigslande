@@ -3,7 +3,7 @@
 | **Name**        | Die Roten Magier von Mhare |
 | **Alias**       | Rote Magier                |
 | **Anführer:in** | unbekannt                  |
-| **Mitglieder**  | [[Dzaan]]                  |
+| **Mitglieder**  | [[Dzaan Zhaendril]]                  |
 | **Reichweite**  | unbekannt                  |
 | **Ansässig in** | [[Mhare]]                  |
 
