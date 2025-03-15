@@ -2,7 +2,7 @@
 *Die Fünf Königslande (unbeschriftet)*
 
 ![[FuenfKoenigslandeKarte.png]]
-*Die Fünf Königslande (beschriftet)*
+*Die Fünf Königslande (beschriftet); 1 Hex = 1 Tagesreise*
 
 # Antorras
 [[Antorras]] - Hauptstadt/Stadtstaat
