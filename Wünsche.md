@@ -1,7 +1,7 @@
 **Geografie:** 
 - [ ] Wer regiert was und welcher Ort liegt wo? 
 - [ ] Politik
-- [ ] Map
+- [x] Map
 - [ ] Hintergrund Lore
 **Homebrew:** 
 - [ ] öffentlich zugängliche Klassen/Fähigkeiten/Völker/Zauber
