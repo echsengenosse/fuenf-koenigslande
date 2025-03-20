@@ -50,5 +50,5 @@ Update, nach einem Gespräch mit [[Silas]]:
 - Ist roter Magie, aber nicht aus Überzeugung
 - Ist Per Se keine gewalttätige Person
 
-[[DM Dzaan]]
-[[DM Daden]]
+>[!infobox]- DM Notizen
+>[[DM Dzaan]]

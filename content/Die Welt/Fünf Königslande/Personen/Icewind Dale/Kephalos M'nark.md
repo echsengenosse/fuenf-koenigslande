@@ -47,3 +47,6 @@ ___
 - Freibeuter
 - hat [[Yash Baravel]] bei einer Kneipenschlägerei kennengelernt
 - wurde von [[Finnley Lost]] angeheuert
+
+>[!infobox]- DM Notizen
+>

@@ -35,3 +35,4 @@
 # Geschichte
 [Kurze Zusammenfassung der Geschichte des Gebiets, bedeutende Ereignisse, Eroberungen, Kriege oder Entwicklungen]
 
+>[!infobox]- DM Notizen

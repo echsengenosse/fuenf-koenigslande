@@ -41,3 +41,6 @@ ___
 - Verlor ihren Freund (Geliebten) bei einen Owlbear Angriff.
 - In einer Gruppe und Befreundet mit **Elnar**, **Pete** und **Galador**. 
 - Das erste Mal kennen gelernt als die Gruppe jemanden suchte der den Zauber Mondstrahl beherrscht um mit ihrer Hilfe die Ruinen betreten zu können.
+
+>[!infobox]- DM Notizen
+>

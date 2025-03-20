@@ -42,3 +42,6 @@ ___
 - Syndikatsmitglied. 
 - Intrigiert, den König mit einer dem Syndikat treuen Frau zu verheiraten. 
 - Möglicherweise → [[Khin-Drak]] loyal.
+
+>[!infobox]- DM Notizen
+>

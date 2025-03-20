@@ -17,3 +17,5 @@
 
 ___
 **Spieler:innen Notizen:
+
+>[!infobox]- DM Notizen
