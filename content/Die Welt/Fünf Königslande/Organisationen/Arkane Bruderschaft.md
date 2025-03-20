@@ -1,11 +1,11 @@
-| **ÜBERSICHT**   |                                                                 |
-| --------------: | --------------------------------------------------------------- |
-| **Name**        | Arkane Bruderschaft                                             |
-| **Alias**       | ---                                                             |
-| **Anführer:in** | unbekannt                                                       |
-| **Mitglieder**  | [[Avarice]], [[Dzaan Zhaendril]], [[Nass Lantomir]], [[Vellynne Harpell]] |
-| **Reichweite**  | unbekannt                                                       |
-| **Ansässig in** | [[Lados]]                                                       |
+|   **ÜBERSICHT** |                                                                           |
+| --------------: | ------------------------------------------------------------------------- |
+|        **Name** | Arkane Bruderschaft                                                       |
+|       **Alias** | ---                                                                       |
+| **Anführer:in** | unbekannt                                                                 |
+|  **Mitglieder** | [[Avarice]], [[Dzaan Zhaendril]], [[Nass Lantomir]], [[Vellynne Harpell]] |
+|  **Reichweite** | unbekannt                                                                 |
+| **Ansässig in** | [[Lados]]                                                                 |
 
 Die **Arkane Bruderschaft** ist ein Konglomerat mächtiger Magier, die von ihrem _Gastturm des Arkanen_, einer mehrturmigen Struktur über [[Lados]], aus operieren. Die Spitze der Bruderschaft besteht aus fünf berühmten Erzmagiern, die die Mitglieder selbst erwählen – bevorzugt Magier mit hohem Ansehen. Jedes Jahr kommen Magier aus allen Teilen der Welt, um in die Bruderschaft aufgenommen zu werden, doch die meisten werden ohne Prüfung wieder weggeschickt. Dadurch breitet sich das Gerücht aus, dass die Anführer der Bruderschaft mehr an dem Ruf der Exklusivität interessiert sind als daran, neue Talente zu finden. Nichtsdestotrotz versuchen die Magier weiterhin, sich einen Platz zu sichern, um Zugang zur unglaublichen Bibliothek magischer Geschichte des Gastturms zu erhalten.
 
@@ -29,3 +29,5 @@ ___
 **Spieler:innen Notizen:
 
 
+>[!infobox]- DM Notizen
+>

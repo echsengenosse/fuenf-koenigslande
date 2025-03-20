@@ -1,4 +1,4 @@
 *Archipel der Drachen*
 
 Eine Ansammlung großer Inseln, die sich kreisförmig um einen großen Vulkan gruppieren. Früher waren diese Inseln von unzähligen Drachen besiedelt, doch diese Zeiten sind vorbei. Zwar leben noch immer überdurchschnittlich viele Drachen hier, doch ihre Zahl schwindet. Immer mehr humanoide Kreaturen wagen es, tiefer in das Archipel vorzudringen, dort ihre Lager aufzuschlagen und heimisch zu werden. Und die Drachen dulden sie – solange sie Reichtümer bringen und ihren Fortbestand sichern. Es gibt nichts Wichtigeres, als die wenigen verbleibenden Dracheneier zu schützen.  
-Die Dracheninseln sind ein eigenständiges Königreich unter der Herrschaft der Ältesten aller Drachen: **Gharagash** (weiblich).
+Die Dracheninseln sind ein eigenständiges Königreich unter der Herrschaft der Ältesten aller Drachen: **[[Gharagash]]** (weiblich).

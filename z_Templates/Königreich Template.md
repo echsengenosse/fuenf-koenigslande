@@ -31,4 +31,8 @@
 
 # Sonstiges
 
+___
+**Spieler:innen Notizen:** 
+
+
 >[!infobox]- DM Notizen

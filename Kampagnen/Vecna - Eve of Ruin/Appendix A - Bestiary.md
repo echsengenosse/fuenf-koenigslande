@@ -1,0 +1,44 @@
+# Appendix A: Bestiary
+
+This appendix describes creatures that appear in the adventure, presenting them in alphabetical order. The *introduction* of the *Monster Manual* explains how to read a creature's stat block.
+
+- **Blue Abishai**
+- **Green Abishai**
+- **Red Abishai**
+- **Astral Dreadnought**
+- **Black Rose Bearer**
+- **Blade Lieutenant**
+- **Blade Scout**
+- **Blazebear**
+- **Bone Roc**
+- **Borthak**
+- **Cadaver Collector**
+- **Citadel Spider**
+- **Cosmic Horror**
+- **Deadbark Dryad**
+- **Deathwolf**
+- **Degloth**
+- **Eye Monger**
+- **False Lich**
+- **Granite Juggernaut**
+- **Hazvongel**
+- **Hertilod**
+- **Inquisitor of the Tome**
+- **Adult Lunar Dragon**
+- **Mirror Shade**
+- **Moonlight Guardian**
+- **Necromancer Wizard**
+- **Night Scavver**
+- **Priest of Osybus**
+- **Relentless Impaler**
+- **Lonely Sorrowsworn**
+- **Lost Sorrowsworn**
+- **Spiderdragon**
+- **Kakkuu Spyder-Fiend**
+- **Phisarazu Spyder-Fiend**
+- **Quavilithku Spyder-Fiend**
+- **Raklupis Spyder-Fiend**
+- **Star Angler**
+- **Vlazok**
+- **Warforged Warrior**
+- **Whirling Chandelier**

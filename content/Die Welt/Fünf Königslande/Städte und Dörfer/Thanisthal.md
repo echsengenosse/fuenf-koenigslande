@@ -34,3 +34,9 @@
 # Geschichte
 Die Gründung der Stadt liegt über 3.000 Jahre in der Vergangenheit und ist damit eine der ältesten, noch besiedelten Orte der gesamten [[Fünf Königslande]].
 
+___
+**Spieler:innen Notizen:**
+
+
+>[!infobox]- DM Notizen
+>

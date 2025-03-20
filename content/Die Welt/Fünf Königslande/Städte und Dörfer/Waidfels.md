@@ -40,3 +40,11 @@ Außerdem setzt die Architektur auf Akzente aus Materialien, die den unterschied
 
 # Geschichte
 Waidfels hat einen überdurchschnittlich großen Anteil an Dragonborn in der Stadt, was auf die [[Drachengarde]] zurück zu führen ist. Ehemaligen Mitglieder, Bekannte und Familien der aktuellen Mitglieder lassen sich hier nieder und bilden so einen nicht zu vernachlässigen Teil der Gesellschaft. Das spiegelt sich auch in der Architektur wieder.
+
+___
+**Spieler:innen Notizen:**
+
+
+>[!infobox]- DM Notizen
+>
+

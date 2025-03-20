@@ -35,4 +35,8 @@
 # Geschichte
 [Kurze Zusammenfassung der Geschichte des Gebiets, bedeutende Ereignisse, Eroberungen, Kriege oder Entwicklungen]
 
+___
+**Spieler:innen Notizen:**
+
+
 >[!infobox]- DM Notizen
