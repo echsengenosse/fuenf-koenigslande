@@ -1,0 +1,17 @@
+- Geschäft in [[Garagh'tarr]]
+- verkauft Zauberkomponenten, Lolth-Merch, Reliquien und dergleichen
+- Geschäftsführer ist [[DM Keyric Derengar]] und Inhaberin ist offiziell eine weibliche Drow namens **Lady Zentine Tar'avel**
+	- diese Frau  ist vor vielen Jahren gestorben
+	- Keyric hat sich damals gefürchtet das öffentlich zu machen, weil er nicht wusste, was dann aus ihm wird
+	- er hat dann stumpf die Illusion aufrecht erhalten, dass sie den Laden noch aus dem Hintergrund führt, aber viel auf Reisen und daher nur selten vor Ort ist
+	- es gibt vielleicht eine Handvoll Leute die wissen, dass sie tot ist (Keyric, seine beiden "Angestellten" (sie erschaffen die Illusion im Fenster), Keyric Ehefrau (die sich zu mehr als einer Angelegenheit (aber nur, wenn es gar keine andere Möglichkeit gab) als Lady Tar'avel ausgegeben hat))
+	- grade den drei Männern ist bewusst, dass sie dafür brennen werden, wenn das jemals auffliegt
+- wer geht, ohne zu bezahlen oder die Angestellten zu schlecht behandelt, bekommt Besuch von Lady Tar'avels "Vollstreckern", quasi dem hauseigenen Wachpersonal, das dafür bekannt ist, auch vor weiblichen Drow keinen Halt zu machen, wenn sie ihre Schulden nicht bezahlen können (sie bestehen aus Hobgoblins, Grottenschraten, Ogern und dergleichen)
+- bei den beiden "Angestellten" handelt es sich um die beiden Luft-Genasi Brüder [[DM Daden]] und [[DM Kayden]]
+	- beides Sklaven, die Keyric angeblich von seiner Herrin für seine Dienste geschenkt wurden und die ihm im Laden helfen sollen
+	- tatsächlich hat er sie in einer nahen Höhle aufgegabelt, wo sie in der Nähe einer zerstörten Karawane voller Leichen die einzigen beiden Überlebenden waren
+	- die Karawane war von einer Gruppe Werkreaturen angegriffen worden und [[DM Daden]] wurde gebissen und hat das noch nicht unter Kontrolle
+	- Keyric fälschte Kaufdokumente und nahm die beiden bei sich auf
+	- Keyric ist selbst Lykantrop, deshalb ist Dadens Biss kein Problem für ihn und er hilft ihm, wo er nur kann
+		- Kayden hasst ihn dafür, dass er seinem Bruder und er selbst nicht
+	- Daden und Keyric haben eine intime (sexuelle) Beziehung, was nur dem aufmerksamen Beobachter auffällt (unter Drow gibt es sowas einfach nicht!)

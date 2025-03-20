@@ -34,5 +34,5 @@
 - Miriel hat Xierran im Auge behalten um sicher zu stellen, dass er sich an seinen Schwur hält
 
 **Was Xierran erfahren hat:**
-- er hat erfahren, wo in [[Garagh'tarr]] der Zugang zur [[Netzkante]], dem Ort aus Kapitel von Eve of Ruin ist
+- er hat erfahren, wo in [[Garagh'tarr]] der Zugang zur [[Netzkante]], dem Ort aus Kapitel 2 von Eve of Ruin ist
 - er hat erfahren, das [[Garagh'tarr]] auf den Ruinen eines Tempels einer anderen Gottheit als Lolth erbaut wurde (und damit nicht schon immer ein Zentrum ihrer Macht war)
