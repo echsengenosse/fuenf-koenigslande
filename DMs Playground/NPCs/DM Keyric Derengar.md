@@ -2,6 +2,7 @@
 ![[0634063a5917e766b7d88de922d409f0.jpg]]
 (https://i.pinimg.com/736x/06/34/06/0634063a5917e766b7d88de922d409f0.jpg)
 
+![[Keyric2.png|350]]
 # Persönlichkeit
 ## Zitate
 *Aussagen, um dem Charakter schnell aufgreifen zu können:*
