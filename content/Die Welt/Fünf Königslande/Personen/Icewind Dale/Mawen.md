@@ -1,4 +1,10 @@
+
 ![[6836206255af015d09e350f89208e7c2.jpg|350]]
+(*Mawen heute*)
+
+![[Mawen2.png|350]]
+(*Mawen damals*)
+
 # Allgemeine Infos
 - **Vollständiger Name:** Mawen
 - **Volk:** Elf (Drow)

@@ -1,3 +1,4 @@
+
 ![[Nass Lantomirs Ghost.jpg|350]]
 # Allgemeine Infos
 - **Vollständiger Name:** Nass Lantomir
