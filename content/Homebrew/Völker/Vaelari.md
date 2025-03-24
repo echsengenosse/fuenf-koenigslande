@@ -18,10 +18,15 @@ ___
 Als Vaelar hast du die Anpassungsfähigkeiten der Menschen und die scharfen Sinne der Elfen geerbt, doch deine wahre Stärke liegt in deiner Fähigkeit entgegen allen Widrigkeiten zu überleben.
 
 **Attributserhöhung.** Du kannst ein Attribut um 2 steigern (empfohlen: Geschicklichkeit oder Konstitution) und eins um 1 (empfohlen: Weisheit)
+
 **Alter.** Vaelari werden ähnlich schnell wie Menschen erwachsen, können aber bis zu 200 Jahre alt werden.
+
 **Größe.** Vaelari sind in der Regel zwischen 1,50m und 1,90m groß. Deine Größenkategorie ist mittelgroß.
+
 **Geschwindigkeit.** Deine Grundbewegungsrate beträgt 10,5m (35ft.).
+
 **Dunkelsicht.** Du hast Dunkelsicht bis zu einer Reichweite von 18m (60ft).
+
 **Sprachen.** Du sprichst Gemeinsprache, Elfisch und eine weitere Sprache deiner Wahl.
 
 **Überlebensinstinkt.** Du bist entweder in *Heimlichkeit* oder *Überlebenskunst* (deine Wahl) geübt. Außerdem kannst du schwieriges Gelände, dass durch natürliche Gegebenheiten wie Schnee, Sand oder dichtes Unterholz, entstanden ist, ignorieren.
