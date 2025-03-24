@@ -8,8 +8,8 @@
 *Aussagen, um dem Charakter schnell aufgreifen zu können:*
 - "Willkommen, willkommen, in [[Lady Tar'avel's Imporium]]!"
 - "Die Komponenten für 'Vorahnung' (speziell markierte Stöcker, Knochen oder ähnliches mit einem Wert von min. 25 Gold) gibt es heute im Sonderangebot! Kauft drei und erhaltet einen Lolth-Plushie gratis dazu!"
-- "Meine Freunde, Ihr seht aus, als könntet ihr das aller neueste 'Spider's Delight' gebrauchen! So, wird Euer Heim nur so von Lolths prächtigen Gaben gesegnet sein!"
-- "Eure Abscheulichkeit lässt mein Innerstes Erbeben, Euer Großscheußlichkeit!" gefolgt von einer eleganten Verbeugung zu einem Hobgoblin-Mädchen, das versucht besonders eschreckend zu sein
+- "Meine Freunde, Ihr seht aus, als könntet ihr das aller neueste 'Spider's Delight' gebrauchen! So wird Euer Heim nur so von Lolths prächtigen Gaben gesegnet sein!"
+- "Eure Abscheulichkeit lässt mein Innerstes Erbeben, Euer Großscheußlichkeit!" gefolgt von einer eleganten Verbeugung zu einem Hobgoblin-Mädchen, das versucht besonders eschreckend zu sein und dann kichert
 - "Meine Gnädigste, dieses Amulett würde hervorragend zu Eurer bereits ausgezeichnet gewählten Garderobe passen! Darf ich Euch vielleicht noch diesen Armreif dazu anbieten? Für Euch mache sogar einen Sonderpreis".
 
 ## Verhalten
