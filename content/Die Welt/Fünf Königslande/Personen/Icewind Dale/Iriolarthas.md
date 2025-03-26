@@ -7,7 +7,7 @@ ___
 - Kann in unbekannten Zyklen einen Schrei abgeben, der Gegner auf 0 TP setz
 - Kann Gegner erblinden lassen
 - Empfindlich gegenüber Feuerschaden
-- Immun gegen Magieschaden
+- ~~Immun~~ resistent gegen Magieschaden
 
 
 >[!infobox]- DM Notizen
