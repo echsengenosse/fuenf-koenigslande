@@ -4,16 +4,14 @@
 >[!infobox]+ Allgemeine Infos
 ># Allgemeine Infos
 >---
->   |   
->:---|:---
->**Vollständiger Name:** | Lord Aldric Dunkelwasser
->**Volk:** | Mensch
->**Geschlecht:** | männlich
->**Alter:** | Anfang 50
->**Beruf:** | Ratsfürst
->**Herkunft:** | [[Forlion]]
->**Aufenthaltsort:** | [[Forlion]]
->**Status:** | lebendig
+>- **Vollständiger Name:** Lord Aldric Dunkelwasser
+>- **Volk:** Mensch
+>- **Geschlecht:** männlich
+>- **Alter:** Anfang 50
+>- **Beruf:** Ratsfürst
+>- **Herkunft:** [[Forlion]]
+>- **Aufenthaltsort:** [[Forlion]]
+>- **Status:** lebendig
 
 # Aussehen
 - **Haarfarbe:** Glatze

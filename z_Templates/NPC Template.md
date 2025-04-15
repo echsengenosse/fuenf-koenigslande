@@ -3,16 +3,14 @@
 >[!infobox]+ Allgemeine Infos
 ># Allgemeine Infos
 >---
->   |   
->:---|:---
->**Vollständiger Name:** | 
->**Volk:** | 
->**Geschlecht:** | 
->**Alter:** | 
->**Beruf:** | 
->**Herkunft:** | 
->**Aufenthaltsort:** | 
->**Status:** | 
+>- **Vollständiger Name:** 
+>- **Volk:** 
+>- **Geschlecht:** 
+>- **Alter:** 
+>- **Beruf:** 
+>- **Herkunft:** 
+>- **Aufenthaltsort:** 
+>- **Status:** 
 
 # Aussehen
 - **Haarfarbe:** 
