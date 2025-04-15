@@ -3,14 +3,17 @@
 >[!infobox]+ Allgemeine Infos
 ># Allgemeine Infos
 >---
->- **Vollständiger Name:** 
->- **Volk:** 
->- **Geschlecht:** 
->- **Alter:** 
->- **Beruf:** 
->- **Herkunft:** 
->- **Aufenthaltsort:** 
->- **Status:** 
+>   |   
+>:---|:---
+>**Vollständiger Name:** | Alric Vaelor
+>**Volk:** | Halbelf
+>**Geschlecht:** | männlich
+>**Alter:** | Erwachsen
+>**Beruf:** | Vertreter der [[Taren]]
+>**Herkunft:** | 
+>**Aufenthaltsort:** | [[Forlion]]
+>**Status:** | lebendig
+
 
 # Aussehen
 - **Haarfarbe:** 
