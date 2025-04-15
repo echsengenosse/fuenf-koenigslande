@@ -12,7 +12,6 @@
 >- **Aufenthaltsort:** 
 >- **Status:** 
 
-
 # Aussehen
 - **Haarfarbe:** 
 - **Augenfarbe:** 
