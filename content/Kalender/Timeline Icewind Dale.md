@@ -62,6 +62,6 @@ ___
 | 29.07.     | Betreten des Turms von Iriolarthas                                                                                                                      |                                           |
 ___
 
-| Herbst (08) |                                                                              |
-| :---------- | :--------------------------------------------------------------------------- |
-| 01.08.      | Kämpfe gegen [[Iriolarthas]] und [[Auril]];<br>Magie funktioniert nicht mehr |
+| Herbst (08) |                         |
+| :---------- | :---------------------- |
+| 01.08.      | Kampf gegen Iriolarthas |

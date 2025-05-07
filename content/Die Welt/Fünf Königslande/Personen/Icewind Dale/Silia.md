@@ -1,4 +1,3 @@
-
 ![[liana-shadyan-cleric.jpg|350]]
 
 # Allgemeine Infos
@@ -42,5 +41,3 @@ ___
 
 
 
->[!infobox]- DM Notizen
->

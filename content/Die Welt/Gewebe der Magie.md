@@ -1,0 +1,1 @@
+Das Gewebe der Magie ist ein die Welt umspannendes Netz purer Energie. Geübte Zauberwirker:innen knüpfen eine Verbindung zum Gewebe und ziehen daraus Energie für ihre Zauber und Fähigkeiten.

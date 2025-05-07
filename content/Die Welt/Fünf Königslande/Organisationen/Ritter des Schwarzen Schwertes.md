@@ -15,6 +15,3 @@ Eine Gruppe Kultisten, die einer Magierin namens [[Avarice]] unterstehen und in 
 ___
 **Spieler:innen Notizen:**
 - waren vorher Kadroth unterstellt.
-
->[!infobox]- DM Notizen
->

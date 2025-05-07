@@ -1,4 +1,3 @@
-
 ![[Vellynne Harpell.png|350]]
 # Allgemeine Infos
 - **Vollständiger Name:** Vellynne Hapell
@@ -38,7 +37,3 @@ In [[Ythryn]] wurde sie während einer Auseinandersetzung zwischen [[Dzaan Zhaen
 
 ___
 **Spieler:innen Notizen:**
-
-
->[!infobox]- DM Notizen
->

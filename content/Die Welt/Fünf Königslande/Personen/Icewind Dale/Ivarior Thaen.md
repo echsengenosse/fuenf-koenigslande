@@ -1,4 +1,3 @@
-
 ![[r7kjanz8fr361.jpg|350]]
 # Allgemeine Infos
 - **Vollständiger Name:** Ivarior "Ivar" Thaen
@@ -39,7 +38,3 @@ Ivarior kann nicht sprechen. Ihm wurde die Zunge rausgeschnitten. Er kann aber d
 
 ___
 **Spieler:innen Notizen:**
-
-
->[!infobox]- DM Notizen
->

@@ -35,6 +35,3 @@ Erlen hat seinen Vater als Herrscher über das Königreich bereits in jungen Jah
 
 ___
 **Spieler:innen Notizen:**
-
-
->[!infobox]- DM Notizen

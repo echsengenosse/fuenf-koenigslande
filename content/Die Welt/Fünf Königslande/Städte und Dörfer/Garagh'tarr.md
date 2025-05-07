@@ -34,10 +34,3 @@
 # Geschichte
 Xierrans Herkunftsort
 
-
-___
-**Spieler:innen Notizen:**
-
-
->[!infobox]- DM Notizen
->

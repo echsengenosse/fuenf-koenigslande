@@ -38,10 +38,3 @@
 # Geschichte
 Forlion wurde nach dem Untergang der netheresischen Zivilisation und der Neustrukturierung der Fünf Königslande gegründet. Aus Sicht langlebigen Völker ist sie damit noch eine recht junge Stadt. Doch in dieser Zeit ist sie schnell gewachsen und hat an Einfluss gewonnen. Sie hat sich vom Palastbezirk aus immer weiter erweitert und wurde ständig angepasst und neu erfunden.  
 Mit der Gründung der drei Akademien vor 451 Jahren war der Aufschwung der Stadt nicht mehr aufzuhalten. Grade die [[Akademie der Wissenschaft und Technik]] gilt als eine der fortschrittlichsten der Welt und ihre Absolventen gelten als die hellsten Köpfe. Aber auch die [[Akademie der Magier]] und die [[Akademie des Krieges]] sind in ihrem Ruf nicht zu verachten. So ist es beispielsweise der Akademie der Magie, mit [[Lady Naira Emberwind]] als Vorreiterin, vor etwa 30 Jahren gelungen, die sehr negative Sicht auf die Schule der Nekromantie zu wandeln und die Strafen für die Verwendung von Nekromantie vielerorts abzuschaffen.
-
-___
-**Spieler:innen Notizen:**
-
-
->[!infobox]- DM Notizen
->

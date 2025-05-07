@@ -37,6 +37,3 @@ ___
 **Spieler:innen Notizen:**
 - ist fies und gemein!
 - Müsste Grad 8 Zauber können, Rang ‘Großmeister’
-
->[!infobox]- DM Notizen
->[[DM Rodan]]

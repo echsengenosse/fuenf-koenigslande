@@ -17,7 +17,7 @@ In [[Ythryn]] traten sie als zwei Personen, umgeben von blauem Licht, auf. Einer
 Das [[Gewebe der Magie]] vor der Zerstörung schützen.
 
 # Sonstiges
-- Tragen das Zeichen [[Mystryl|Mystryls]]
+- Tragen das Zeichen [[Mystra|Mystryls]]
 - scheinen von einer Zone der Wahrheit umgeben zu sein
 
 ___

@@ -17,8 +17,6 @@ Mitglieder der Neun Wächter werden aber auch in Krisengebiete entsandt und dien
 # Sonstiges
 
 ___
-**Spieler:innen Notizen:**
+**Spieler:innen Notizen:
 
 
->[!infobox]- DM Notizen
->

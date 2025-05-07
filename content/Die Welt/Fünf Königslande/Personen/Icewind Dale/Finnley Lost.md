@@ -1,4 +1,3 @@
-
 ![[lea-bichlmaier-casteel.jpg|350]]
 # Allgemeine Infos
 - **Vollständiger Name:** Finnley Lost
@@ -40,5 +39,3 @@ Sie trafen sich erst fünf Jahre später im Eiswindtal wieder, wo Finn versuchte
 ___
 **Spieler:innen Notizen:**
 
->[!infobox]- DM Notizen
->[[DM Finn]]

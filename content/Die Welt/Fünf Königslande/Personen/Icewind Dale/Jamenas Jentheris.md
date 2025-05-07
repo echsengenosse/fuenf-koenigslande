@@ -1,4 +1,3 @@
-
 ![[Jamenas.jpg|350]]
 # Allgemeine Infos
 - **Vollständiger Name:** Jamenas Jentheris
@@ -40,6 +39,3 @@ Xierran hat [[Mawen]] und seine Begleiter zu Jamenas geschickt, damit dieser ihm
 
 ___
 **Spieler:innen Notizen:**
-
->[!infobox]- DM Notizen
->

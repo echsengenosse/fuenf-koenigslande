@@ -38,6 +38,3 @@ ___
 **Spieler:innen Notizen:**
 - Evokation-Magierin
 - vermutlich wenig TP, dafür Rang ‘Magister’ mit Grad 5 Zauber
-
->[!infobox]- DM Notizen
->

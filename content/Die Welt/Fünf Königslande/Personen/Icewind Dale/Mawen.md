@@ -1,10 +1,4 @@
-
 ![[6836206255af015d09e350f89208e7c2.jpg|350]]
-(*Mawen heute*)
-
-![[Mawen2.png|350]]
-(*Mawen damals*)
-
 # Allgemeine Infos
 - **Vollständiger Name:** Mawen
 - **Volk:** Elf (Drow)
@@ -42,6 +36,3 @@ Xierran hat ihn und seine beiden Begleiter zu [[Jamenas Jentheris]] geschickt.
 
 ___
 **Spieler:innen Notizen:**
-
->[!infobox]- DM Notizen
->[[DM Mawen]]

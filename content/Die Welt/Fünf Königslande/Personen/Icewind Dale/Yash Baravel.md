@@ -42,6 +42,3 @@ ___
 **Spieler:innen Notizen:**
 - hat [[Kephalos M'nark]] bei einer Kneipenschlägerei kennengelernt
 - wurde von [[Finnley Lost]] angeheuert
-
->[!infobox]- DM Notizen
->

@@ -37,7 +37,3 @@ Im Jahre 976 [[Die Sieben Zeitalter#8. Drachenfrieden|DF]] geschahen im [[Haus S
 ___
 **Spieler:innen Notizen:**
 - Heimat von Morris, [[Finnley Lost]] und [[Jaylynn]]
-
-
->[!infobox]- DM Notizen
->

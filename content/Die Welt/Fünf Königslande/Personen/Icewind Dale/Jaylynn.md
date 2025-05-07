@@ -1,9 +1,11 @@
   
 ![[d6adafe9f9c970499d5eb6d895d9c944.jpg|350]]
-(*Jaylynn/Maria heute*)
+
+*Jaylynn/Maria heute*
 
 ![[16211941468242340189513716136014.jpg|350]]
-(*Maria in Morris Erinnerung*)
+
+*Maria in Morris Erinnerung*
 # Allgemeine Infos
 - **Vollständiger Name:** ursprünglich Maria Saley, wird heute aber von den Meisten Jaylynn genannt
 - **Volk:** Mensch
@@ -44,6 +46,3 @@ Im [[Eiswindtal]] traf sie dann [[Finnley Lost]], der ihr erklärte, dass sie ve
 
 ___
 **Spieler:innen Notizen:**
-
->[!infobox]- DM Notizen
->[[DM Jaylynn]]

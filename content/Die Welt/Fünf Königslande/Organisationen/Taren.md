@@ -19,8 +19,4 @@ Die internationalen Handelsrouten ausbauen und sichern und so den Kontakt und de
 Die Taren selbst sind keine Militärmacht, doch sie werden in der Regel von bewaffneten Eskorten und angeheuerten Söldnern begleitet. Es gibt Gerüchte, dass es nur eine Frage der Zeit ist, bis sie sich offiziell mit ihrem größten Vertragspartner zusammentun und eine kaum noch aufhaltbare Institution werden.
 
 ___
-**Spieler:innen Notizen:**
-
-
->[!infobox]- DM Notizen
->
+**Spieler:innen Notizen:

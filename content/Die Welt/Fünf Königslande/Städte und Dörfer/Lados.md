@@ -33,11 +33,3 @@
 
 # Geschichte
 unbekannt
-
-
-___
-**Spieler:innen Notizen:**
-
-
->[!infobox]- DM Notizen
->
