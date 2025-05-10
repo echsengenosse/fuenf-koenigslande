@@ -1,3 +1,4 @@
+
 ![[Dzaan.png|350]]
 # Allgemeine Infos
 - **Vollständiger Name:** Dzaan Zhaendril
@@ -14,6 +15,7 @@
 - **Augenfarbe:** blau
 - **Statur:** schlank
 - **Besonderheiten:** trägt meistens einen großen Spitzhut
+
 # Persönlichkeit
 - **Charaktereigenschaften:** 
 	- sehr direkt
