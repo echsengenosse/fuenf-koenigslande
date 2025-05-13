@@ -62,7 +62,7 @@ ___
 | 29.07.     | Betreten des Turms von Iriolarthas                                                                                                                      |                                           |
 ___
 
-| Herbst (08) |                                                                                                                              |
-| :---------- | :--------------------------------------------------------------------------------------------------------------------------- |
-| 01.08.      | Kampf gegen Iriolarthas                                                                                                      |
-| 02.08.      | [[Mawen]] erreicht [[Jamenas Jentheris\|Jamenas]]; [[Dzaan Zhaendril\|Dzaan]] verliert seine Magie; [[Ythryn]] fliegt wieder |
+| Herbst (08) |                                                                           |                                                   |
+| :---------- | :------------------------------------------------------------------------ | ------------------------------------------------- |
+| 01.08.      | Kampf gegen Iriolarthas                                                   |                                                   |
+| 02.08.      | [[Dzaan Zhaendril\|Dzaan]] verliert seine Magie; [[Ythryn]] fliegt wieder | [[Mawen]] erreicht [[Jamenas Jentheris\|Jamenas]] |
