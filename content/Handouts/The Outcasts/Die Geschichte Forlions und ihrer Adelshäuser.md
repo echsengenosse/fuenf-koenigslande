@@ -40,5 +40,3 @@ Seit der Gründung Forlions ist die Familie Dunkelwasser Mitglied im Hohen Rat. 
 Bei der Familie Emberwind handelt es sich um eine relativ neue Adelsfamilie, vor allem auf dem Gebiet der Fünf Königslande. Es gibt einen einflussreichen Clan in Rheknos, dessen Anführerin den selben Nachnamen trägt. Ob eine familiäre Verwandtschaft besteht, ist unbekannt.
 Das aktuelle Familenoberhaupt, Lord Eberrin Emberwind, gilt als Gründer der Familie, nachdem er im Jahre 947 DF (vor 34 Jahren) von König Larcon dem Großen in den Adelsstand erhoben wurde. 
 Seinen früheren Adelstitel, erworben durch die Adoption durch Lord Eron von Aeris, legte er 920 DF ab und nahm erneut den Nachnamen Emberwind an, den er bis heute trägt. Sein Zuständigkeitsbereich ist die Innenpolitik. 
-
-Viele stehen seinem 
