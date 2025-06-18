@@ -34,3 +34,6 @@
 # Geschichte
 unbekannt
 
+# Sonstiges
+
+> "Thorwacht - ein unvergesslicher Anblick. Ich werde niemals den Morgen vergessen, an dem ich das weiße Tor zum ersten Mal erblickte."
