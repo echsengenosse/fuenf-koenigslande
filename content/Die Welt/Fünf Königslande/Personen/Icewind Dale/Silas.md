@@ -37,3 +37,7 @@ Silas wurde von [[Dzaan Zhaendril]] mithilfe einer Schriftrolle als Simulakrum "
 ___
 **Spieler:innen Notizen:**
 - kann Grad 4 Zauber
+
+>[!infobox]- DM Notizen
+>[[DM Silas]]
+>[[DM Dzaan]]

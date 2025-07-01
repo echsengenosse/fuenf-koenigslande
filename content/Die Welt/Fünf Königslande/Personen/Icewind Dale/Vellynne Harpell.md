@@ -37,3 +37,7 @@ In [[Ythryn]] wurde sie während einer Auseinandersetzung zwischen [[Dzaan Zhaen
 
 ___
 **Spieler:innen Notizen:**
+
+
+>[!infobox]- DM Notizen
+>[[DM Vellynne]]

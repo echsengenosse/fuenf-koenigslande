@@ -38,3 +38,7 @@ Ivarior kann nicht sprechen. Ihm wurde die Zunge rausgeschnitten. Er kann aber d
 
 ___
 **Spieler:innen Notizen:**
+
+
+>[!infobox]- DM Notizen
+>[[DM Ivar]]

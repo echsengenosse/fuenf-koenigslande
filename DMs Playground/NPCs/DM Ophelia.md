@@ -1,6 +1,8 @@
 
 ![[95495fdd5703888f3a809c2460f767af.jpg|350]]
 
+[[Ophelia LaFloon]]
+
 Ophelia LaFloon ist Xierrans jüngere Schwester und wahrscheinlich der Grund, dass er [[Garagh'tarr]] verlassen musste.
 
 ___
@@ -36,6 +38,7 @@ Sie geht ohne ein weiteres Wort und lässt ihn stehen.
 ___
 - sie geht zu Keyric und schläft mit ihm
 - sie stellt sicher, dass andere wissen, dass sie dort war, während Xierran bei Miriel eingebrochen ist
+
 # Xierrans Kopfgeld
 Sie hat ein ziemlich hohes Kopfgeld auf ihn ausgesetzt: **5.000 GM** für den Beweis seines Todes, **10.000 GM** für das lebendige Ausliefern.
 Xierran ist nicht ganz klar, warum sie das macht. Sie möchte einfach auf Nummer Sicher gehen. Sie kann ihn in ihrem Leben nicht gebrauchen und sein Auftauchen würde möglicherweise ihre Pläne durcheinander werfen. Dies ist kein offizielles, von der Stadt/Priesterschaft genehmigtes Kopfgeld. Es ist ein privates und nur wenige wissen davon. [[Mawen]] hat es per Zufall erfahren, [[Thaira]] war eingeweiht

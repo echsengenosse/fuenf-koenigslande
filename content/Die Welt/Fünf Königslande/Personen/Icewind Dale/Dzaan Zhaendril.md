@@ -51,3 +51,6 @@ Update, nach einem Gespräch mit [[Silas]]:
 - Hat den Titel ‘Hohenmagier’ ([[Ränge der Magie]]) und kann Grad 7 Zauber  
 - Ist roter Magie, aber nicht aus Überzeugung
 - Ist Per Se keine gewalttätige Person
+
+>[!infobox]- DM Notizen
+>[[DM Dzaan]]

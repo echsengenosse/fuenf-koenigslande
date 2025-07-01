@@ -8,3 +8,6 @@ ___
 - Kann Gegner erblinden lassen
 - Empfindlich gegenüber Feuerschaden
 - Immun gegen Magieschaden
+
+>[!infobox]- DM Notizen
+>[[DM Iriolarthas]]

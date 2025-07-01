@@ -36,3 +36,7 @@ Xierran hat ihn und seine beiden Begleiter zu [[Jamenas Jentheris]] geschickt.
 
 ___
 **Spieler:innen Notizen:**
+
+
+>[!infobox]- DM Notizen
+>[[DM Mawen]]
