@@ -3,7 +3,7 @@
 *(inkl. bekannter Orte)*
 ![[FuenfKoenigslandeKarte.png|250]]
 
-[[Karte|Bekannte Orte]]
+[[Fünf Königslande#Benannte Orte|Bekannte Orte]]
 *(Übersichtskarte über die bekannten Orte)*
 ![[FuenfKoenigslandeKarteBekannteOrte.png|250]]
 

@@ -13,3 +13,5 @@ ___
 - **The First Exile** – The Vaelari tell the story of **Vael'Thain**, the first leader who led their people into the wilds, forging a path through death and despair. Some say he never died, but still walks among them, appearing only when his people need him most.
 - **The Shattered Crown** – A whispered legend speaks of an ancient elven or human kingdom that fell because it wronged the Vaelari. Some say the exiles wove a curse into the very bones of the land, ensuring no ruler who betrayed them would ever sit on a throne in peace.
 - **The City of the Lost** – Hidden somewhere in the world is **Vael'Zara**, the first city of the exiles, said to be a sanctuary untouched by time. Many seek it, but none have ever returned with proof of its existence.
+
+[[Vaelari]]
