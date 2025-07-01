@@ -12,11 +12,61 @@ Die Fünf Königslande bestehen aus:
 - [[Sobris]], dem südwestlichen Königreich
 - [[Vadian]], dem westlichen Königreich
 
+# Benannte Orte
+![[FuenfKoenigslandeKarteBekannteOrte.png]]
+*(Karte der Fünf Königslande mit bereits benannten Orten)*
 
-![[FuenfKoenigslandeKarteRegierungssitze.png]]
-*(Eine Karte mit den bereits besuchten/ erwähnten Orten findet ihr [[Fünf Königslande#Benannte Orte|HIER]])*
+# Antorras
+[[Antorras]] - Hauptstadt/Stadtstaat
+
+# Nairen
+| ID   | Ort                         |
+| :--- | :-------------------------- |
+| (H)  | [[Thanisthal]] - Hauptstadt |
+| (H1) | [[Waidfels]]                |
+|      | - [[Nebelhain]]             |
+| (H2) | [[Klingenheim]]             |
+| (F4) | [[Treuchtlingen]]           |
+
+# Orandir
+| ID   | Ort                                       |
+| :--- | :---------------------------------------- |
+| (H)  | [[Forlion]] - Hauptstadt                  |
+| (B2) | [[Thellstedt]]                            |
+| (F4) | [[Tirak]]                                 |
+| (1)  | [[Kyrc]]                                  |
+| (2)  | [[Rodans Camp]]                           |
+| (3)  | [[Alte Ruine\|Finns Teleportationskreis]] |
+
+# Saavia
+| ID   | Ort                      |
+| :--- | :----------------------- |
+| (H)  | [[Hellhorn]] -Hauptstadt |
+| (G1) | [[Kleinberg]]            |
+| (1)  | [[Lovkhin-Gebirge]]      |
+|      | - [[Garagh'tarr]]        |
+| (2)  | [[Sanam]]                |
+
+# Sobris
+| ID  | Ort                     |
+| :-- | :---------------------- |
+| (H) | [[Rarock]] - Hauptstadt |
+
+
+# Vadian
+ID | Ort
+:---|:-
+(H) | [[Thorwacht]] - Hauptstadt
+(B1) | [[Scionby]]
+(1) | [[Eiswindtal]]
+(2) | [[Lados]]
+(3) | [[Khurat-Inseln]]
 
 # Herrschaftsgebiete
+
+![[FuenfKoenigslandeKarteRegierungssitze.png]]
+*(Karte aller Herrschaftsgebiete)*
+
 Die [[Fünf Königslande]] sind im Grundsatz föderalistisch strukturiert. Das heißt, dass jedes Königreich in Herzogtümer, Fürstentümer, Grafschaften und Baronien unterteilt. Jedes dieser Gebiete kann mehrere Städte und Ortschaften umfassen, hat in der Regel aber einen Herrscherrsitz. Dieser liegt üblicherweise in oder nahe einer Stadt.
 
 ## Nairen
@@ -111,42 +161,3 @@ Die [[Fünf Königslande]] sind im Grundsatz föderalistisch strukturiert. Das h
 | B4  | [[Kiesenstadt]] | [[Kiesenstatt]] | Baronie      | [[Lord Varradan Benjar Thorinstein]] |
 
 
-# Benannte Orte
-![[FuenfKoenigslandeKarteBekannteOrte.png]]
-*(Karte der Fünf Königslande mit bereits benannten Orten)*
-
-# Antorras
-[[Antorras]] - Hauptstadt/Stadtstaat
-
-# Nairen
-(H) [[Thanisthal]] - Hauptstadt
-(H1) [[Waidfels]]
-	- [[Nebelhain]]
-(H2) [[Klingenheim]]
-(F4) [[Treuchtlingen]]
-
-# Orandir
-(H) [[Forlion]] - Hauptstadt
-(B2) [[Thellstedt]]
-(F4) [[Tirak]]
-(1) [[Kyrc]]
-(2) [[Rodans Camp]]
-(3) [[Alte Ruine|Finns Teleportationskreis]]
-
-# Saavia
-(H) [[Hellhorn]] -Hauptstadt
-(G1) [[Kleinberg]]
-(1) [[Lovkhin-Gebirge]]
-	- [[Garagh'tarr]]
-(2) [[Sanam]]
-
-# Sobris
-(H) [[Rarock]] - Hauptstadt
-
-
-# Vadian
-(H) [[Thorwacht]] - Hauptstadt
-(B1) [[Scionby]]
-(1) [[Eiswindtal]]
-(2) [[Lados]]
-(3) [[Khurat-Inseln]]
