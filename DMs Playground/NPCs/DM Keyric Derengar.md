@@ -3,6 +3,10 @@
 (https://i.pinimg.com/736x/06/34/06/0634063a5917e766b7d88de922d409f0.jpg)
 
 ![[Keyric2.png|350]]
+
+Mutter: Tybella Derengar
+Geschwister: Thabor (älter)
+
 # Persönlichkeit
 ## Zitate
 *Aussagen, um dem Charakter schnell aufgreifen zu können:*
@@ -39,7 +43,7 @@ Keyric: "Ich verdanke deiner Schwester eine Menge. Also... Ich verachte das sadi
 
 # Keyric und Xierran (und Theren)
 
-Wenn die beiden sich wieder treffen, wird er natürlich sehr erfreut sein. Zum Ende des Gesprächs mit er Xierran, wird er diesem dann aber sagen, dass er ihn mitten in der Nacht an einem abgelegenen Tunnel treffen soll. Er wird nicht sagen, worum es geht, wird Xierran aber deutlich machen, dass er es sehen sollte.
+Wenn die beiden sich wieder treffen, wird er natürlich sehr erfreut sein. Zum Ende des Gesprächs mit Xierran, wird er diesem dann aber sagen, dass er ihn mitten in der Nacht an einem abgelegenen Tunnel treffen soll. Er wird nicht sagen, worum es geht, wird Xierran aber deutlich machen, dass er es sehen sollte.
 Sie gehen eine Weile durch dunkle Gänge und Höhlen, inkl. einiger Geheimgänge, bis sie schließlich an einem Abgrund stehen. Keyric meint: "Ich habe ihn vor ein paar Jahren auf einer Reise entdeckt. Ich weiß nicht, was mit ihm los ist... Ich habe versucht ihm zu helfen, aber das beste, was ich tun konnte, war, ihn herzubringen. [[DM Daden]] und ich kommen her so oft wir können und bringen ihm essen". Der Abgrund ist etwa sechs Meter tief und führt in eine größere Höhle durch die ein klarer Bach führt. Es gibt mehrere Plattformen und jemand scheint hier zu wohnen. Dieser jemand ist [[DM Theren]], Xierrans verschwundener Vater. Er brabbelt unverständliches Zeug vor sich hin, ist völlig abgemagert und wirkt wie von Sinnen. Die ganze Wände sind voller Zeichnungen und Skizzen, die keinen Sinn ergeben und er reagiert nicht auf Ansprache.
 
 # Im Laden
@@ -59,7 +63,7 @@ Sie: "Gut. Es wird nicht lange dauern". Sie sieht ihn auffordernd an. Er nickt b
 Drow-Frau: "Was ist mit dem? Steht der zum Verkauf?" sie deutet auf [[DM Daden]]. Keyric schüttelt betont betrübt den Kopf.
 Keyric: "Ich fürchte nein, Euer Hochwürden..."
 Frau: "Warum nicht? Ich will ihn".
-Keyric: "Ich fürchte, ich kann guten gewissen weder verkaufen noch vermieten. Ihr müsst wissen, er ist krank... in bestimmten... Naja, Ihr versteht..." Sie guckt ihn angewidert an, gibt ihm eine Ohrfeige und spuckt aus.
+Keyric: "Ich fürchte, ich kann ihn guten gewissens weder verkaufen noch vermieten. Ihr müsst wissen, er ist krank... in bestimmten... Naja, Ihr versteht..." Sie guckt ihn angewidert an, gibt ihm eine Ohrfeige und spuckt aus.
 Frau: "Das ist dafür, dass du deinen Laden nicht sauber halten kannst". Er murmelt ein "Danke" (die erwartete Reaktion in dieser Situation) und schaut betreten zu Boden, während sie den Laden verlässt, ohne für ihre Waren zu bezahlen. Er seufzt.
 Keyric: "[[DM Daden]], ich sollte dich ins Hinterzimmer sperren, wenn Kundschaft da ist. Du kostest mich eine Menge Umsatz!"
 [[DM Daden]]: "Wie es Euch beliebt, Meister". Der Tonfall ist zu verspielt für geübte Ohren.

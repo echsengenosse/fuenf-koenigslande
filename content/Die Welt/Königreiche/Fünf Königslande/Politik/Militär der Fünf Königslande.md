@@ -32,7 +32,7 @@ Soldaten stellen den Großteil des Heeres. Sie haben die Grundausbildung abgesch
 #### **Spezialist**
 
 ![[0.4 Militärabzeichen Spezialist.png|100]]  
-Spezialisten sind Soldaten, die besondere Fähigkeiten in spezifischen Bereichen wie Aufklärung, Handwerk, Sanität oder Technik besitzen. Sie führen eine spezielle Aufgabe aus, aber in der Regel unterstehen ihnen Truppen von Soldaten.
+Spezialisten sind Soldaten, die besondere Fähigkeiten in spezifischen Bereichen wie Aufklärung, Handwerk, Sanitätsdienst oder Technik besitzen. Sie führen eine spezielle Aufgabe aus, aber in der Regel unterstehen ihnen Truppen von Soldaten.
 
 #### **Truppenführer**
 

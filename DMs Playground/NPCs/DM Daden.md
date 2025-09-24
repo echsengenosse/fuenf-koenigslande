@@ -3,4 +3,4 @@
 
 Keyrics Angestellter und Liebhaber.
 Lykantrop (hat das noch nicht unter Kontrolle)
-Bruderr von [[DM Kayden]]
+Bruder von [[DM Kayden]]
