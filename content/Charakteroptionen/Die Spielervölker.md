@@ -72,12 +72,12 @@ Die Spalte mit "Spielervolk" bezieht sich auf meine Welt. Völker, bei denen in 
 
 
 # Verteilung auf den Kontinenten
-| [[Corvur]]        | [[Dracheninseln]]                    | [[Durglyn]] | [[Fünf Königslande]]                                 | [[Krisbayne]]                     |
-| :---------------- | :----------------------------------- | :---------- | :--------------------------------------------------- | :-------------------------------- |
-| 56% Menschen      | 95% Drachen, Dragonborn, Halbdrachen | 65% Zwerge  | 43% Menschen, Elfen, Zwerge                          | 54% Elfen, Menschen, Halbelfen    |
-| 32% Elfen, Zwerge | 3% Kobolde                           | 31% Gnome   | 40% Halblinge, Gnome, Halborks, Halbelfen, Tieflinge | 40% Aasimar, Tieflinge, Kalashtar |
-| 11% Halblinge     | 2% Sonstige                          | 4% Sonstige | 11% Sonstige                                         | 6% Sonstige                       |
-| 1% Sonstige       |                                      |             | 4% Tieflinge                                         |                                   |
+| [[Corvur]]        | [[Dracheninseln]]                    | [[Durglyn]] | [[Fünf Königslande]]                      | [[Krisbayne]]                     |
+| :---------------- | :----------------------------------- | :---------- | :---------------------------------------- | :-------------------------------- |
+| 56% Menschen      | 95% Drachen, Dragonborn, Halbdrachen | 65% Zwerge  | 43% Menschen, Elfen, Zwerge               | 54% Elfen, Menschen, Halbelfen    |
+| 32% Elfen, Zwerge | 3% Kobolde                           | 31% Gnome   | 40% Halblinge, Gnome, Halborks, Halbelfen | 40% Aasimar, Tieflinge, Kalashtar |
+| 11% Halblinge     | 2% Sonstige                          | 4% Sonstige | 11% Sonstige                              | 6% Sonstige                       |
+| 1% Sonstige       |                                      |             | 4% Tieflinge                              |                                   |
 
 | [[Paeyth]]              | [[Rheknos]]                                            | [[Scherben]]                             | [[Zuresh]]                                |
 | :---------------------- | :----------------------------------------------------- | :--------------------------------------- | :---------------------------------------- |

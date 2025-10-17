@@ -1,0 +1,9 @@
+
+>Zerelda war keine sehr herzliche Person. Eigentlich hat Xierran nie erlebt, dass sie Gefühle gezeigt hätte, weder positive noch negative; natürlich nicht gegenüber ihm, aber auch nicht gegenüber Theren oder Ophelia. Trotzdem hat er aus früher Kindheit einige positive Erinnerungen an sie (wenn auch nicht an sie direkt), wenn sie zu dritt, später zu viert, zu Zeremonien, Opferungen oder Hinrichtungen gegangen sind. Dann fühlte es sich an wie eine richtige Familie.
+>
+>Zerelda hat ihn vielleicht nicht unterstützt, aber Xierran vermisste das nicht, er kannte es ja nicht anders (das tat Theren, der Xierran in der ersten Zeit nach seinem Verschwinden auch schmerzhaft fehlte). Zumindest hat sie, anders als Ophelia, auch nie dafür gesorgt, dass es ihm schlecht ging. Nach Therens Verschwinden bemühte sie sich um eine Atmosphäre im Haushalt, die sich am besten als professionell beschreiben lässt; ähnlich einer WG. Sie hat Xierran nie unter Druck gesetzt oder ihm Vorwürfe gemacht, als keine Beförderung oder zumindest eine aussichtsreiche Heirat abzusehen war; vermutlich, weil sie die Hoffnung sowieso schon lange aufgegeben hatte. Die Beziehung zwischen den beiden war – unvorhanden, aber eher positiv. Wären sie Sims, wären sie „Bekannte“ mit einem schmalen grünen Streifen (zumindest nach Xierrans Einschätzung).
+
+Soweit Xierran weiß, ist seine Mutter nicht mehr am Leben. Angeblich hat Ophelia einen von ihr geplanten Coup aufgedeckt und der Obrigkeit gesteckt, wodurch Zerelda als Verräterin hingerichtet wurde. Ob das alles so stimmt, ist ein bisschen unklar.
+
+# Was tatsächlich passiert ist
+Ophelia hat entsprechende Beweise zum Teil gefälscht und zum Teil aus dem Kontext gerissen. Sie wollte die Mutter loswerden. Zerelda hat Ophelias Plot zu spät bemerkt, oder lange nicht bemerken wollen und deshalb konnte sie nichts mehr unternehmen, als die Vorwürfe gegen sie offiziell wurden.
