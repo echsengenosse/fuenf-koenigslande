@@ -5,6 +5,7 @@
 ![[Keyric2.png|350]]
 
 Mutter: Tybella Derengar
+Vater: Haron Derengar
 Geschwister: Thabor (älter)
 
 # Persönlichkeit
