@@ -1,12 +1,14 @@
+
 ![[Vellynne Harpell.png|350]]
+
 # Allgemeine Infos
-- **Vollständiger Name:** Vellynne Hapell
+- **Vollständiger Name:** Vellynne Harpell
 - **Volk:** Mensch
 - **Geschlecht:** weiblich
 - **Alter:** um die 50 
 - **Beruf:** Magierin der Nekromantie
 - **Herkunft:** unbekannt
-- **Aufenthaltsort:** [[Ythryn]]
+- **Aufenthaltsort:** [[Ythryn]] (bzw. Ythryns Überreste im Reghed-Gletscher)
 - **Status:** tot
 
 # Aussehen

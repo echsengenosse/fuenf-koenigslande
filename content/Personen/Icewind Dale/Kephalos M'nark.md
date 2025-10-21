@@ -7,7 +7,7 @@
 - **Alter:** ca. 100-120 Jahre
 - **Beruf:** Abenteurer
 - **Herkunft:** [[Paeyth]]
-- **Aufenthaltsort:** [[Ythryn]]
+- **Aufenthaltsort:** [[Ythryn]] → [[Rodans Camp]]
 - **Status:** lebendig
 
 # Aussehen
@@ -20,6 +20,7 @@
 - **Charaktereigenschaften:** 
 	- sehr höflich (bis zu einem Grad, der andere irritieren könnte)
 	- bewegt sich und verhält sich so leise, dass man manchmal vergessen könnte, dass er überhaupt da ist
+	- interessiert sich für den Tod und alles, was damit zu tun hat
 - **Ziele:** unbekannt
 
 # Fähigkeiten

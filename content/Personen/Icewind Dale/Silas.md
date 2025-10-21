@@ -1,4 +1,6 @@
+
 ![[Dzaan.png|350]]
+
 # Allgemeine Infos
 - **Vollständiger Name:** Silas 
 - **Volk:** Mensch (ehemaliges Simulakrum von [[Dzaan Zhaendril]])
@@ -6,7 +8,7 @@
 - **Alter:** sieht aus wie Mitte 30, ist technisch erst ein paar Monate alt
 - **Beruf:** Illusionsmagier
 - **Herkunft:** [[Ythryn]]
-- **Aufenthaltsort:** [[Ythryn]]
+- **Aufenthaltsort:** [[Ythryn]] → mit fliegender Stadt auf dem Weg nach [[Lados]]
 - **Status:** lebendig
 
 # Aussehen
@@ -14,6 +16,7 @@
 - **Augenfarbe:** blau
 - **Statur:** schlank
 - **Besonderheiten:** trägt meistens einen großen Spitzhut
+
 # Persönlichkeit
 - **Charaktereigenschaften:** 
 	- sehr direkt

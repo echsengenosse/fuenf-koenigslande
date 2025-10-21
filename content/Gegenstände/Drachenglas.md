@@ -1,4 +1,4 @@
-![[DG_0.png]]
+![[DG_0.png|350]]
 *(verschiedene Beispiele für Drachenglas)*
 
 Drachenglas ist ein kristallartiges Material, das von den Dragonborn in [[Waidfels]] gefertigt wird. Es erinnert im ersten Augenblick an gewöhnliches Glas oder klare Kristalle, doch wenn es von Licht getroffen wird, entfaltet es seine besondere Erscheinung. Drachenglas sieht aus, als würde es von innen heraus leuchten, wenn es von Licht getroffen wird und das in den unterschiedlichsten Farben.  

@@ -37,6 +37,15 @@ Dzaan fand mithilfe einiger Abenteurer einen Turm in der Eiswüste, den er [[Yth
 # Sonstiges
 Das Simulakrum wurde Mithilfe der Gruppe um Mano, Morris, Slice, Torryn und Xierran zu einem echten Menschen und ist nun unter dem Namen [[Silas]] unterwegs. Es gibt zudem Hinweise, die dafür sprechen, dass Dzaan selbst noch am Leben ist.
 
+# Während der Kampagne
+Dzaan hat, während er die Abenteurer:innen in sein magisches Heim eingeladen hat, [[Finnley Lost]] bezaubert. Dieser sollte nach dem Kampf mit [[Iriolarthas]] dafür sorgen, dass die Gruppe nicht sofort zum [[Mythallar]] rennt, damit er sich zuerst darauf einstimmen soll. Da er aber während des Kampfes bewusstlos wurde, endete der Zauber auf Finn. Dieser war davon sichtlich unerfreut.
+Als Dzaan schließlich wieder aufgehoben wurde, schien er davon überrascht zu sein. Er hat nicht erwartet so behandelt zu werden. Xierran teilte ihm mit, dass sich einige Leute bereits auf den Mythallar eingestimmt haben und dass er das jetzt auch tun wird.
+Dzaan kam jedoch nicht dazu sich fertig auf den Mythallar einzustimmen, da dann [[Auril]] erschien. Dzaan wurde losgeschickt Disintegrate auf die [[Spindel]] im [[Turm von Iriolarthas]] zu werfen.
+Als er dies tat fiel in der ganzen Stadt die Magie aus.
+Es konnte schließlich die Ursache des Ausfalls identifiziert werden: zwei "Personen", die sich als Wächter der Magie vorstellten und die nun über Dzaan urteilen wollten, weil er derjenige war, der Disintegrate auf die Spindel gewirkt hat. Im Zuge der "Gerichtsverhandlung" verlor Dzaan seine Magie.
+Nach einiger Überlegung kam er zu dem Schluss, dass er trotzdem nach [[Lados]] wollte, da er sich dort, neben [[Antorras]] (explizit die [[Bibliothek von Antorras]]), die besten Chancen auf Hilfe, bzw. Informationen erhoffte. Er flog zusammen mit [[Silas]] und den Überresten von [[Ythryn]] Richtung [[Lados]].
+
+
 ___
 **Spieler:innen Notizen:**
 - Magier der arkanen Bruderschaft aus [[Lados]], der eine geheime Stadt untersuchen möchte.

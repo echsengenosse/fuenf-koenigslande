@@ -1,17 +1,15 @@
 
 ![[Izeldar.png|350]]
 *(Zeichnung von Kikyo)*
->[!infobox]+ Allgemeine Infos
-># Allgemeine Infos
->---
->- **Vollständiger Name:**  Izeldar Immenroth
->- **Volk:** Mensch
->- **Geschlecht:** weiblich
->- **Alter:** unbekannt
->- **Beruf:** Magierin
->- **Herkunft:** [[Sobris]]
->- **Aufenthaltsort:** unbekannt
->- **Status:** wahrscheinlich tot
+# Allgemeine Infos
+- **Vollständiger Name:**  Izeldar Immenroth
+- **Volk:** Mensch
+- **Geschlecht:** weiblich
+- **Alter:** unbekannt
+- **Beruf:** Magierin
+- **Herkunft:** [[Sobris]]
+- **Aufenthaltsort:** unbekannt
+- **Status:** wahrscheinlich tot
 
 # Aussehen
 - **Haarfarbe:** schwarz

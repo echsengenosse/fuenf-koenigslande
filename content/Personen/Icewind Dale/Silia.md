@@ -1,3 +1,4 @@
+
 ![[liana-shadyan-cleric.jpg|350]]
 
 # Allgemeine Infos
@@ -7,7 +8,7 @@
 - **Alter:** in den 30ern
 - **Beruf:** Abenteurerin
 - **Herkunft:** östlich vom **Grat der Welt**
-- **Aufenthaltsort:** [[Ythryn]]
+- **Aufenthaltsort:** [[Ythryn]] → [[Rodans Camp]]
 - **Status:** lebendig
 
 # Aussehen

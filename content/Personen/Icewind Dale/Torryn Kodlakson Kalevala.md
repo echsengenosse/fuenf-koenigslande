@@ -1,61 +1,38 @@
 ![[Torryn.jpg|350]]
 # Allgemeine Infos
-
 - **Vollständiger Name:** Torryn Kodlakson Kalevala
-
 - **Volk:** Goliath
-
 - **Geschlecht:** männlich
-
 - **Alter:** 21 Jahre
-
 - **Beruf:** Totemkrieger
-
 - **Herkunft:** Grat der Welt
-
 - **Aufenthaltsort:** Grat der Welt
-
 - **Status:** Tot
 
 # Aussehen
-
 - **Haarfarbe:** Dunkelbraun
-
 - **Augenfarbe:** Braun
-
 - **Statur:** Muskulös
-
 - **Besonderheiten:** Neben dem Schädel eines Säbelzahntigers trägt Torryn einen Lendenschurz aus dem Fell eines Yetis sowie Handschuhe aus dem Fell eines Flinds, wobei diese Kreaturen von ihm selbst erlegt wurden
 
 # Persönlichkeit
-
 - **Charaktereigenschaften:** 
 - offen
-
 - ehrlich
-
 - direkt
-
 - mitunter stur
-
 - **Ziele:** - Rache für den Tod seines Vaters an Arn Steinfaust, dem Anführer der Akannathi
-
 - den Ewigen Winter im Eiswindtal beenden
 
 # Fähigkeiten
-
 - **Kampffähigkeiten:** Im Kampf verwendet Torryn zumeist entweder eine Streitaxt und einen Rundschild oder aber eine Zweihandaxt. Zudem ist er als Barbar in der Lage, in einen Kampfrausch zu verfallen.
-
 - **Magische Fähigkeiten:** Als Totemkrieger mit dem Totem des Bären kann Torryn auf magische Weise mit Tieren interagieren und ist zudem in der Lage, gegen fast jeden Schaden Widerstand leisten zu können, den er während eines Kampfrausches erleidet (psychischen Schaden ausgenommen)
 
 # Wichtige Beziehungen
-
 - **Verbündete:** Kalevala-Klan, Xierran, Slice, Morris, Mano, Thuunlakalaga-Klan
-
 - **Feinde:** Akannathi-Klan, Duergar von Xardoroks Schmiede
 
 # Hintergrund
-
 Torryn war als ältester Sohn von Kodlak Eisenwall, dem Anführer des Kalevala-Klans, im Grat der Welt aufgewachsen und dazu bestimmt gewesen, eines Tages selbst zum Anführer seines Klans zu werden. Das änderte sich jedoch eines Tages, als Arn "Steinfaust" Akannathi Kodlak in einem Holmgang tötete und die Führung über den Kalevala-Klan für sich beanspruchte. Torryn war unfähig, sich damit abzufinden, und forderte Arn kurzerhand selbst zum Zweikampf heraus, wurde jedoch besiegt und als abschreckendes Beispiel von Arn von einer Klippe geworfen. Torryn überlebte jedoch knapp und begann ziellos im Grat der Welt und dem angrenzenden Eiswindtal umherzuwandern, da es für ihn keinen anderen Ort gibt, an den er hätte gehen können. Doch eines Tages würde er zurückkehren, um Rache zu nehmen, und bis dahin so stark werden, wie er nur kann.
 
 Etwa drei Jahre später traf Torryn unweit von Caer Konig in einem Schneesturm zum ersten Mal auf die Gruppe von Xierran, Slice, Morris und Mano. Sie waren vom Stadtsprecher von Caer Konig, Trovus, beauftragt worden, Kelvins Hügel nordwestlich der Siedlung zu untersuchen. Nach einem eher ruppigen Erstkontakt beschloss Torryn, sich der Gruppe bei ihrem Vorhaben anzuschließen. Gemeinsam bekämpften sie die Duergar, die sie an Kelvins Hügel vorfanden, und erstatteten anschließend Bericht bei ihrem Auftraggeber in Caer Konig.
@@ -86,11 +63,8 @@ Einige Tage später erschien Torryn der Gruppe ein letztes Mal in Gestalt eines 
 # Sonstiges
 
 ## Trivia
-
 - Während sich die Gruppe im Torhaus der Festung von Caer Dineval verschanzt hatte, hat Torryn eine Flasche mit Alchemistenfeuer getrunken - und es nahezu unbeschadet überstanden
-
 - Als Torryn das Horn der Frostriesen fand, war es beschädigt, weil Torryn das Schloss an der Schatztruhe nicht öffnen konnte und daraufhin den Deckel mit seiner Streitaxt einschlug
-
 - Nachdem die Gruppe auf der Suche nach Slice in eine magische Falle getappt war, war es Torryn gewesen, der das komplizierte Rätsel auf dem Sarkophag löste und dem scheinbar endlosen Ansturm von Untoten ein Ende setzte - obgleich er nicht der Intelligenteste in der Gruppe war
 
 ## Zitate

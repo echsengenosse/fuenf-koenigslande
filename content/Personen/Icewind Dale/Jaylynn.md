@@ -6,6 +6,7 @@
 ![[16211941468242340189513716136014.jpg|350]]
 
 *Maria in Morris Erinnerung*
+
 # Allgemeine Infos
 - **Vollständiger Name:** ursprünglich Maria Saley, wird heute aber von den Meisten Jaylynn genannt
 - **Volk:** Mensch
@@ -13,7 +14,7 @@
 - **Alter:** Anfang/Mitte 30
 - **Beruf:** Abenteurerin
 - **Herkunft:** [[Scionby]]
-- **Aufenthaltsort:** [[Ythryn]]
+- **Aufenthaltsort:** [[Ythryn]] (erstes Treffen) → [[Rodans Camp]]
 - **Status:** lebendig
 
 # Aussehen

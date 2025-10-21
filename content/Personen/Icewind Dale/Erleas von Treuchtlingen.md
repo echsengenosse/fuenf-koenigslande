@@ -1,31 +1,33 @@
-[Bild]
+
+![[Erleas von Treuchtlingen.jpg|350]]
+
 # Allgemeine Infos
 - **Vollständiger Name:** Erleas von Treuchtlingen
-- **Volk:** 
-- **Geschlecht:** 
-- **Alter:** 
-- **Beruf:** 
-- **Herkunft:** 
-- **Aufenthaltsort:** 
-- **Status:** 
+- **Volk:** Mensch
+- **Geschlecht:** männlich
+- **Alter:** Mitte 50
+- **Beruf:** Fürst, Söldner, Hexenmeister von [[Khin-Drak]]
+- **Herkunft:** unbekannt
+- **Aufenthaltsort:** [[Rodans Camp]]
+- **Status:** lebendig
 
 # Aussehen
-- **Haarfarbe:** 
-- **Augenfarbe:** 
-- **Statur:** 
-- **Besonderheiten:**
+- **Haarfarbe:** dunkelbraun mit grau
+- **Augenfarbe:** blau
+- **Statur:** durchschnittlich
+- **Besonderheiten:** Male auf der linken Körperhälfte
 
 # Persönlichkeit
 - **Charaktereigenschaften:** 
 - **Ziele:** 
 
 # Fähigkeiten
-- **Kampffähigkeiten:** 
-- **Magische Fähigkeiten:** 
+- **Kampffähigkeiten:** unbekannt
+- **Magische Fähigkeiten:** Hexenmeister
 
 # Wichtige Beziehungen
-- **Verbündete:** 
-- **Feinde:** 
+- **Verbündete:** [[Das Silberne Syndikat]]
+- **Feinde:** unbekannt
 
 # Hintergrund
 

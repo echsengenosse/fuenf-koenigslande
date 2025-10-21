@@ -8,7 +8,7 @@
 - **Alter:** Ende 30/ Anfang 40
 - **Beruf:** Abenteurer
 - **Herkunft:** unbekannt
-- **Aufenthaltsort:** [[Ythryn]]
+- **Aufenthaltsort:** [[Ythryn]] → [[Rodans Camp]]
 - **Status:** lebendig
 
 # Aussehen
@@ -22,6 +22,7 @@
 	- zunächst ein bisschen hölzern und steif
 	- derben Sinn für Humor
 	- Vorliebe für Frauen, guten Wein und Glücksspiel
+	- macht guten Kaffee
 - **Ziele:** unbekannt
 
 # Fähigkeiten
@@ -34,6 +35,7 @@
 
 # Hintergrund
 Über Yashs Hintergrund ist wenig bekannt und er scheint auch nicht drüber zu sprechen. Er trägt einen Wappenrock und einige militärische Abzeichen, was einen entsprechenden Werdegang nicht unwahrscheinlich macht.
+Er ließ während einer Runde Wahrheit oder Pflicht fallen, dass er höfische Tänze kann und dass man in seiner früheren Position erwartet hat, dass er sie kann.
 
 # Sonstiges
 Morris hatte Yash während seines Rituals der **Acht Arkana** bezaubert und ihn aufgefordert, ihm ein Geheimnis zu erzählen. Dem ist Yash nachgegangen und war anschließend eine Weile ziemlich wütend auf Morris.

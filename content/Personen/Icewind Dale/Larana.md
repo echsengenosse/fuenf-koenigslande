@@ -1,9 +1,11 @@
-[Bild]
+
+![[Larana2.png]]
+
 # Allgemeine Infos
 - **Vollständiger Name:** Larana
-- **Volk:** 
+- **Volk:** Mensch
 - **Geschlecht:** weiblich
-- **Alter:** 
+- **Alter:** um die 30
 - **Beruf:** Druidin
 - **Herkunft:** unbekannt
 - **Aufenthaltsort:** **Bryn Shander**

@@ -1,12 +1,14 @@
+
 ![[6836206255af015d09e350f89208e7c2.jpg|350]]
+
 # Allgemeine Infos
 - **Vollständiger Name:** Mawen
 - **Volk:** Elf (Drow)
 - **Geschlecht:** männlich
 - **Alter:** um die 200 Jahre
-- **Beruf:** unbekannt
+- **Beruf:** Soldat
 - **Herkunft:** [[Garagh'tarr]]
-- **Aufenthaltsort:** Eiswindtal
+- **Aufenthaltsort:** Eiswindtal (erstes Treffen) → [[Rodans Camp]]
 - **Status:** lebendig
 
 # Aussehen
@@ -24,7 +26,7 @@
 - **Magische Fähigkeiten:** 
 
 # Wichtige Beziehungen
-- **Verbündete:** 
+- **Verbündete:** [[Xierran LaFloon]], [[Keyric Derengar]]
 - **Feinde:** 
 
 # Hintergrund

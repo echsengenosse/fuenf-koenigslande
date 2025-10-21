@@ -1,4 +1,6 @@
+
 ![[r7kjanz8fr361.jpg|350]]
+
 # Allgemeine Infos
 - **Vollständiger Name:** Ivarior "Ivar" Thaen
 - **Volk:** Elf (Drow)
@@ -21,6 +23,7 @@
 	- immer ein schiefes Grinsen im Gesicht
 	- kindlicher Sinn für Unfug
 - **Ziele:** unbekannt
+
 # Fähigkeiten
 - **Kampffähigkeiten:** Schurke
 - **Magische Fähigkeiten:** unbekannt
@@ -32,6 +35,7 @@
 # Hintergrund
 Über Ivars Hintergrund ist nicht viel bekannt. [[Mawen]] nannte ihn einen **Geheimnisträger** und erklärte, dass er wahrscheinlich nicht mit Erlaubnis seiner Herrin unterwegs sei.
 [[Finnley Lost]], [[Kephalos M'nark]] und [[Yash Baravel]] gabelt ihn im **Grat der Welt** auf, wo er grade im Kampf mit einem Monster war und zu verlieren schien. Finn hat ihm das Leben gerettet und daraufhin hat Ivar sich den dreien angeschlossen.
+Xierran fragte ihn, ob man ihm bei seinem Problem helfen könne und er antwortete, dass er nicht wisse, ob das überhaupt möglich sei.
 
 # Sonstiges
 Ivarior kann nicht sprechen. Ihm wurde die Zunge rausgeschnitten. Er kann aber durch Zeichensprache und Schrift kommunizieren.

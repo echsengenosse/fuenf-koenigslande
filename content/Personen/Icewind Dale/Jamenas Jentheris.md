@@ -1,4 +1,6 @@
+
 ![[Jamenas.jpg|350]]
+
 # Allgemeine Infos
 - **Vollständiger Name:** Jamenas Jentheris
 - **Volk:** Mensch
@@ -6,7 +8,7 @@
 - **Alter:** um die 50
 - **Beruf:** Shivi des [[Das Silberne Syndikat|Silbernen Syndikats]]
 - **Herkunft:** unbekannt
-- **Aufenthaltsort:** Versteck im **Grat der Welt**
+- **Aufenthaltsort:** Versteck im **Grat der Welt** (erstes Treffen) → [[Rodans Camp]]
 - **Status:** lebendig
 
 # Aussehen
