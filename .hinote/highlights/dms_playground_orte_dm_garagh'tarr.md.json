@@ -1,0 +1,38 @@
+{
+  "version": "2.0",
+  "lastModified": 1767454116822,
+  "highlights": {
+    "highlight-1752018396351-207": {
+      "text": "Hohepriesterin",
+      "position": 207,
+      "created": 1752018396351,
+      "updated": 1752018421981,
+      "backgroundColor": "#ffeb3b",
+      "paragraphOffset": 27,
+      "comments": [
+        {
+          "id": "comment-1752018421981-yfn0zvkt7",
+          "content": "Dies ist ein Test über Kommentare. Ich will wissen, ob das funktioniert.",
+          "created": 1752018421981,
+          "updated": 1752018421981
+        }
+      ]
+    },
+    "highlight-1752020161285-1942": {
+      "text": "Beziehungen",
+      "position": 1942,
+      "created": 1752020161285,
+      "updated": 1752020262764,
+      "backgroundColor": "#ffeb3b",
+      "paragraphOffset": 27,
+      "comments": [
+        {
+          "id": "comment-1752020262764-a8nsv1gi0",
+          "content": "Demnach",
+          "created": 1752020262764,
+          "updated": 1752020262764
+        }
+      ]
+    }
+  }
+}

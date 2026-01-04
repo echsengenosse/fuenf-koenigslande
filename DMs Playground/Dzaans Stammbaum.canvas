@@ -19,7 +19,7 @@
 		{"id":"6b5f437e7934e359","type":"text","text":"Nyvros Talren","x":2100,"y":360,"width":250,"height":80},
 		{"id":"0f92fa03a64f797d","type":"text","text":"Sylvem Talren","x":2100,"y":520,"width":250,"height":80},
 		{"id":"3d72a3b6db707ac8","type":"text","text":"Tyron Zhaendril\n&\nAmariel Fayeth","x":1725,"y":-1720,"width":250,"height":80,"color":"3"},
-		{"id":"2979143ce0ce3568","type":"text","text":"Calyra\n\n","x":1725,"y":-1560,"width":250,"height":80},
+		{"id":"2979143ce0ce3568","type":"text","text":"Calyra Zhaendril\n\n","x":1725,"y":-1560,"width":250,"height":80},
 		{"id":"1ba358f77a43202e","type":"text","text":"Vorn Zhaendril\n&\nEldara Rynthor","x":1340,"y":-1640,"width":250,"height":80,"color":"3"},
 		{"id":"c4443e8ba923694b","type":"text","text":"Ryneth Zhaendril\n&\nAlyssara Nyveris","x":1725,"y":-1240,"width":250,"height":80},
 		{"id":"061b5de2cd1faf13","type":"text","text":"Sarven Zhaendril\n&\n[[Theren Vakaris]]","x":1725,"y":-1080,"width":250,"height":80},

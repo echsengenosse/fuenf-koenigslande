@@ -1,0 +1,6 @@
+
+***Umberto's Secret.*** Umberto knows that cultists of Vecna are his kidnappers, as he's one of Neverwinter's preeminent experts on Vecna's history. He initially keeps his expertise from the characters lest they think he's in league with the cult.
+
+To keep his mind off of the nightmare of his capture and imprisonment, Umberto focuses on complaining about the poor cuisine. If the characters free Umberto and share some tasty food with him, he reveals his expertise in Vecna's history. Umberto especially likes food created with or by magic, such as berries from the [Goodberry](https://5e.tools/spells.html#goodberry_phb) spell.
+
+If Umberto reveals his role as a historian of Vecna, it's all he can talk about. He discusses his latest clandestine research project: the ancient rivalry between Vecna and his treacherous lieutenant, the vampire Kas. The historian has kept this research to himself so other scholars don't beat him to publication; Umberto knows he's a slow writer. The gnome's chattering should be endearing rather than irritating, and you can use Umberto to impart basic history about Vecna and Kas as described in the [introduction](https://5e.tools/adventure.html#veor,0,kas%20and%20vecna,0).

@@ -14,24 +14,12 @@
 >- **Status:** 
 
 # Aussehen
-- **Haarfarbe:** 
-- **Augenfarbe:** 
-- **Statur:** 
-- **Besonderheiten:**
+
 
 # Persönlichkeit
-- **Charaktereigenschaften:** 
-- **Ziele:** 
+
 
 # Fähigkeiten
-- **Kampffähigkeiten:** 
-- **Magische Fähigkeiten:** 
-
-# Wichtige Beziehungen
-- **Verbündete:** 
-- **Feinde:** 
-
-# Hintergrund
 
 
 # Sonstiges
@@ -41,3 +29,4 @@ ___
 **Spieler:innen Notizen:**
 
 >[!infobox]- DM Notizen
+>[[DM NPC Name]]

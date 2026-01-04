@@ -1,6 +1,7 @@
 
 ![[Izeldar.png|350]]
 *(Zeichnung von Kikyo)*
+
 # Allgemeine Infos
 - **Vollständiger Name:**  Izeldar Immenroth
 - **Volk:** Mensch

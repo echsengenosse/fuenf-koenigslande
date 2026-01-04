@@ -19,26 +19,29 @@ Sie ist sich bewusst, dass der Priesterschaft und vermutlich auch der einen oder
 
 ___
 
-Xierran liegt in seinem Zimmer im Bett und liest ein halblegales Buch, als Ophelia reinkommt. Er hat sie nicht gehört; vielleicht hat sie sich angeschlichen, vermutlich war er aber einfach zu konzentriert. Er erschrickt und stopft das Buch unter sein Kissen.
-Lorana würde einfach wortlos die Hand ausstrecken und warten, aber so ruhig ist Ophelia nicht.
-„Was liest du da?“
-„Nichts.“
-„Gib es mir.“
-Er sieht sie einen Moment lang an, dann gibt er es ihr widerwillig. Sie betrachtet es mäßig interessiert. Fährt mit dem Fingernagel über den Schnitt. Kommt ein bisschen zu nah an eine Kerze. Xierran versucht, seine Anspannung herunterzukämpfen. Ophelia kennt ihn, aber er kennt sie auch. Sie wird es ihm nicht wegnehmen (und sein Zimmer anzünden), wenn sie nichts davon hätte.
-Schließlich hält er es nicht mehr aus und fragt: „Was willst du?“
-„Wo ist Keyric?“
-Mit der Frage hat er nicht gerechnet und sie trifft ihn mehr, als er erwartet hätte. Er hat schon länger die Vermutung, dass Ophelia etwas von seinen Freunden wollen könnte, besonders von Keyric, und das stört ihn. Weil sie sie alle drei blöd finden und er nicht möchte, dass sich jemand genötigt fühlt, etwas mit ihr anzufangen. Natürlich nur deshalb.
-„Ich weiß es nicht.“
-Sie wirft einen desinteressierten Seitenblick auf das Buch. „Weiß deine Vorgesetzte davon?“
-Er beißt sich auf die Lippen. Atmet durch. „Bei sich zu Hause glaube ich.“ Es ist schließlich keine geheime Information.
-Ophelia sieht ihn einen Moment lang auf ihre spezielle Opheliaart an; als wäre er ein interessantes Insekt, aber so interessant nun auch wieder nicht. Dann wirft sie das Buch unachtsam zurück auf sein Bett. Er zuckt zurück, als wäre es heiß.
-„Ich habe mit ihm geschlafen.“
-Sie hätte ihm auch eine reinhauen können. Er starrt sie an. Sein Verstand schreit _Sie lügt,_ aber ein kleinerer aber umso hartnäckiger Teil wendet ein: _Sie hätte nichts davon._ (Dass sie in diesem Fall auch nichts davon hätte, es ihm zu erzählen, wenn es wahr wäre, das fällt Xierran in diesem Moment nicht ein.)
-Sie geht ohne ein weiteres Wort und lässt ihn stehen.
+>Xierran liegt in seinem Zimmer im Bett und liest ein halblegales Buch, als Ophelia reinkommt. Er hat sie nicht gehört; vielleicht hat sie sich angeschlichen, vermutlich war er aber einfach zu konzentriert. Er erschrickt und stopft das Buch unter sein Kissen.
+>Lorana würde einfach wortlos die Hand ausstrecken und warten, aber so ruhig ist Ophelia nicht.
+>„Was liest du da?“
+>„Nichts.“
+>„Gib es mir.“
+>Er sieht sie einen Moment lang an, dann gibt er es ihr widerwillig. Sie betrachtet es mäßig interessiert. Fährt mit dem Fingernagel über den Schnitt. Kommt ein bisschen zu nah an eine Kerze. Xierran versucht, seine Anspannung herunterzukämpfen. Ophelia kennt ihn, aber er kennt sie auch. Sie wird es ihm nicht wegnehmen (und sein Zimmer anzünden), wenn sie nichts davon hätte.
+>Schließlich hält er es nicht mehr aus und fragt: „Was willst du?“
+>„Wo ist Keyric?“
+>Mit der Frage hat er nicht gerechnet und sie trifft ihn mehr, als er erwartet hätte. Er hat schon länger die Vermutung, dass Ophelia etwas von seinen Freunden wollen könnte, besonders von Keyric, und das stört ihn. Weil sie sie alle drei blöd finden und er nicht möchte, dass sich jemand genötigt fühlt, etwas mit ihr anzufangen. Natürlich nur deshalb.
+>„Ich weiß es nicht.“
+>Sie wirft einen desinteressierten Seitenblick auf das Buch. „Weiß deine Vorgesetzte davon?“
+>Er beißt sich auf die Lippen. Atmet durch. „Bei sich zu Hause glaube ich.“ Es ist schließlich keine geheime Information.
+>Ophelia sieht ihn einen Moment lang auf ihre spezielle Opheliaart an; als wäre er ein interessantes Insekt, aber so interessant nun auch wieder nicht. Dann wirft sie das Buch unachtsam zurück auf sein Bett. Er zuckt zurück, als wäre es heiß.
+>„Ich habe mit ihm geschlafen.“
+>Sie hätte ihm auch eine reinhauen können. Er starrt sie an. Sein Verstand schreit _Sie lügt,_ aber ein kleinerer aber umso hartnäckiger Teil wendet ein: _Sie hätte nichts davon._ (Dass sie in diesem Fall auch nichts davon hätte, es ihm zu erzählen, wenn es wahr wäre, das fällt Xierran in diesem Moment nicht ein.)
+>Sie geht ohne ein weiteres Wort und lässt ihn stehen.
+
+
 ___
 - sie geht zu Keyric und schläft mit ihm
 - sie stellt sicher, dass andere wissen, dass sie dort war, während Xierran bei Miriel eingebrochen ist
 
 # Xierrans Kopfgeld
 Sie hat ein ziemlich hohes Kopfgeld auf ihn ausgesetzt: **5.000 GM** für den Beweis seines Todes, **10.000 GM** für das lebendige Ausliefern.
-Xierran ist nicht ganz klar, warum sie das macht. Sie möchte einfach auf Nummer Sicher gehen. Sie kann ihn in ihrem Leben nicht gebrauchen und sein Auftauchen würde möglicherweise ihre Pläne durcheinander werfen. Dies ist kein offizielles, von der Stadt/Priesterschaft genehmigtes Kopfgeld. Es ist ein privates und nur wenige wissen davon. [[Mawen]] hat es per Zufall erfahren, [[Thaira]] war eingeweiht
+Xierran ist nicht ganz klar, warum sie das macht. 
+Sie möchte einfach auf Nummer Sicher gehen. Sie kann ihn in ihrem Leben nicht gebrauchen und sein Auftauchen würde möglicherweise ihre Pläne durcheinander werfen. Dies ist kein offizielles, von der Stadt/Priesterschaft genehmigtes Kopfgeld. Es ist ein privates und nur wenige wissen davon. [[Mawen]] hat es per Zufall erfahren, [[Thaira]] war eingeweiht

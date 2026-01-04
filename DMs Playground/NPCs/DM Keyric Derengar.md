@@ -72,3 +72,12 @@ Keyric: "Sag Kayden, er soll nachher auf dem Weg das Geld bei der Dame abholen u
 
 Auf Nachfrage kann Keyric erklären, dass die feine Gesellschaft es sich nicht leisten kann, ihn wirklich nicht zu bezahlen. Er führt einen respektablen Laden (in Abwesenheit der eigentlichen Besitzerin) und man beklaut sie nicht. Zu gehen, ohne ihm das Geld zu geben ist ein Statement. Ein Zeichen des Disrespekts. Und er kann davon ausgehen, dass wenn er einen seiner Läufer hinterher schickt, er nicht die ganze Summe erhalten wird, was seine Chefin ihm vom Lohn abziehen wird (die offizielle Chefin gibt es gar nicht, aber das weiß niemand). Die Drow wissen aber, dass man das nicht ausnutzen sollte, sonst stehen irgendwann die Eintreiber vor der Tür und dann hat man hoffentlich wirklich gute Gründe, nicht in Völle zu bezahlen.
 
+---
+# Erstes Wiedersehen
+Sobald Xierran in Keyrics Laden auftaucht wird dieser zunächst mit seinem üblichen Spiel beginnen, bevor er ihn erkennt.
+
+**Keyric**: "Willkommen, willkommen, in [[Lady Tar'avel's Imporium]]! Schaut auch um, findet und staunet Ich verspreche, Ihr werdet... Xierran? Gepriesen sei Lolths Name! Xierran? Bist du es wirklich? Du lebst! Ich fass' es nicht, du lebst! Xierran! Was? Wie? Komm her! Lass dich ansehen! Ich kann es kaum glauben!" *Keyric nimmt Xierran schwungvoll in die Arme*
+**K**: "Xierran! Komm rein, komm rein! Es ist wahrlich ein Wunder der einzig wahren! Was für dich ein mein bescheidenes Geschäft?" *der Laden ist alles andere als Bescheiden. Hier wird kein billiger Krempel verkauft. Die Waren hier haben Qualität und der Laden selbst ist in einem ausgezeichneten Zustand*
+
+Keyric lässt Xierran kaum zu Wort kommen, so sehr freut er sich ihn wieder zu sehen. Erst später fällt ihm auf, dass das vielleicht nicht soo clever war, je nachdem was dazu führte, dass er verschwunden war und sich all die Jahre nicht gemeldet hat. Und das tut ihm dann natürlich unendlich leid und er entschuldigt sich tausend mal dafür, falls er Xierran damit in Gefahr gebracht hat. Klarer Fall von "Erst denken, dann reden!" *facepalm*
+Keyric ist ähnlich erfreut Xierrans Begleiter kennenzulernen und begrüßt sie beschwingt, egal welchem Volk und welchem Geschlecht sie angehören. Den Frauen gegenüber ist er aber vielleicht einen Hauch förmlicher.
