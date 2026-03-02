@@ -3,7 +3,7 @@
 >[!infobox]+ Allgemeine Infos
 ># Allgemeine Infos
 >---
->- **Vollständiger Name:** Baron Iskander Npblin
+>- **Vollständiger Name:** Baron Iskander Noblin
 >- **Volk:** Gnom
 >- **Geschlecht:** männlich
 >- **Alter:** ca. 270
@@ -18,11 +18,14 @@ s. Bild
 # Persönlichkeit
 
 
-# Fähigkeiten
-
+# Familie
+- [[Umberto Noblin]], Cousin in [[Thorwacht]] (wurde entführt)
+- [[Reginald Noblin]], Bruder
+	- Pflanzenforscher
+- [[Shamil Noblin]], Mutter, Oberhaupt der Familie
 
 # Sonstiges
-
+Eine Gruppe Gith versuchte ihn in [[Lados]] zu entführen.
 
 ___
 **Spieler:innen Notizen:**

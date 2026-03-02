@@ -1,3 +1,7 @@
+
+==**Izeldar übernimmt die Rolle von Allustriel Silverhand in Eve of Ruin!**==
+
+
 https://image.cdn2.seaart.me/2024-05-13/cp0ojnde878c738gfd1g/e38a313d39ba0f87581488fa5169ab76fc2b4f76_high.webp
 
 Izeldar Immenroth war eine der außergewöhnlichsten Magierinnen, die jemals gelebt hatte. Ihre Macht brachte ganze Königreiche zum Erbeben. Sie war die siebte Tochter einer siebten Tochter und das Kind einer weltlichen Magieren und eines uralten Dämons, so heißt es. Sie sei jahrhunderte alt geworden, habe den Aufstieg und Fall der netheresichen Kultur mitangesehen und habe erst als alte Frau ein Kind bekommen, kurz bevor sie auf mysteriöse Art gestorben sein soll.

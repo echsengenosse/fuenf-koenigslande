@@ -51,8 +51,7 @@ This adventure begins when Lord Dagult Neverember summons the characters to his 
 
 When the characters enter his audience chamber, Lord Neverember is busy discussing politics with his advisers. He breaks off the discussion, gives the characters a smile of recognition, and says the following:
 
->>"Greetings, my heroic friends! I'm so glad you came. I daresay, terrible events are afoot. Specifically, four prominent citizens have been kidnapped in the past several days. May I count on your help in rescuing them?"
->>
+>"Greetings, my heroic friends! I'm so glad you came. I daresay, terrible events are afoot. Specifically, four prominent citizens have been kidnapped in the past several days. May I count on your help in rescuing them?"
 
 Lord Neverember describes the kidnap victims as follows:
 

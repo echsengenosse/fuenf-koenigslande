@@ -1,7 +1,28 @@
 
+==**Sarven übernimmt die Rolle von Tasha in Eve of Ruin!**==
+
 ![[SarvenZhaendril.png|350]]
-Agentin aus Antorras
-(Ex-) Frau von [[Theren]], Xierrans Vater
+- Agentin aus Antorras
+- (Ex-) Frau von [[Theren]]
+- Großtante von [[Dzaan Zhaendril]]
+- sie ist eine Art Spionin aus Antorras, deshalb war es so problematisch, dass Xierran sie gescryed hat
+- sie hat Theren vor ungefähr 20 Jahren kennengelernt
+	- sie war da Mitte 30, Theren um die 400-450
+	- Xierran war da schon an der Oberfläche
+	- Theren war zu diesem Zeitpunkt seit ca. 80-90 Jahren an der Oberfläche
+	- sie haben sich in Antorras kennengelernt
+		- er war vielleicht zu einer Art Zeugenaussage da oder er war Teil einer Gruppe, die von antorrischen Agenten befreit wurde
+- sie schätzte seine humorvolle Art und sein nerdiges Auftreten
+- er wusste grob, was sie beruflich machte, auch wenn sie über die Details nicht sprechen konnte und er kannte auch die Gefahren, die das für ihn mit sich brachte
+- er wurde vor ca. 3 Jahren gefangen genommen, um Informationen über sie aus ihm rauszufoltern
+- sie hat Feeblemind auf ihn gewirkt, um ihn zu schützen
+	- ihrer Aussage nach ist das das schwerste, was sie je getan hat (obwohl sie wusste, dass das reversibel ist)
+- die Entführer dachten er sei wahnsinnig geworden und ließen ihn laufen
+- Sarven weiß, dass er zurück Richtung Garagh'tarr gegangen ist
+	- sie hat, sobald sie konnte, nach ihm gesucht, um den Zauber rückgängig zu machen, doch seine Spur verliert sich im Lovkin-Gebirge
+	- sie weiß nicht, wo er aktuell steckt und ob er noch am Leben ist
+- benutzt in [[Lados]] den Namen **Rinna Wolk**
+
 
 ---
 # Sarven Zhaendril

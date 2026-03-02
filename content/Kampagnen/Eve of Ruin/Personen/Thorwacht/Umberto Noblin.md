@@ -1,5 +1,5 @@
 
-![[UmbertoNoblin.png|350]]
+
 >[!infobox]+ Allgemeine Infos
 ># Allgemeine Infos
 >---
@@ -12,16 +12,6 @@
 >- **Aufenthaltsort:** [[Thorwacht]]
 >- **Status:** lebendig
 
-# Aussehen
-
-
-# Persönlichkeit
-
-
-# Fähigkeiten
-
-
-# Sonstiges
 
 
 ___

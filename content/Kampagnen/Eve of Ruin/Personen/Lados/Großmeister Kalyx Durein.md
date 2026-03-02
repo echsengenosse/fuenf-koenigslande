@@ -8,7 +8,7 @@
 >- **Volk:** Halbelf
 >- **Geschlecht:** männlich
 >- **Alter:** ca. 100-110
->- **Beruf:** Magier (Transmutation)
+>- **Beruf:** Großmeister der [[Arkane Bruderschaft|Arkanen Bruderschaft]] (Transmutationsmagier)
 >- **Herkunft:** unbekannt
 >- **Aufenthaltsort:** [[Lados]]
 >- **Status:** lebendig

@@ -8,6 +8,12 @@ Die Vaelari haben keine besondere Liebe für diejenigen übrig, die sie aus ihre
 
 Vaelari heißen andere verlorene Seelen, Ausgestoßene und Vergessene in ihren Reihen willkommen, unabhängig von deren Volk. Für sie ist jeden Leben wichtig.
 
+# Heiligtümer der Vaelari
+Heiligtümer der Vaelari sind so unterschiedlich wie die Vaelari selbst. Sie wurden an den unwirtlichsten Orten gegründet, bei denen sie Zuflucht gesucht haben. Man findet die Heiligtümer entsprechend auf Berggipfeln, bei Vulkanen, an steilen Klippen, in dichten Wäldern und tief in den Sümpfen. Die Heiligtümer sind weder geheim noch sind sie nur den Vaelari zugänglich, auch wenn sich wenig andere Personen auf den beschwerlichen Weg dorthin machen. da die Vaelari dauerhaft auf Reisen sind, werden die Heiligtümer in ihrer Abwesenheit auch nicht bewacht. Entsprechend ist es nicht unüblich, dass sie ein solches bei ihrer Rückkehrt zerstört vorfinden. Sie bauen dann stumpf wieder auf was sie können und fügen die Zerstörung zu der Geschichte des Ortes hinzu.
+Heiligtümer bestehen in der Regel aus mehreren Bereichen, darunter einem Ort, wo sie die Pferde und Wagen parken können, einem Ort, wo sie selbst unterkommen können und dem 'Kreis der Geschichte', der das eigentliche Heiligtum ausmacht. Letzterer Teil ist das Einzige, was wirklich alle Heiligtümer der Vaelari gemeinsam haben. Dabei handelt es sich um eine große, befestigte Feuerstelle mit Sitzplätzen drum herum. An den umgebenen Flächen, seien es Felswände, Bäume, Höhlenwände und dergleichen finden unzählige Malereien, Schnitzereien, Reliefs und so weiter, die die Geschichte des Ortes und ihrer Besucher erzählen. Die meisten Vaelari glauben nicht daran ihre Geschichten in Büchern oder ähnlichem festzuhalten, doch bei den Heiligtümer wird eine Ausnahme gemacht. 
+Diese Geschichten erzählen üblicherweise von der Gründung des jeweiligen Heiligtums, wie der Ort entdeckt wurde, welche Strapazen auf sich genommen werde mussten, um diesen Ort zu finden und wie er sich über die Zeit verändert hat.
+Es ist Tradition unter den Vaelari, dass sie immer, wenn sie in der Nähe eines ihrer Heiligtümer sind, dort zumindest eine Nacht verbringen. In der ersten Nacht dort finden sich alle gemeinsam am Kreis der Geschichte ein und der Älteste erzählt die Geschichte des Ortes, bevor andere Geschichten oder Lieder vorgetragen werden.
+
 ---
 
 # Vaelari als Spielercharaktere

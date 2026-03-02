@@ -10,7 +10,7 @@
 >- **Volk:** Mensch
 >- **Geschlecht:** weiblich
 >- **Alter:** unbekannt
->- **Beruf:** Magierin
+>- **Beruf:** Erzmagistra der [[Arkane Bruderschaft|Arkanen Bruderschaft]], Stadträtin von [[Lados]]
 >- **Herkunft:** unbekannt
 >- **Aufenthaltsort:** [[Lados]]
 >- **Status:** lebendig

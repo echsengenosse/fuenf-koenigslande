@@ -43,4 +43,3 @@ Die Stadt fliegt mit einer Geschwindigkeit von ca. **5,5km/h**.
 | Eiswindtal | Thorwacht | 1,5 Tage         |
 | Eiswindtal | Rodan     | 15,2 Tage        |
 
-

@@ -1,0 +1,2 @@
+
+- Beruf: Blood Hunter (Geisterschlächter)

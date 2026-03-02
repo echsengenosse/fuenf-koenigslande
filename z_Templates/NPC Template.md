@@ -13,17 +13,6 @@
 >- **Aufenthaltsort:** 
 >- **Status:** 
 
-# Aussehen
-
-
-# Persönlichkeit
-
-
-# Fähigkeiten
-
-
-# Sonstiges
-
 
 ___
 **Spieler:innen Notizen:**
