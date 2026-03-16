@@ -73,6 +73,7 @@
 
 ## Künstler, Barden, Exzentriker
 - Orren Fiedelwind
+	- Rattenfänger
 - Lys Cantara
 - Belvo Rhyme
 - Tessa Klang

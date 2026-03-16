@@ -1,4 +1,37 @@
 
+# 005 - Treffen mit Sarven
+- Kikyo und Xierran sind in der Bibliothek der Akademie
+	- Xierran findet ein paar ältere Infos über Thorwacht
+	- Kikyo recherchiert Gith(yenki)
+- Nanali begegnet in der Stadt einem jungen Halbelfen, der vor ein paar Kindern auftritt
+	- sie unterhalten sich hinterher kurz und er lädt sie zu seiner Vorstellung am Abend ein
+- gegen 18 Uhr kommt Sarven zur Stadt und sammelt Kikyo und Xierran ein, um mit ihnen zu Abend zu essen
+- sie gehen in das Restaurant, in dem Orren (der Halbelf) auftritt und treffen dort Nanali
+- nach ein bisschen Smalltalk fangen Xierran und Sarven an sehr unhilfreich über ihr gemeinsames Problem zu sprechen
+	- Xierrans Vater lebt vielleicht noch und irgendwas scheint vorgefallen zu sein
+- Kikyo und Lyra lassen die beiden alleine
+- irgendwann geht Sarven dann und spricht auf dem Weg nach draußen noch kurz mit Lyra und tröstet Kikyo ein wenig
+- Xierran kauft Alkohol und geht sich in Ythryn betrinken
+- Lyra spricht nach seinem Auftritt noch kurz mit Orren, der das Gespräch relativ schnell verlässt, nachdem sie eine Nachfrage gestellt hat. was ihr sehr Leid tat
+- in Ythryn sprechen Kikyo und Xierran noch kurz mit Dzaan, der erklärt, dass er am nächsten Tag nach Mhare teleportiert und dass es ihm im Grunde egal ist, was sie jetzt mit der Stadt machen, für ihn hat sie ihren Zweck erfüllt
+- Xierran geht relativ früh ins Bett
+- Kikyo erklärt Lyra das Ritual der 8 Arkana und hilft ihr dabei es durchzuführe und so Zugang zu Ythryn zu bekommen
+- Silas kommt irgendwann dazu und meint, dass auch er am nächsten Tag gehen würde, wohin wusste er noch nicht recht, aber irgendwo hin, wo Dzaan noch nicht gewesen ist
+**es ist ca. 22 Uhr am 09.08.981 DF**
+
+# 004 - Dzaans Beförderung und Treffen mit Sarven
+- Kikyo und Xierran übergeben noch das Kettenhemd an Silas und quatschen kurz mit Dzaan
+- Xierran identifiziert die Geschenke von Iskander, Kikyo bittet Dzaan um einen Bibliotheksausweis für Xierran
+- Lyra trifft auf Rückweg vom Ball eine Frau, die von zwei Bewaffneten verfolgt wird und warnt sie
+	- sie stellt sich als Rinna vor
+	- und ihr geht zusammen zum Hotel, wo Lyra ebenfalls einchecked
+	- ihr verabredet euch zum Frühstück und Rinna gibt Lyra eine Kette
+- Kikyo hatte ihr Frühstücksdate mit Connor und hat erfahren, dass er auch Blood Hunter ist
+- Dzaan lädt Kikyo und Xierran zu seiner Feier ein, Lyra wurde angeheuert, um dort Musik zu spielen und Arlen wurde von Iskander gefragt, ob er ihn begleiten würde
+- entsprechend wart ihr alle auf Dzaans Beförderungsfeier, die relativ neutral abgelaufen ist
+- Arlen und Lyra haben sich noch eine Weile unterhalten, Kikyo war in der Bib (?) und Xierran woanders
+**es ist ca. 15 Uhr am 09.08.981 DF**
+
 # 003 - Der Ball
 - Kikyo hat in der Bibliothek recherchiert
 - ihr seid auf den Ball gegangen
