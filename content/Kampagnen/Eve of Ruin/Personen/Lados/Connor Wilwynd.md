@@ -7,8 +7,8 @@
 >- **Volk:** Halbelf
 >- **Geschlecht:** männlich
 >- **Alter:** Anfang 20
->- **Beruf:** Mitglied in einem Orden
->- **Herkunft:** 
+>- **Beruf:** ~~Mitglied in einem Orden~~ Blood Hunter
+>- **Herkunft:** [[Nairen]]
 >- **Aufenthaltsort:** [[Lados]]
 >- **Status:** lebendig
 
@@ -20,7 +20,7 @@ An seiner Hüfte trägt er zwei magische Krummsäbel.
 Er gibt sich meistens ruhig und schüchtern, kann aber kindlich aufdrehen, wenn ihn etwas begeistert.
 
 # Fähigkeiten
-
+Connor ist ein Blood Hunter (Ghostslayer).
 
 # Sonstiges
 - Wappen: Schwert vor Silhouette
