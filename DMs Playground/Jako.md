@@ -38,5 +38,3 @@ Der Fremdländer fragte ihn ziemlich grade heraus, ob er Geld für Sex nimmt (ei
 "Meine Frau will Sex mit Mann von hier. Ich will ihren Wunsch erfüllen. Du gefällst ihr. Was dein Preis?"
 Jako hat einen Dreier mit ihnen und er arbeite für die Dauer ihres Aufenthalts als Dolmetscher (sie sprechen auch drakonisch, aber es ist nicht ihre Muttersprache) und Tourguide. Sie bezahlen ihn sehr gut. Es stellt sich raus, dass sie Edelleute aus einem anderen Königreich sind und auf Geschäftsreise sind.
 Die Geschenke und das Geld aus der Interaktion finanzieren Jakos Leben für eine ganze Weile.
-
-Jako machte seine Runde in einer Bar, die er sich eigentlich nicht leisten konnte, auf der Suche nach einer eventuellen Begleitung für die Nacht, als ihn ein gutaussehender Fremdländer zu sich winkte.

@@ -3,6 +3,8 @@ Ein Referenzdokument für alle (möglicherweise wichtigen) auftretenden NSCs.
 # Allgemein
 - [[Dzaan Zhaendril]]
 - [[Silas]]
+- [[Sarven Zhaendril]]
+	- Xierrans Stiefmutter
 
 # In Lados
 - [[Erzmagistra Tharalis Veyn]]
@@ -15,5 +17,12 @@ Ein Referenzdokument für alle (möglicherweise wichtigen) auftretenden NSCs.
 	- Tüftler
 	- kennt sich mit Konstrukten aus
 - [[Baron Iskander Noblin]]
+	- Gnom
 	- wurde in einem Café von einer Gruppe Githzerei entführt und von euch gerettet
 	- hat euch daraufhin zu einem Ball eingeladen
+- [[Connor Wilwynd]]
+	- ein menschlicher Blood Hunter (Geisterjäger) aus [[Nairen]]
+	- hat scheinbar ein romantisches Interesse an Kikyo
+- [[Orren Fidelwind]]
+	- ein Straßenmusiker
+	- hatte mehrere Interaktionen mit Nanali, die bei ihr Fragen aufgeworfen haben

@@ -1,4 +1,23 @@
 
+># Wunschliste
+>**Elske wünscht sich eine "Xierran ist scheiße zu Goblins, einfach weil er es kann"-Problematik im Underdark!**
+
+
+# 006 - Aufbruch
+- die Runde begann mit einer ereignislosen langen Rast
+- am nächsten Morgen ist Kikyo zu Iskander gegangen, um Bescheid zu sagen, dass sie jetzt abreisen und in der Hoffnung, dass Connor dort ist, was der Fall war
+	- sie unterhalten sich kurz, er wünscht ihr alles gute und schenkt ihr eine Skelett/Geisterpflanze, die das Wahrzeichen seines Ordens ist
+	- Kikyo küsst schließlich Connor, bevor sie sich verabschiedet
+- Arlen war ebenfalls bei Iskander und ist mit Kikyo zusammen zurück zu Stadt gegangen
+- Nanali hat vor der Abreise von einen Brief erhalten
+- ihr seid gegen 10 Uhr morgens gestartet, nachdem Silas und Dzaan sich verabschiedet haben
+- Kikyo hat Arlen das Ritual der Acht Arkana erklärt und es mit ihm zusammen durchgeführt
+- Xierran und Nanali haben sich im Turm unterhalten
+- während ihr alle im Turm wart, krachte es plötzlich und der Turm begann zu schaukeln
+- Nanali hat einen riesigen Schatten vorbei fliegen sehen
+**es ist ca. 12 Uhr am 10.08.981 DF**
+
+
 # 005 - Treffen mit Sarven
 - Kikyo und Xierran sind in der Bibliothek der Akademie
 	- Xierran findet ein paar ältere Infos über Thorwacht

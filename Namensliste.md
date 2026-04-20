@@ -7,7 +7,7 @@
 - Bennic Karr
 - Elva Tann
 - Jorek Silbersaum
-- Rinna Wolk
+- **Rinna Wolk**
 	- falsche Identität von [[DM Sarven Zhaendril]]
 - Halvar Odem
 - Sella Quickhand
@@ -24,7 +24,7 @@
 - Talaris Venn
 - Isembra Coil
 - Jorath Kelm
-- Elion Tahs → Elf, der den Bericht über Izeldar geschrieben hat
+- **Elion Tahs** → Elf, der den Bericht über Izeldar geschrieben hat
 - Seraphel Morn
 - Othiel Runehart
 
@@ -47,7 +47,7 @@
 - Thavian Korr
 - Elspeth Dunrath
 - Corvinelle Ashmoor
-- Albrecht Fenwick
+- **Albrecht Fenwick**
     - Lados, Tüftler, nicht von der Akademie
 - Dame Lysenne Morholt
 

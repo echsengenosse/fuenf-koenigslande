@@ -28,11 +28,11 @@
 		- das ist okay für sie
 		- die Infos hätte sie genommen, aber sie nicht zu haben ist kein Weltuntergang
 		- Xierran los zu sein, ist ebenfalls okay für sie
-- Ophelia hat Jahre später erfahren, dass er noch am Leben ist und hat dann unter ihren Vertrauten ein Kopfgeld auf ihn ausgesetzt: 5.000 Gold für den Beweis seines Todes und doppelt so viel, wenn man ihn lebendig zu ihr bringt
+- Ophelia hat Jahre später erfahren, dass er noch am Leben ist und hat dann unter ihren Vertrauten ein Kopfgeld auf ihn ausgesetzt: 5.000 Gold für den Beweis seines Todes und 7.000, wenn man ihn lebendig zu ihr bringt
 	- so stellt sie sicher doch noch an die Infos zu kommen oder zumindest dafür zu sorgen, dass sonst niemand an diese Infos kommt
 
 - Miriel hat Xierran im Auge behalten um sicher zu stellen, dass er sich an seinen Schwur hält
 
-**Was Xierran erfahren hat:**
+## Was Xierran erfahren hat
 - er hat erfahren, wo in [[Garagh'tarr]] der Zugang zur [[Netzkante]], dem Ort aus Kapitel 2 von Eve of Ruin ist
 - er hat erfahren, das [[Garagh'tarr]] auf den Ruinen eines Tempels einer anderen Gottheit als Lolth erbaut wurde (und damit nicht schon immer ein Zentrum ihrer Macht war)
