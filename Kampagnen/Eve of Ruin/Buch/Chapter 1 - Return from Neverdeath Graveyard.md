@@ -1,4 +1,6 @@
-![A bizarre ritual reveals the cult of Vecna's terrifying activities](img/adventure/VEoR/008-01-001.vecnas-ritual.webp)
+
+![A bizarre ritual reveals the cult of Vecna's terrifying activities](https://5e.tools/img/adventure/VEoR/008-01-001.vecnas-ritual.webp)
+*(A bizarre ritual reveals the cult of Vecna's terrifying activities)*
 
 As the adventure begins, the characters are established heroes currently in the city of Neverwinter on the Sword Coast. Several calamities have battered Neverwinter in the recent past. The greatest was the eruption of nearby Mount Hotenow, which nearly destroyed the city forty years ago, though most of the damage has since been repaired.
 

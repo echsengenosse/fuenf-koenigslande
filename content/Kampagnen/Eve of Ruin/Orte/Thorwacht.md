@@ -36,4 +36,4 @@ unbekannt
 
 # Sonstiges
 
-> "Thorwacht - ein unvergesslicher Anblick. Ich werde niemals den Morgen vergessen, an dem ich das weiße Tor zum ersten Mal erblickte."
+> "Thorwacht - ein unvergesslicher Anblick. Ich werde niemals den Morgen vergessen, an dem ich das weiße Tor zum ersten Mal erblickte." ~ Finn über seinen ersten Besuch in Thorwacht

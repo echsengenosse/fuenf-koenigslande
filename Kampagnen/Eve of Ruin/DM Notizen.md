@@ -1,6 +1,24 @@
 
 Notizen zu Dingen, die noch Auswirkungen haben sollen, aber noch nicht relevant sind.
 
+# Kosten für Zauber
+An manchen Orten (besonders in größeren Städten) können die Dienste von Zauberwirkern gebucht werden. Welche Zauber zur Verfügung stehen, hängen vom jeweiligen Ort ab und auch die Kosten können variieren. Grundsätzlich gilt aber folgende Formel:
+
+**(Grad)^2 x 10 + (verbrauchte Materialien x 2) + (nicht-verbrauchte Materialien x 0.1)**
+
+# Ythryns Reisegeschwindigkeit
+Die Stadt fliegt mit einer Geschwindigkeit von ca. **5,5km/h**.
+
+| Start      | Ziel      | Dauer (fliegend) |
+| :--------- | :-------- | :--------------- |
+| Ythryn     | Jamenas   | 9 Stunden        |
+| Ythryn     | Osthafen  | 15 Stunden       |
+| Jamenas    | Osthafen  | 6 Stunden        |
+| Eiswindtal | Lados     | 2,1 Tage         |
+| Lados      | Thorwacht | 3 Tage           |
+| Eiswindtal | Thorwacht | 1,5 Tage         |
+| Eiswindtal | Rodan     | 15,2 Tage        |
+
 # Durchschnittliche Erfahrungspunkte
 | ***Level*** | ***EP*** | ***Schnitt*** | ***Runden*** |
 | :---------: | :------: | :-----------: | :----------: |
@@ -24,22 +42,4 @@ Notizen zu Dingen, die noch Auswirkungen haben sollen, aber noch nicht relevant 
 |   **18**    | 265.000  |     5.000     |      8       |
 |   **19**    | 305.000  |     6.250     |      8       |
 |   **20**    | 355.000  |     6.250     |      8       |
-
-# Kosten für Zauber
-An manchen Orten (besonders in größeren Städten) können die Dienste von Zauberwirkern gebucht werden. Welche Zauber zur Verfügung stehen, hängen vom jeweiligen Ort ab und auch die Kosten können variieren. Grundsätzlich gilt aber folgende Formel:
-
-**(Grad)^2 x 10 + (verbrauchte Materialien x 2) + (nicht-verbrauchte Materialien x 0.1)**
-
-# Ythryns Reisegeschwindigkeit
-Die Stadt fliegt mit einer Geschwindigkeit von ca. **5,5km/h**.
-
-| Start      | Ziel      | Dauer (fliegend) |
-| :--------- | :-------- | :--------------- |
-| Ythryn     | Jamenas   | 9 Stunden        |
-| Ythryn     | Osthafen  | 15 Stunden       |
-| Jamenas    | Osthafen  | 6 Stunden        |
-| Eiswindtal | Lados     | 2,1 Tage         |
-| Lados      | Thorwacht | 3 Tage           |
-| Eiswindtal | Thorwacht | 1,5 Tage         |
-| Eiswindtal | Rodan     | 15,2 Tage        |
 

@@ -2,6 +2,27 @@
 ># Wunschliste
 >**Elske wünscht sich eine "Xierran ist scheiße zu Goblins, einfach weil er es kann"-Problematik im Underdark!**
 
+# 008 - Ankunft in Thorwacht
+- die Verhandlungen mit dem Drachen wurden fortgesetzt
+- ihr konntet euch darauf einigen, dass ihr Ythryns Überreste bis kurz vor Thorwacht fliegt, dort den Obelisken abkoppelt und die Drachen dann den Rest haben können
+- die Drachen sind euch bis zu einer größeren Höhle etwas südlich von Thorwacht gefolgt, wo ihr den Obelisken parken konntet
+- dort habt ihr den Obelisken abgestellt, Kaelthos hat sich auf den Mythallar eingestimmt und sie sind mit Ythryn weggeflogen
+- ihr habt in der Höhle eine lange Rast gemacht und seid dann nach Thorwacht gegangen
+- ihr habt euch nach den Vorkommnissen umgehört, habt Umbertos Haus gefunden und ein bisschen rumgefragt
+- Lyra ist zur Wachstation gegangen und hat gefragt, was es so für Informationen gibt, weil ihr beauftragt wurdet, Umberto zu suchen und hat erfahren, dass Lord Thorinstein, ein hoher Beamter der Stadt, die Untersuchungen leitet und dass ihr dort nachfragen solltet
+**es ist ca. 10.00 Uhr am 13.08.981 DF**
+
+# 007 - Reise nach Thorwacht
+- ihr habt euch nach der Ursache für das Schaukeln der Stadt umgesehen und habt dabei einen Drachen entdeckt, der die Stadt angriff
+- ihr habt versucht mit ihm zu reden und er pöbelte, wie ihr es wagen konntet und ob ihr aus der Vergangenheit nichts gelernt hättet
+- Kikyo und Nanali haben versucht, mit ihm zu reden, es wurde aber nicht hilfreich
+- es kam zum Kampf
+- der Drache ist schließlich abgehauen
+- am nächsten Tag kam er in Begleitung von 2 weiteren Drachen wieder
+- der größte von ihnen verwandelte sich in eine humanoide Gestalt und begann ein Gespräch
+- er stellte sich als Kaelthos vor und erklärte euch ein bisschen was von der Problematik und fragte nach Lösungen
+- Kikyo bot ihm an, sich ebenfalls auf den Mythallar einzustimmen, woraufhin er meinte, das sei ein Anfang
+**es ist ca. 15.30 Uhr am 11.08.981 DF**
 
 # 006 - Aufbruch
 - die Runde begann mit einer ereignislosen langen Rast
