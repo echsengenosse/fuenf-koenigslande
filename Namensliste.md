@@ -9,9 +9,11 @@
 - Jorek Silbersaum
 - **Rinna Wolk**
 	- falsche Identität von [[DM Sarven Zhaendril]]
-- Halvar Odem
+- ==Halvar Odem==
+	- Bürgermeister von Birth
 - Sella Quickhand
-- Dornik Rausch
+- ==Dornik Rausch==
+	- halborkischer Musiker mit Laute, Jusippu schuldete ihm 20 Gold
 - Freya Lint
 - Oskar Bleifass
 - Nelda Kees
@@ -24,7 +26,8 @@
 - Talaris Venn
 - Isembra Coil
 - Jorath Kelm
-- **Elion Tahs** → Elf, der den Bericht über Izeldar geschrieben hat
+- **Elion Tahs** 
+	- Elf, der den Bericht über Izeldar geschrieben hat
 - Seraphel Morn
 - Othiel Runehart
 
@@ -33,7 +36,8 @@
 - Leutnant Yara Belden
 - Korvin Stahlschild
 - Brena Falk
-- Tovis Irongrip
+- ==Tovis Eisengriff==
+	- Bodygard von Benji ([[Lord Thorinstein]])
 - Mael Tor
 - Rusk Halberd
 - Sena Draik
@@ -72,7 +76,7 @@
 - Ezzik Flint
 
 ## Künstler, Barden, Exzentriker
-- Orren Fiedelwind
+- **Orren Fiedelwind**
 	- Rattenfänger
 - Lys Cantara
 - Belvo Rhyme
