@@ -125,7 +125,7 @@ Am Ende des Tages sind **Ari** und **Benji** sehr laut und sehr ausgiebig am Fei
 >- es hat sich Nairischer Hochadel für das Ritterturnier am 07. Tag angekündigt (es kam die Vermutung auf, dass es sich dabei um Benji handeln könnte, er hat ausweichend auf die Frage nach seiner Familie geantwortet)
 
 ## Plan für Finale
-- der Mann (**Tovis Eisengriff**) wurde von Benjis Vater geschickt ihn zu finden und im Auge zu behalten
+- der Mann (**Torvek Eisengriff**) wurde von Benjis Vater geschickt ihn zu finden und im Auge zu behalten
 - wenn es zu einer Auseinandersetzung zwischen den beiden kommt, verschwinden sie in der Nacht und es tauchen Vogelscheuchen auf, die aussehen, wie sie
 - Spuren führen zu [[Oma Esther]]
 

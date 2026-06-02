@@ -21,7 +21,7 @@ Ein Referenzdokument für alle (möglicherweise wichtigen) auftretenden NSCs.
 	- wurde in einem Café von einer Gruppe Githzerei entführt und von euch gerettet
 	- hat euch daraufhin zu einem Ball eingeladen
 - [[Connor Wilwynd]]
-	- ein menschlicher Blood Hunter (Geisterjäger) aus [[Nairen]]
+	- ein halbelfischer Blood Hunter (Geisterjäger) aus [[Nairen]]
 	- hat scheinbar ein romantisches Interesse an Kikyo
 - [[Orren Fidelwind]]
 	- ein Straßenmusiker

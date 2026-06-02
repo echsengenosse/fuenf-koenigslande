@@ -49,7 +49,7 @@ If the characters are 11th level at the start of this chapter, they don't gain a
 
 ## Getting Started
 
-This adventure begins when Lord Dagult Neverember summons the characters to his modest villa in Neverwinter. Several local guards are present, as are three priests of Oghma—a god of inspiration, invention, and knowledge—from Neverwinter's House of Knowledge.
+This adventure begins when Lord Dagult Neverember summons the characters to his modest villa in Neverwinter. Several local guards are present, as are three priests of **Oghma**—a god of inspiration, invention, and knowledge—from Neverwinter's ==House of Knowledge==.
 
 When the characters enter his audience chamber, Lord Neverember is busy discussing politics with his advisers. He breaks off the discussion, gives the characters a smile of recognition, and says the following:
 
@@ -77,7 +77,8 @@ Lord Neverember and the priests provide an overview of Neverdeath Graveyard, whi
 
 The Main Graveyard holds several mausoleums, some with expansive underground chambers. The Pauper's Graveyard features numerous simple headstones, but a few civic-minded citizens funded communal catacombs when the graveyard was first built.
 
-![The cult of Vecna has kidnapped four nobles in Neverwinter: Eldon Keyward, Indrina Lamsensettle, Sarcelle Malinosh, and Umberto Noblin](img/adventure/VEoR/009-01-002.kidnapped-nobels.webp)
+![[009-01-002.kidnapped-nobels.webp]]
+*(The cult of Vecna has kidnapped four nobles in Neverwinter: Eldon Keyward, Indrina Lamsensettle, Sarcelle Malinosh, and Umberto Noblin)*
 
 ## In the Graveyard
 
@@ -114,8 +115,7 @@ The following locations are keyed to map 1.1.
 ![Map 1.1: Neverdeath Catacombs](img/adventure/VEoR/010-1.01-neverdeath.webp)![Player Version](img/adventure/VEoR/011-1.01-neverdeath-player.webp)
 #### C1: Hallix Mausoleum
 
->>The towering stone mausoleums in Neverdeath Graveyard cluster near the wall separating the Main Graveyard from the Pauper's Graveyard to the west. Hallix Mausoleum is a squat, unassuming granite block in the shadow of larger monuments to the west and south. Its metal double door bears a rusty broken chain and a padlock that hangs off the door.
->>
+>The towering stone mausoleums in Neverdeath Graveyard cluster near the wall separating the Main Graveyard from the Pauper's Graveyard to the west. Hallix Mausoleum is a squat, unassuming granite block in the shadow of larger monuments to the west and south. Its metal double door bears a rusty broken chain and a padlock that hangs off the door.
 
 The well-oiled door opens noiselessly. The crypt interior is dusty, with numerous tracks leading to a descending staircase at the rear of the room.
 
@@ -127,47 +127,44 @@ Against the walls rest six stone coffins, three on each side. A stone slab engra
 
 If the wights described below moved to investigate area C1, omit the last sentence when reading aloud:
 
->>Stone stairs descend from Hallix Mausoleum to a large subterranean chamber with stone coffins sitting on sturdy shelves. Part of the west wall has collapsed, creating an opening into another chamber. Marching around the chamber are five pale, desiccated warriors wearing wicked-looking armor.
->>
+>Stone stairs descend from Hallix Mausoleum to a large subterranean chamber with stone coffins sitting on sturdy shelves. Part of the west wall has collapsed, creating an opening into another chamber. Marching around the chamber are five pale, desiccated warriors wearing wicked-looking armor.
 
-The cult pressed five **wights** into service as guards. The wights know the cultists by appearance and don't attack them, but they attack anyone else.
+The cult pressed five **[[Wight|wights]]** into service as guards. The wights know the cultists by appearance and don't attack them, but they attack anyone else.
 
 The older Hallix corpses once buried here were fed to the cult's ghouls.
 
-***Secret Door.*** One of the empty coffins contains no evidence of a former occupant. The back of this coffin hides a panel with a latch that causes the wall behind it to swing aside. A character who searches the coffin or wall and succeeds on a DC 18 Intelligence (Investigation) or Wisdom (Perception) check finds this secret door. Neither the cultists nor the wights are aware of it. The passageway beyond ends at another secret door that is easily spotted and opened from inside the tunnel. It leads to area C9.
+***Secret Door.*** One of the empty coffins contains no evidence of a former occupant. The back of this coffin hides a panel with a latch that causes the wall behind it to swing aside. A character who searches the coffin or wall and succeeds on a **DC 18** *Intelligence (Investigation)* or *Wisdom (Perception)* check finds this secret door. Neither the cultists nor the wights are aware of it. The passageway beyond ends at another secret door that is easily spotted and opened from inside the tunnel. It leads to area C9.
 
 ***Treasure.*** One open coffin contains four wool cloaks worth 10 gp each and two wide hats worth 5 gp each, which the cultists use to travel inconspicuously aboveground. There is also a *Potion of Invisibility* the cultists were saving for an emergency.
 
 #### C3: Uneven Chamber
 
->>Roots protrude through cracks in the ceiling here. A stone stairway in the southeast corner has collapsed, and the nearby walls have crumbled. Three doors in the north wall are shut, and the middle door bears a new padlock. To the west, stairs lead to a small balcony that overlooks the room from five feet above, with just enough room for a door painted with an eye.
->>
+>Roots protrude through cracks in the ceiling here. A stone stairway in the southeast corner has collapsed, and the nearby walls have crumbled. Three doors in the north wall are shut, and the middle door bears a new padlock. To the west, stairs lead to a small balcony that overlooks the room from five feet above, with just enough room for a door painted with an eye.
 
 This room is inaccessible from the surface since the stairway leading upward has collapsed. See area C5 for more about the padlocked door.
 
 #### C4: Trapped Grate
 
->>A metal grate in the floor of this ten-foot-square room blocks access to a shallow stone pit holding a small gold harp, a handful of loose papers, and a piece of bloody cloth.
->>
+>A metal grate in the floor of this ten-foot-square room blocks access to a shallow stone pit holding a small gold harp, a handful of loose papers, and a piece of bloody cloth.
 
-The iron grate covers a pit that's 5 feet square and 3 feet deep. The openings in the iron grate are 5 inches square. A character who can reach the harp can carefully tilt it and slide it through the grate with a successful DC 18 Dexterity (Sleight of Hand) check. If this check fails by 5 or more, the harp falls back into the pit.
+The iron grate covers a pit that's 5 feet square and 3 feet deep. The openings in the iron grate are 5 inches square. A character who can reach the harp can carefully tilt it and slide it through the grate with a successful **DC 18** *Dexterity (Sleight of Hand)* check. If this check fails by 5 or more, the harp falls back into the pit.
 
 A cultist of Vecna tried to lever the harp from the pit but fell victim to the trap on the grate. The trap tore away half of the cultist's jacket—the bloody cloth now at the pit's bottom—and papers tumbled from the cultist's pocket and through the grate. After that mishap, the cultists decided not to press their luck and left the treasure alone.
 
-***Grate Trap.*** A character can detect the grate's trap by examining the grate and succeeding on a DC 14 Intelligence (Investigation) check. The trap activates when more than 10 pounds of pressure is placed on the grate. Poisoned blades extend from grooves in the grate, dealing 14 (4d6) slashing damage to whatever triggered the trap, and if the target of the trap is a creature, it must succeed on a DC 14 Constitution saving throw or take 14 (4d6) poison damage. The trap resets after 1 minute.
+***Grate Trap.*** A character can detect the grate's trap by examining the grate and succeeding on a **DC 14** *Intelligence (Investigation)* check. The trap activates when more than 10 pounds of pressure is placed on the grate. Poisoned blades extend from grooves in the grate, dealing 14 (4d6) slashing damage to whatever triggered the trap, and if the target of the trap is a creature, it must succeed on a** DC 14** *Constitution saving throw* or take 14 (4d6) poison damage. The trap resets after 1 minute.
 
-***Notes.*** The papers detail plans to kidnap a Neverwinter aristocrat named Indrina Lamsensettle. The notes include a map of her estate, schedules of her movements, and suggestions that she knows an important secret about Lord Neverember. A scrawl in the margin of a note claims that "her secrets will make a worthy sacrifice." (The characters can learn more by examining Jerot's papers in area C25.)
+***Notes.*** The papers detail plans to kidnap a Neverwinter aristocrat named Indrina Lamsensettle. The notes include a map of her estate, schedules of her movements, and suggestions that she knows an important secret about Lord Thorinstein. A scrawl in the margin of a note claims that "her secrets will make a worthy sacrifice." (The characters can learn more by examining Jerot's papers in area C25.)
 
 ***Treasure.*** The harp is worth 2,500 gp.
 
 #### C5: Sarcelle's Cell
 
-This room's only door is padlocked from the outside. As an action, a character with thieves' tools can use them to try to open the lock, doing so with a successful DC 18 Dexterity (Sleight of Hand) check. The cult's four mages (in areas C14, C16, and C26) each carry a key to the lock. Because the stone is unevenly set around this door, a character could use an action to try to pull the door aside, doing so with a successful DC 17 Strength (Athletics) check.
+This room's only door is padlocked from the outside. As an action, a character with thieves' tools can use them to try to open the lock, doing so with a successful **DC 18** *Dexterity (Sleight of Hand)* check. The cult's four mages (in areas C14, C16, and C26) each carry a key to the lock. Because the stone is unevenly set around this door, a character could use an action to try to pull the door aside, doing so with a successful **DC 17** *Strength (Athletics)* check.
 
->>This old crypt holds a single open coffin containing a few tattered blankets. A pouf of wild black hair sprouts from the end of one of the blankets.
->>
+>This old crypt holds a single open coffin containing a few tattered blankets. A pouf of wild black hair sprouts from the end of one of the blankets.
 
-![Sarcelle Malinosh](img/adventure/VEoR/012-01-003.sarcelle-malinosh.webp)
+![[012-01-003.sarcelle-malinosh.webp|300]]
+*(Sarcelle Malinosh)*
 
 The cultists repurposed this crypt into a cell for one of their intended ritual victims, Sarcelle Malinosh. Sarcelle is dozing inside the coffin, wrapped in the blankets so only her hair is visible.
 
@@ -181,8 +178,7 @@ Learning of Sarcelle's vision counts as a secret for the purposes of the Power o
 
 #### C6: Supply Room
 
->>Stone shelves in this room contain boxes and bags. A few crates are stacked against the wall.
->>
+>Stone shelves in this room contain boxes and bags. A few crates are stacked against the wall.
 
 The cultists emptied this servants' crypt to store supplies such as lantern oil, chains, and manacles.
 
@@ -192,12 +188,11 @@ The cultists emptied this servants' crypt to store supplies such as lantern oil,
 
 If the characters minimized the water pressure in area C8, omit the first sentence when reading aloud:
 
->>Rusted pipes run along the walls and ceiling, and water flows from nozzles in the ceiling pipes. In the center of the room is a deep stone basin that's set into the floor and filled to the brim. The surface ripples, revealing several watery creatures inside. To the south, a closed door is padlocked.
->>
+>Rusted pipes run along the walls and ceiling, and water flows from nozzles in the ceiling pipes. In the center of the room is a deep stone basin that's set into the floor and filled to the brim. The surface ripples, revealing several watery creatures inside. To the south, a closed door is padlocked.
 
 See area C11 for more information about the padlocked door.
 
-A **water elemental** and two **water weirds** live in the 25-foot-deep fountain. These creatures are indifferent toward intruders and attack only in self-defense. Once bound to serve the Waterclock Guild, they're now free but enjoy the perpetual "rain" here. The cult bullies these Elementals, so they remain sulking under the water's surface. Determined not to stand for further intrusion, the Elementals rise to attack anyone other than cultists. The water weirds consider the water elemental their leader. If reduced to fewer than 50 hit points, the water elemental retreats to the basin's bottom with any surviving water weirds.
+A **[[Water Elemental|water elemental]]** and two **[[Water Weird|water weirds]]** live in the 25-foot-deep fountain. These creatures are indifferent toward intruders and attack only in self-defense. Once bound to serve the Waterclock Guild, they're now free but enjoy the perpetual "rain" here. The cult bullies these Elementals, so they remain sulking under the water's surface. Determined not to stand for further intrusion, the Elementals rise to attack anyone other than cultists. The water weirds consider the water elemental their leader. If reduced to fewer than 50 hit points, the water elemental retreats to the basin's bottom with any surviving water weirds.
 
 The water elemental enjoys conversation but speaks Aquan only. Characters who are able to communicate with the water elemental can learn the following from it:
 
@@ -209,12 +204,13 @@ The water elemental enjoys conversation but speaks Aquan only. Characters who ar
 
 #### C8: East Pressure Room
 
->>Pipes along the south wall of this room disappear into the walls near the ceiling. A complicated series of cogs and four hand-turned wheels connect to the pipes.
->>
+>Pipes along the south wall of this room disappear into the walls near the ceiling. A complicated series of cogs and four hand-turned wheels connect to the pipes.
 
-![Many of Vecna's cultists in Neverdeath Graveyard bear tattoos of the lich-god's unholy symbol](img/adventure/VEoR/013-01-004.vecna-cult-symbol.webp)
 
-The wheels control the water pressure through the pipes, but they lack gauges to show how turning the wheels affects the pressure. A character can determine that the water flows west, as well as how to maximize or minimize the water pressure, with an hour of trial and error. A character who succeeds on a DC 16 Intelligence (Investigation) check discovers this information in only 10 minutes. Alternatively, the **marid** Shanzezim in area C10 can describe how to work the wheels.
+![[013-01-004.vecna-cult-symbol.webp|300]]
+*(Many of Vecna's cultists in Neverdeath Graveyard bear tattoos of the lich-god's unholy symbol)*
+
+The wheels control the water pressure through the pipes, but they lack gauges to show how turning the wheels affects the pressure. A character can determine that the water flows west, as well as how to maximize or minimize the water pressure, with an hour of trial and error. A character who succeeds on a **DC 16** *Intelligence (Investigation)* check discovers this information in only 10 minutes. Alternatively, the **[[Marid|marid]]** Shanzezim in area C10 can describe how to work the wheels.
 
 ***Minimum Pressure.*** If the characters minimize the water pressure, the nozzles in area C7 stop flowing.
 
@@ -222,21 +218,20 @@ The wheels control the water pressure through the pipes, but they lack gauges to
 
 #### C9: Clockwork Alcove
 
->>Rusty standpipes and interlocking cogs cover the walls of this small alcove.
->>
+>Rusty standpipes and interlocking cogs cover the walls of this small alcove.
 
 The cogs here are jammed together and don't move. Whatever mechanism they connect to is inoperable.
 
-***Secret Door.*** One cog on the north wall doesn't connect to anything else on the wall around it. A creature must succeed on a DC 14 Intelligence (Investigation) check to find this loose cog. When turned, the cog causes part of the wall to slide away as a secret door. The cultists aren't aware of this door. The small passageway beyond ends at another secret door that is easily spotted and opened from inside the tunnel. It leads to area C2.
+***Secret Door.*** One cog on the north wall doesn't connect to anything else on the wall around it. A creature must succeed on a **DC 14** *Intelligence (Investigation)* check to find this loose cog. When turned, the cog causes part of the wall to slide away as a secret door. The cultists aren't aware of this door. The small passageway beyond ends at another secret door that is easily spotted and opened from inside the tunnel. It leads to area C2.
 
 #### C10: Improvised Workshop
 
-![The marid Shanzezim is bound to the crypts and spends time tinkering with clocks in an improvised workshop](img/adventure/VEoR/014-01-005.marid-shanzezim.webp)
+![[014-01-005.marid-shanzezim.webp]]
+*(The marid Shanzezim is bound to the crypts and spends time tinkering with clocks in an improvised workshop)*
 
->>Rubble chokes the southeast corner of the room, leaving only a small gap near the uneven ceiling. Some of the rubble has been reassembled into a low table, which bears small clockwork components. A hulking, fish-headed creature wearing exquisite silk finery carefully examines the tiny parts.
->>
+>Rubble chokes the southeast corner of the room, leaving only a small gap near the uneven ceiling. Some of the rubble has been reassembled into a low table, which bears small clockwork components. A hulking, fish-headed creature wearing exquisite silk finery carefully examines the tiny parts.
 
-The creature is a **marid** named Shanzezim. The marid was bound by the Waterclock Guild and can't leave the crypts belonging to that organization, even though Shanzezim believes the Waterclock Guild has been defunct for years. Not quite ready to test the binding to make an escape, the marid spends time here trying to reassemble one of the Waterclock Guild's most intricate clocks.
+The creature is a **[[Marid|marid]]** named **Shanzezim**. The marid was bound by the Waterclock Guild and can't leave the crypts belonging to that organization, even though Shanzezim believes the Waterclock Guild has been defunct for years. Not quite ready to test the binding to make an escape, the marid spends time here trying to reassemble one of the Waterclock Guild's most intricate clocks.
 
 If the **water elemental** in area C7 fled here, it informed Shanzezim about intruders in the area, so the marid attacks right away to drive off the characters. Otherwise, the marid asks the characters what they want. If a fight breaks out, the marid surrenders if reduced to fewer than 100 hit points or if the characters insist that they aren't with the cult.
 
@@ -249,16 +244,16 @@ If the **water elemental** in area C7 fled here, it informed Shanzezim about int
 
 ***Beyond the Rubble.*** It takes several days of labor to clear the rubble so creatures can pass through it, but Shanzezim is right about there being nothing relevant beyond it. If the characters are determined to explore the other Waterclock Guild chambers, you can invent water-themed or clockwork-based denizens and traps for them to encounter.
 
-***Treasure.*** The clock parts include a gold-colored flywheel that isn't a part of the clock Shanzezim is trying to assemble. The flywheel thus doesn't interest the marid, who gives it to the characters. The gold-colored flywheel is magical and has the properties of a *Stone of Good Luck*.
+***Treasure.*** The clock parts include a gold-colored flywheel that isn't a part of the clock Shanzezim is trying to assemble. The flywheel thus doesn't interest the marid, who gives it to the characters. The gold-colored flywheel (Schwungrad) is magical and has the properties of a *[[Stone of Good Luck]]*.
 
 #### C11: Umberto's Cell
 
-This room's only door is padlocked from the outside with a new, sturdy lock. As an action, a character with thieves' tools can try to use them to open the lock, doing so with a successful DC 18 Dexterity (Sleight of Hand) check. The cult's four mages (in areas C14, C16, and C26) each carry a key that unlocks it. If the characters are friendly with the **water elemental** (see area C7) or Shanzezim (see area C10), either is happy to flow into the crack around the door and burst it open from the inside, much to the surprise of this room's occupant, Umberto Noblin.
+This room's only door is padlocked from the outside with a new, sturdy lock. As an action, a character with thieves' tools can try to use them to open the lock, doing so with a successful **DC 18** *Dexterity (Sleight of Hand)* check. The cult's four mages (in areas C14, C16, and C26) each carry a key that unlocks it. If the characters are friendly with the **water elemental** (see area C7) or Shanzezim (see area C10), either is happy to flow into the crack around the door and burst it open from the inside, much to the surprise of this room's occupant, Umberto Noblin.
 
->>Water leaks down the walls of this cell and pools on the floor near a rusty drain. A dejected gnome sits on a sodden mattress in one corner.
->>
+>Water leaks down the walls of this cell and pools on the floor near a rusty drain. A dejected gnome sits on a sodden mattress in one corner.
 
-![Umberto Noblin](img/adventure/VEoR/015-01-006.umberto-noblin.webp)
+![[015-01-006.umberto-noblin.webp|350]]
+*(Umberto Noblin)*
 
 Umberto Noblin is a gnome historian who is eager to escape Neverdeath Graveyard. Umberto has the game statistics of a lawful neutral **mage** without Spellcasting.
 
@@ -272,8 +267,7 @@ Learning about Umberto's secret research topic counts as a secret for the purpos
 
 #### C12: West Pressure Room
 
->>Pipes climb the north wall, disappearing near the ceiling. A complicated series of cogs and three hand-turned wheels connect to the pipes.
->>
+>Pipes climb the north wall, disappearing near the ceiling. A complicated series of cogs and three hand-turned wheels connect to the pipes.
 
 The wheels control the pipes' water pressure. As in area C8, a character can determine how to maximize or minimize the water pressure with an hour of trial and error, with 10 minutes of trial and error if a character succeeds on a DC 14 Intelligence (Investigation check), or with Shanzezim's instructions.
 
@@ -283,8 +277,7 @@ The wheels control the pipes' water pressure. As in area C8, a character can det
 
 #### C13: Wall Crossing
 
->>This small room appears to be a crossroads between different parts of the graveyard. Steep stairs descend from the east and west sides of this room. Four bells of different sizes hang from leather cords affixed to the ceiling.
->>
+>This small room appears to be a crossroads between different parts of the graveyard. Steep stairs descend from the east and west sides of this room. Four bells of different sizes hang from leather cords affixed to the ceiling.
 
 This room is set into the wall separating Neverdeath's Main Graveyard and Pauper's Graveyard. This room lets the cultists pass between the two graveyards without venturing aboveground.
 
@@ -292,84 +285,79 @@ Arriving cultists ring specific bells in a predetermined pattern, based on their
 
 #### C14: Common Room
 
->>Tables and chairs in this crypt are arranged to create a meeting room or mess hall. Water drips from a pipe into a basin in the southeast corner beneath a detailed image of a staring eye gripped in a withered hand. Five robed cultists are in this room, with one bullying the rest.
->>
+>Tables and chairs in this crypt are arranged to create a meeting room or mess hall. Water drips from a pipe into a basin in the southeast corner beneath a detailed image of a staring eye gripped in a withered hand. Five robed cultists are in this room, with one bullying the rest.
 
-A neutral evil **mage** and four neutral evil **cult fanatics** occupy this room. The mage, a sneering, human bully named Oxtu, insists the cult fanatics call him by his formal title of "Teeth of Vecna." In turn, he refers to them as "Memories of Vecna," their rank. Oxtu likes to describe violent methods of coercing secrets from people, and the cult fanatics hang on his words. Oxtu carries keys that unlock all the prisoner cells (areas C5, C11, C18, and C20).
+A neutral evil **[[mage]]** and four neutral evil **[[cult fanatics]]** occupy this room. The mage, a sneering, human bully named **Oxtu**, insists the cult fanatics call him by his formal title of "==Teeth of Vecna==." In turn, he refers to them as "==Memories of Vecna==," their rank. Oxtu likes to describe violent methods of coercing secrets from people, and the cult fanatics hang on his words. Oxtu carries keys that unlock all the prisoner cells (areas C5, C11, C18, and C20).
 
 The cultists are quick to fight intruders. The fanatics try to stay out of the way of Oxtu's spells, but Oxtu makes no effort to exclude them. The cultists all fight to the death.
 
 ***A Noisy Fight.*** Loud noise here rouses the two **mages** dozing in area C16.
 
-***Unholy Basin.*** The cultists desecrated the basin by placing iconography of Vecna above it. Creatures that aren't devotees of Vecna that drink from the basin must succeed on a DC 17 Constitution saving throw or have the poisoned condition for 1 hour. Cultists who suspect a lack of true devotion from their compatriots challenge each other to drink from the basin to prove their faith. If the characters come in disguise as devotees of Vecna, the cultists demand that they prove their faith by taking a drink.
+***Unholy Basin.*** The cultists desecrated the basin by placing iconography of Vecna above it. Creatures that aren't devotees of Vecna that drink from the basin must succeed on a **DC 17** *Constitution saving throw* or have the poisoned condition for 1 hour. Cultists who suspect a lack of true devotion from their compatriots challenge each other to drink from the basin to prove their faith. If the characters come in disguise as devotees of Vecna, the cultists demand that they prove their faith by taking a drink.
 
 #### C15: Kitchen
 
->>This small crypt has been converted into a kitchen. Dirty utensils soak in a large basin to the east. A stone coffin serves as a firepit; the coffin's lid has been repurposed as a table, which bears platters of dried fruit, nuts, and meat.
->>
+>This small crypt has been converted into a kitchen. Dirty utensils soak in a large basin to the east. A stone coffin serves as a firepit; the coffin's lid has been repurposed as a table, which bears platters of dried fruit, nuts, and meat.
 
 This kitchen remains empty except during mealtimes, and no one bothers to keep it clean. Removing the utensils from the basin reveals a wide drain.
 
 #### C16: Subleader Quarters
 
->>Bones in nooks along this wall were pushed aside to make room for folded robes and other personal effects. Four narrow cots lie against the north wall. A robed human and a robed elf each rest on a cot.
->>
+>Bones in nooks along this wall were pushed aside to make room for folded robes and other personal effects. Four narrow cots lie against the north wall. A robed human and a robed elf each rest on a cot.
 
-Two neutral evil **mages**, an elf man named Hannel and a human woman named Algra, rest here. They are surly, taciturn zealots who venerated Vecna in secret for decades before joining the cult. They love exercising their authority over junior cultists. Each wears a necklace of human teeth in honor of their titles within the cult hierarchy as "Teeth of Vecna." They each carry a key to the prisoner cells (areas C5, C11, C18, and C20).
+Two neutral evil **[[mage|mages]]**, an elf man named **Hannel** and a human woman named **Algra**, rest here. They are surly, taciturn zealots who venerated Vecna in secret for decades before joining the cult. They love exercising their authority over junior cultists. Each wears a necklace of human teeth in honor of their titles within the cult hierarchy as "==Teeth of Vecna==." They each carry a key to the prisoner cells (areas C5, C11, C18, and C20).
 
 The mages are quick to fight if they spot intruders, since they don't want the cult exposed. They are determined to vanquish intruders and prove their worth to the cult, even if it means fighting to the death.
 
-***Secret Door.*** An urn in a nook on the south wall rotates, sliding aside a wall panel that leads to a short tunnel between this room and area C25. A character who searches the room and succeeds on a DC 15 Wisdom (Perception) check finds the secret door and the means to open it. The mages know about the secret passage, but none of the cult fanatics do. At the far end of the secret passage is another secret door easily spotted and opened from inside the tunnel.
+***Secret Door.*** An urn in a nook on the south wall rotates, sliding aside a wall panel that leads to a short tunnel between this room and area C25. A character who searches the room and succeeds on a **DC 15** *Wisdom (Perception)* check finds the secret door and the means to open it. The mages know about the secret passage, but none of the cult fanatics do. At the far end of the secret passage is another secret door easily spotted and opened from inside the tunnel.
 
 #### C17: Library
 
-![Vecnan cultists keep a repository of information and scrolls in a makeshift library in the catacombs](img/adventure/VEoR/016-01-007.vecnan-cultist-library.webp)
+![[016-01-007.vecnan-cultist-library.webp]]
+*(Vecnan cultists keep a repository of information and scrolls in a makeshift library in the catacombs)*
 
->>The long, low shelves of this room are canted at irregular angles due to the uneven stones in the floor. The shelves are crammed with books, scrolls, and folios. Four robed cultists stand near the south shelves instructing two ghouls to tidy up the books.
->>
->>A stone coffin rests against the north wall, its top carved to look like pages of an open book. Engraved on the book's pages is a name: Ayren Griffynstone.
->>
+>The long, low shelves of this room are canted at irregular angles due to the uneven stones in the floor. The shelves are crammed with books, scrolls, and folios. Four robed cultists stand near the south shelves instructing two ghouls to tidy up the books.
+>
+>A stone coffin rests against the north wall, its top carved to look like pages of an open book. Engraved on the book's pages is a name: Ayren Griffynstone.
 
-Four chaotic evil **cult fanatics** are supervising two **ghouls** trying to reorganize the jumble of books the cultists brought to this tomb. The library belongs to Ayren Griffynstone, a human Neverwinter historian. The room hasn't fared well in the graveyard's upheavals, and the uneven floor makes this room *difficult terrain*.
+Four chaotic evil **[[cult fanatics]]** are supervising two **[[ghouls]]** trying to reorganize the jumble of books the cultists brought to this tomb. The library belongs to **Ayren Griffynstone**, a human Neverwinter historian. The room hasn't fared well in the graveyard's upheavals, and the uneven floor makes this room *difficult terrain*.
 
 As Vecna is a god of knowledge as well as secrets, the cultists all contributed their personal libraries to this collection. Each of the cult fanatics has their own ideas about how this hodgepodge of eclectic works should be organized, so the ghouls labor under constant streams of conflicting directions.
 
 Everyone here is on edge and grateful for the distraction of a fight. If the fight turns against the fanatics, one tries to escape through the secret door to fetch the demons in area C19.
 
-***Secret Door.*** One shelf swings back to reveal a secret passage to area C19. A character who searches the shelves and succeeds on a DC 15 Intelligence (Investigation) check finds the secret door and the means to open it. All the cultists know about this secret door. At the far end of the secret passage is another secret door easily spotted and opened from inside the tunnel.
+***Secret Door.*** One shelf swings back to reveal a secret passage to area C19. A character who searches the shelves and succeeds on a **DC 15** *Intelligence (Investigation)* check finds the secret door and the means to open it. All the cultists know about this secret door. At the far end of the secret passage is another secret door easily spotted and opened from inside the tunnel.
 
-***Treasure.*** The collection of sinister books, many of which are duplicates, includes a few valuable tomes. A book describing the *Eye of Vecna* and *Hand of Vecna* is a masterpiece of writing and artistic illumination worth 450 gp. A book of nonsensical poetry titled Quite Good Verse has a gold-plated cover and is worth 200 gp. A book about Neverwinter's history contains a *Spell Scroll* of *Greater Invisibility* and a *Spell Scroll* of *Major Image* folded in its pages. The characters can find these treasures with 10 minutes of dedicated searching.
+***Treasure.*** The collection of sinister books, many of which are duplicates, includes a few valuable tomes. A book describing the *Eye of Vecna* and *Hand of Vecna* is a masterpiece of writing and artistic illumination worth 450 gp. A book of nonsensical poetry titled **Quite Good Verse** has a gold-plated cover and is worth 200 gp. A book about Neverwinter's history contains a *Spell Scroll* of *Greater Invisibility* and a *Spell Scroll* of *Major Image* folded in its pages. The characters can find these treasures with 10 minutes of dedicated searching.
 
 #### C18: Vacant Cell
 
 This room has a padlock outside like the other prisoner cells, but the lock hangs open.
 
->>This squalid cell contains nothing but a bucket and a small heap of filthy blankets.
->>
+>This squalid cell contains nothing but a bucket and a small heap of filthy blankets.
 
-The planar scholar Eldon Keyward occupied this cell for many miserable days. He was taken to the ritual cage in area C26, so his cell isn't locked.
+The planar scholar **Eldon Keyward** occupied this cell for many miserable days. He was taken to the ritual cage in area C26, so his cell isn't locked.
 
 ***Eldon's Notebook.*** Anyone searching the blankets finds Eldon's prize possession: a small notebook filled with his cramped writing about extraplanar intersections, planar conjunctions, and similar esoterica.
 
 #### C19: Demon Lair
 
->>Hundreds of names are etched into metal plates set into the walls of this room, many scratched over and unreadable. Two hulking, red-furred, apelike creatures stalk around the room.
->>
+>Hundreds of names are etched into metal plates set into the walls of this room, many scratched over and unreadable. Two hulking, red-furred, apelike creatures stalk around the room.
 
-The two **barlguras** here work as the cult's kidnappers. With little to do until the next kidnapping spree other than guard the imprisoned aristocrat in area C20, the demons spend their time scratching out the names on the memorial plates with their claws.
+The two **[[barlguras]]** here work as the cult's kidnappers. With little to do until the next kidnapping spree other than guard the imprisoned aristocrat in area C20, the demons spend their time scratching out the names on the memorial plates with their claws.
 
-***Secret Door.*** One of the nameplates pivots to reveal a secret passage to area C17. A character who searches the room and succeeds on a DC 17 Wisdom (Perception) check finds the secret door and the means to open it. The demons don't know about the secret door, but the cultists do. At the far end of the secret passage is another secret door easily spotted and opened from inside the tunnel.
+***Secret Door.*** One of the nameplates pivots to reveal a secret passage to area C17. A character who searches the room and succeeds on a **DC 17** *Wisdom (Perception)* check finds the secret door and the means to open it. The demons don't know about the secret door, but the cultists do. At the far end of the secret passage is another secret door easily spotted and opened from inside the tunnel.
 
 #### C20: Indrina's Cell
 
-This room's only obvious door is padlocked from the outside with a sturdy, new lock. As an action, a character with thieves' tools can use them to try to open the lock, doing so with a successful DC 18 Dexterity (Sleight of Hand) check. Each of the cult's four mages (in areas C14, C16, and C26) carries a key to it. Once the characters open the door, read the following:
+This room's only obvious door is padlocked from the outside with a sturdy, new lock. As an action, a character with thieves' tools can use them to try to open the lock, doing so with a successful **DC 18** *Dexterity (Sleight of Hand)* check. Each of the cult's four mages (in areas C14, C16, and C26) carries a key to it. Once the characters open the door, read the following:
 
->>This crypt smells like a sewer. A woman sits on a mattress atop a low shelf, her once-fine clothing in tatters and a silk scarf wrapped around her face.
->>
+>This crypt smells like a sewer. A woman sits on a mattress atop a low shelf, her once-fine clothing in tatters and a silk scarf wrapped around her face.
 
-![Indrina Lamsensettle](img/adventure/VEoR/017-01-008.indrina-lamsensettle.webp)
+![[017-01-008.indrina-lamsensettle.webp|350]]
+*(Indrina Lamsensettle)*
 
-The prisoner is a human actor named Indrina Lamsensettle. Indrina's normally haughty demeanor has diminished in her imprisonment, though she's determined to make the cult pay once she escapes. Indrina dreams of returning to her estate, cleaning up, and dousing herself in perfumes. She doesn't know anything about Vecna or what the cult has in store for her; she believes that Lord Neverember is behind her imprisonment. Indrina has the game statistics of a lawful neutral **noble** but is unarmed and unarmored.
+The prisoner is a human actor named **Indrina Lamsensettle**. Indrina's normally haughty demeanor has diminished in her imprisonment, though she's determined to make the cult pay once she escapes. Indrina dreams of returning to her estate, cleaning up, and dousing herself in perfumes. She doesn't know anything about Vecna or what the cult has in store for her; she believes that Lord Neverember is behind her imprisonment. Indrina has the game statistics of a lawful neutral **noble** but is unarmed and unarmored.
 
 ***Secret Door.*** Part of the south wall swings aside when shoved. The short hall beyond leads to the latrine and smells even worse than Indrina's cell. A character who searches this room and succeeds on a DC 18 Wisdom (Perception) check finds the secret door. Indrina doesn't know the door is there.
 
@@ -383,42 +371,38 @@ Learning Indrina's discovery counts as a secret for the purposes of the Power of
 
 The outside of this door bears a large "X" painted on it in red.
 
->>Several urns lie shattered across the floor of this room amid heaps of ash and bone dust.
->>
+>Several urns lie shattered across the floor of this room amid heaps of ash and bone dust.
 
-The cultists disturbed two **wraiths** bound to the urns while ransacking the room. The cultists quickly retreated and haven't been back. The wraiths emerge from the dust and ash when anyone opens the door, shrieking, "Vecnans, die!" They vent their rage on nearby creatures, preferring to attack cultists. The wraiths fight until destroyed.
+The cultists disturbed two **[[wraiths]]** bound to the urns while ransacking the room. The cultists quickly retreated and haven't been back. The wraiths emerge from the dust and ash when anyone opens the door, shrieking, "Vecnans, die!" They vent their rage on nearby creatures, preferring to attack cultists. The wraiths fight until destroyed.
 
 #### C22: Latrine
 
->>This filthy latrine is merely a deep pit with a few boards across it. The stink is overpowering.
->>
+>This filthy latrine is merely a deep pit with a few boards across it. The stink is overpowering.
 
-***Secret Door.*** The north wall of this disgusting room swings aside when a particular stone is pressed. A character who searches the room and succeeds on a DC 15 Intelligence (Investigation) check finds the secret door. All the cultists know about this secret door and open it from time to time to waft the smell into Indrina's cell (area C20).
+***Secret Door.*** The north wall of this disgusting room swings aside when a particular stone is pressed. A character who searches the room and succeeds on a **DC 15** *Intelligence (Investigation)* check finds the secret door. All the cultists know about this secret door and open it from time to time to waft the smell into Indrina's cell (area C20).
 
 #### C23: Corridor
 
->>A shuffling cultist bearing a vacant expression moves through the corridor. Several narrow doorways lead off this long hall.
->>
+>A shuffling cultist bearing a vacant expression moves through the corridor. Several narrow doorways lead off this long hall.
 
-The Vecnan cult leader, Jerot Galgin, used a dreadful ritual to drain the cultist of her knowledge and vitality. This cultist, as well as other people whose secrets the cult have sacrificed to Vecna, has the game statistics of a **zombie**. The cultist is a Humanoid rather than Undead and isn't immune to poison damage or the poisoned condition. She is dressed like the other cult members and doesn't attack anyone dressed like cultists.
+The Vecnan cult leader, **Jerot Galgin**, used a dreadful ritual to drain the cultist of her knowledge and vitality. This cultist, as well as other people whose secrets the cult have sacrificed to Vecna, has the game statistics of a **[[zombie]]**. The cultist is a Humanoid rather than Undead and isn't immune to poison damage or the poisoned condition. She is dressed like the other cult members and doesn't attack anyone dressed like cultists.
 
-***Made an Example.*** Raina Kairls was caught planning to betray the cult to Neverwinter's guards. Jerot first tested the sacrificial ritual on Raina and thinks she serves as a useful reminder of the price of betrayal.
+***Made an Example.*** **Raina Kairls** was caught planning to betray the cult to Neverwinter's guards. Jerot first tested the sacrificial ritual on Raina and thinks she serves as a useful reminder of the price of betrayal.
 
 #### C24: Empty Crypts
 
->>This narrow doorway leads into a small, empty crypt.
->>
+>This narrow doorway leads into a small, empty crypt.
 
 These four rooms are empty.
 
 #### C25: Leader's Room
 
->>This large room has been furnished to resemble a cozy bedroom and study. Stooped over a desk and scribbling furiously on a parchment is a gaunt, robed human man. Standing next to the desk is a one-eyed, bipedal horror with spikes growing out of its back. Tapestries depicting feasting undead creatures hang on the wall.
->>
+>This large room has been furnished to resemble a cozy bedroom and study. Stooped over a desk and scribbling furiously on a parchment is a gaunt, robed human man. Standing next to the desk is a one-eyed, bipedal horror with spikes growing out of its back. Tapestries depicting feasting undead creatures hang on the wall.
 
-![Jerot Galgin](img/adventure/VEoR/018-01-009.jerot-galgin.webp)
+![[018-01-009.jerot-galgin.webp|350]]
+*(Jerot Galgin)*
 
-The cult's leader is a neutral evil, human **necromancer wizard** (see *appendix A*) named Jerot Galgin. A loyal **nothic** assistant named Maszundrin never leaves Jerot's side. A devotee of Vecna, Maszundrin learned Common while lurking in the catacombs for decades and considers the cultists vital servants of the lich-god.
+The cult's leader is a neutral evil, human **[[necromancer wizard]]** (see *appendix A*) named **[[Jerot Galgin]]**. A loyal **[[nothic]]** assistant named **Maszundrin** never leaves Jerot's side. A devotee of Vecna, Maszundrin learned Common while lurking in the catacombs for decades and considers the cultists vital servants of the lich-god.
 
 Jerot is an aristocrat who has lived his entire life in Neverwinter. He has built his deep faith in Vecna and vast necromantic knowledge over many years, right under the noses of his peers. He's engaging in this current research while his friends and family believe him to be on an extended trip to Waterdeep. Jerot considers his secret life as a cult leader, or the "Thought of Vecna," to be yet another way to honor his evil patron.
 
@@ -426,31 +410,32 @@ Jerot is refining the ritual occurring in the Sacrifice Gallery (area C26) and i
 
 ***Jerot's Papers.*** Jerot's notes on the ritual describe draining and sacrificing a victim's secrets and knowledge to Vecna. His notes illustrate the first test of the ritual, which used a disloyal cultist as the victim. For his future attempts, Jerot has chosen townspeople from Neverwinter whom he believes have particularly meaningful secrets. Their secrets are the cultists' best offerings to Vecna.
 
-A character who examines Jerot's notes and succeeds on a DC 14 Intelligence (Investigation) check finds mention of magical phenomena called "Crevices of Dusk" that sometimes appear in Neverwinter. The notes indicate that these magical gateways connect to a plane populated by Undead, but it's clear Jerot doesn't know much more than that. His notes indicate his resolve to learn more after he finishes his current experiments in stealing and offering secrets to Vecna.
+A character who examines Jerot's notes and succeeds on a **DC 14** *Intelligence (Investigation)* check finds mention of magical phenomena called "Crevices of Dusk" that sometimes appear in Neverwinter. The notes indicate that these magical gateways connect to a plane populated by Undead, but it's clear Jerot doesn't know much more than that. His notes indicate his resolve to learn more after he finishes his current experiments in stealing and offering secrets to Vecna.
 
 ***Secret Door.*** A tapestry depicting a feasting ghoul conceals a secret, sliding door leading to a short tunnel between this room and area C16. A character who searches behind the tapestry and succeeds on a DC 10 Wisdom (Perception) check finds the secret door. Once inside the secret passage, a character can easily spot and open the secret door at the opposite end.
 
 #### C26: Sacrifice Gallery
 
->>This enormous room features raised galleries at the east and west ends. Six chanting figures ring the east gallery, their hands raised toward a spherical cage hanging from the 30-foot-tall ceiling. The ritual's leader chants from the west balcony, surrounded by hunched, one-eyed creatures with knobby hides. A terrified elf struggles in the dangling cage.
->>
+>This enormous room features raised galleries at the east and west ends. Six chanting figures ring the east gallery, their hands raised toward a spherical cage hanging from the 30-foot-tall ceiling. The ritual's leader chants from the west balcony, surrounded by hunched, one-eyed creatures with knobby hides. A terrified elf struggles in the dangling cage.
 
-![Eldon Keyward](img/adventure/VEoR/019-01-010.eldon-keyward.webp)
+![[019-01-010.eldon-keyward.webp|350]]
+*(Eldon Keyward)*
 
 This room's floor is 10 feet lower than the raised galleries.
 
-The room is filled with cultists engaged in an extensive, hours-long ritual to sacrifice the elf Eldon Keyward's secrets to Vecna. The ritual leader is a tall, proud, neutral evil **mage** named Kendri Nex. The five **nothics** around her attack intruders on sight. Kendri uses her magic defensively, retreating to the room's floor if pressed. Kendri carries keys that unlock all the prisoner cells (areas C5, C11, C18, and C20), but if the characters haven't already rescued the other prisoners, they might not have the chance to do so, as the encounter likely ends with them being shunted through a planar rift.
+The room is filled with cultists engaged in an extensive, hours-long ritual to sacrifice the elf **Eldon Keyward's** secrets to Vecna. The ritual leader is a tall, proud, neutral evil **[[mage]]** named **Kendri Nex**. The five **nothics** around her attack intruders on sight. Kendri uses her magic defensively, retreating to the room's floor if pressed. Kendri carries keys that unlock all the prisoner cells (areas C5, C11, C18, and C20), but if the characters haven't already rescued the other prisoners, they might not have the chance to do so, as the encounter likely ends with them being shunted through a planar rift.
 
-The six neutral evil **cult fanatics** on the raised east gallery don't fight, since they fear interrupting the complicated ritual. They maintain their chanting and wild gesticulations.
+The six neutral evil **[[cult fanatics]]** on the raised east gallery don't fight, since they fear interrupting the complicated ritual. They maintain their chanting and wild gesticulations.
 
-***The Cage.*** Eldon is a lawful good elf **priest** who follows Deneir, a god of writing and knowledge. He can't cast spells while he's in the cage. Eldon's cage hangs from a sturdy chain that ends 20 feet above the ground. The door on the cage's side is latched but not locked. Any character who can reach the cage can open its door as an action.
+***The Cage.*** Eldon is a lawful good elf **[[priest]]** who follows **Deneir**, a god of writing and knowledge. He can't cast spells while he's in the cage. Eldon's cage hangs from a sturdy chain that ends 20 feet above the ground. The door on the cage's side is latched but not locked. Any character who can reach the cage can open its door as an action.
 
 #### Fight's End
 
-This fight ends immediately if the characters kill Kendri, silence any of the cult fanatics, or attempt to free Eldon. Energy from the interrupted ritual opens a latent planar rift that shunts Eldon and the characters into the Shadowfell:
+This fight ends immediately if the characters kill **Kendri**, silence any of the cult fanatics, or attempt to free Eldon. Energy from the interrupted ritual opens a latent planar rift that shunts Eldon and the characters into the Shadowfell:
 
->>A riot of silvery-purple energy fills the room. You feel a sense of space tearing open—then you're falling, and everything goes dark.
->>
+>A riot of silvery-purple energy fills the room. You feel a sense of space tearing open—then you're falling, and everything goes dark.
+
+---
 
 ## Escaping Evernight
 

@@ -1,0 +1,5 @@
+
+```statblock
+creature: Wight
+```
+

@@ -2,9 +2,10 @@
 ## Allgemeine Bürger:innen (Handwerker, Händler, Nachbarn)
 - Alren Hosk
 - Mira Feldhain
-- Torvek Brann
+- Tovis Brann
 - Lysa Morgenrot
-- Bennic Karr
+- ==Bennic Karr==
+	- Bauer aus [[Birth]]
 - Elva Tann
 - Jorek Silbersaum
 - **Rinna Wolk**
@@ -36,7 +37,7 @@
 - Leutnant Yara Belden
 - Korvin Stahlschild
 - Brena Falk
-- ==Tovis Eisengriff==
+- ==Torvek Eisengriff==
 	- Bodygard von Benji ([[Lord Thorinstein]])
 - Mael Tor
 - Rusk Halberd
