@@ -77,7 +77,7 @@ Die [[Fünf Königslande]] sind im Grundsatz föderalistisch strukturiert. Das h
 | H1  | [[Waidfels]]      | [[Dumenor]]      | Herzogtum    | [[Herzog Idras von Thorinstein]] |
 | H2  | [[Südmarkt]]      | [[Worsann]]      | Herzogtum    |                                  |
 | H3  | [[Horstatt]]      | [[Ered]]         | Herzogtum    |                                  |
-| F1  | [[Klingenheim]]   | [[Adock]]        | Fürstentum   | [[Fürst Steyn]]                  |
+| F1  | [[Klingenheim]]   | [[Adock]]        | Fürstentum   | [[Lord Arrin Steyn]]                   |
 | F2  | [[Nebelstatt]]    | [[Dunenthal]]    | Fürstenstum  | [[Fürst Barish]]                 |
 | F3  | [[Lifford]]       | [[Sicarr]]       | Fürstentum   | [[Fürst Adross]]                 |
 | F4  | [[Treuchtlingen]] | [[Schwarzenweg]] | Fürstentum   | [[Erleas von Treuchtlingen]]     |
@@ -145,19 +145,19 @@ Die [[Fünf Königslande]] sind im Grundsatz föderalistisch strukturiert. Das h
 | B3  | [[Berndam]]     | [[Sunath]]      | Baronie      |                 |
 
 ## Vadian
-| ID  | Sitz            | Gebiet          | Art          | Herrscher:in                         |
-| :-- | --------------- | :-------------- | :----------- | ------------------------------------ |
-| H   | [[Thorwacht]]   | [[Samil]]       | Königsgebiet | [[Lady Ninra]]                       |
-| H1  | [[Parrs]]       | [[Jusann]]      | Herzogtum    | [[Herzog Hohenthal]]                 |
-| F1  | [[Salzau]]      | [[Livar]]       | Fürstentum   |                                      |
-| F2  | [[Marthe]]      | [[Vamaren]]     | Fürstentum   |                                      |
-| F3  | [[Kerkenthal]]  | [[Sonnemuhl]]   | Fürstentum   |                                      |
-| G1  | [[Turnbeck]]    | [[Esh]]         | Grafschaft   |                                      |
-| G2  | [[Illthal]]     | [[Omith]]       | Grafschaft   |                                      |
-| G3  | [[Harenlande]]  | [[Khurat]]      | Grafschaft   |                                      |
-| B1  | [[Scionby]]     | [[Graelhorn]]   | Baronie      | [[Baron Rorik Langon]]               |
-| B2  | [[Eppenwald]]   | [[Elmer]]       | Baronie      |                                      |
-| B3  | [[Helwarden]]   | [[Eulenberg]]   | Baronie      |                                      |
-| B4  | [[Kiesenstadt]] | [[Kiesenstatt]] | Baronie      | [[Lord Varradan Benjar Thorinstein]] |
+| ID  | Sitz            | Gebiet          | Art          | Herrscher:in           |
+| :-- | --------------- | :-------------- | :----------- | ---------------------- |
+| H   | [[Thorwacht]]   | [[Samil]]       | Königsgebiet | [[Lady Ninra]]         |
+| H1  | [[Parrs]]       | [[Jusann]]      | Herzogtum    | [[Herzog Hohenthal]]   |
+| F1  | [[Salzau]]      | [[Livar]]       | Fürstentum   |                        |
+| F2  | [[Marthe]]      | [[Vamaren]]     | Fürstentum   |                        |
+| F3  | [[Kerkenthal]]  | [[Sonnemuhl]]   | Fürstentum   |                        |
+| G1  | [[Turnbeck]]    | [[Esh]]         | Grafschaft   |                        |
+| G2  | [[Illthal]]     | [[Omith]]       | Grafschaft   |                        |
+| G3  | [[Harenlande]]  | [[Khurat]]      | Grafschaft   |                        |
+| B1  | [[Scionby]]     | [[Graelhorn]]   | Baronie      | [[Baron Rorik Langon]] |
+| B2  | [[Eppenwald]]   | [[Elmer]]       | Baronie      |                        |
+| B3  | [[Helwarden]]   | [[Eulenberg]]   | Baronie      |                        |
+| B4  | [[Kiesenstadt]] | [[Kiesenstatt]] | Baronie      | [[Lord Varradan Thorinstein]]   |
 
 

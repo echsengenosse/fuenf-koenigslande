@@ -16,5 +16,8 @@
 ![[Weltkarte Kontinente und Koenigreiche.jpg|250]]
 
 # Besondere Orte
+[[Haus in Thorwacht]]
+![[map_56x44.png|250]]
+
 [[Rodans Camp]]
 ![[RodansCamp.jpg|250]]

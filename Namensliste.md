@@ -23,6 +23,7 @@
 ## Akademiker, Magier, Gelehrte
 - Arcanis Thol
 - Velis Ankhir
+	- Divinationmagier Haus des Wissens
 - Maeron Ys
 - Talaris Venn
 - Isembra Coil
@@ -38,7 +39,7 @@
 - Korvin Stahlschild
 - Brena Falk
 - ==Torvek Eisengriff==
-	- Bodygard von Benji ([[Lord Thorinstein]])
+	- Bodygard von Benji ([[Lord Varradan Thorinstein]])
 - Mael Tor
 - Rusk Halberd
 - Sena Draik

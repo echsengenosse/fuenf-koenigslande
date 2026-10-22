@@ -8,7 +8,7 @@
 >- **Volk:** Halbelf
 >- **Geschlecht:** männlich
 >- **Alter:** 
->- **Beruf:** Gelehrter (Spezialgebiet Äußere Ebenen)
+>- **Beruf:** Gelehrter (Spezialgebiet Äußere Ebenen), Priester von [[Deneir]]
 >- **Herkunft:** 
 >- **Aufenthaltsort:** [[Thorwacht]]?
 >- **Status:** entführt (seit 07.08.981 DF)

@@ -28,7 +28,8 @@ Ein Referenzdokument für alle (möglicherweise wichtigen) auftretenden NSCs.
 	- hatte mehrere Interaktionen mit Nanali, die bei ihr Fragen aufgeworfen haben
 
 # In Thorwacht
-- [[Lord Thorinstein]]
+- [[Lord Varradan Thorinstein]]
 	- Mitglied des [[Der Hohe Rat|Hohen Rates]] von [[Vadian]]
 	- hat sich der Suche nach den verschwunden Personen ([[Umberto Noblin]], [[Eldon Schlüsselwächter]], [[Sarcelle Malinosh]] und [[Indrina Lamsensettle]]) angenommen
-
+- [[Velis Ankhir]]
+	- Vorhersehungsmagier aus dem [[Haus des Wissens]]

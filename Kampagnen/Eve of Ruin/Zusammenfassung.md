@@ -2,6 +2,81 @@
 ># Wunschliste
 >**Elske wünscht sich eine "Xierran ist scheiße zu Goblins, einfach weil er es kann"-Problematik im Underdark!**
 
+# 016 - Rückkehr
+- Kikyo hat eine Vision bezüglich der Tür und gibt den Inhalt an die anderen weiter
+- Versuch 1: Dolor → fehlgeschlagen
+- Versuch 2: Alone → Erfolg
+- Kevetta hinter der Tür als Lonely Sorrowsworn
+- schwieriges Gespräch
+	- Kevetta kann nicht zurückkehren
+	- in Sarg [[Dämmerriss]]
+- Rückkehr nach [[Thorwacht]]
+- Hallix Grab abgesperrt
+	- 2 Wachen tot
+	- einige Kultisten festgenommen, andere (darunter [[Jerot Galgin]]) geflohen
+- Bericht an Thorinstein
+- Gruppe erhält Begleitschutz
+- Xierran geht noch zu Umberto und bringt ihn zum Obelisken
+- lange Rast
+- Xierran und Kikyo gehen in Haus des Wissens
+	- Xierran fragt [[Velis Ankhir]] nach Theren
+		- lässt Ring und Zeichnung da
+		- zahlt 50 G jetzt und 50 bei Abholung von Infos zum möglichen Verbleib
+- Gespräch mit Thorinstein
+	- [[Haus in Thorwacht]]
+	- 9.000 G als Dankeschön der Angehörigen der geretteten Personen
+- Haus begutachtet und Möbel shopping
+
+**es ist ca. 13 Uhr am 14.08.981 DF**
+
+# 015 - Derengar Grab
+- Erkundung des Grabs
+- Finden der Geschwister
+
+# 014 - 
+- Erkunden des Grabs
+- Treffen von Newmy und erste Erkundung
+
+**es ist ca. 14.30 Uhr am 13.08.981 DF**
+
+# 013 - 
+- Gang zum Marktplatz
+- Gespräch mit Sangora
+- Erreichen von Derengar Grab
+
+# 012 - 
+- Gespräche zwischen Kikyo, Lyra und Xierran
+
+# 011 - 
+- Gruppe erreicht Evernight
+
+# 010 - 
+>**Arlen hat 17 Punkte Schaden!** (Svenja erinnern!)
+>Noch keine XP für die Runde vergeben!
+>Das Ritual braucht noch ungefähr 15min
+
+- ihr habt über euer weiteres Vorgehen gesprochen
+- Noblin befreit und nach Geschehnissen gefragt
+- Kikyo hat Stadtwache beauftragt Iskander von der Befreiung zu berichten
+- Xierran ist vorgegangen, um mit den Kultisten zu reden
+- sie schienen nicht bereit zu sein, die Gefangenen gehen zu lassen
+- es gab einen Deal, das Ende des bereits laufenden Rituals abzuwarten, doch es kam vorher zum Kampf
+- einer der Kultisten wurde von Xierran stabilisiert, 2 schlafen und sind gefesselt
+- der Rest ist verschwunden
+- Kikyo hat die Stadtwache alarmiert und ist mit ihnen auf dem Weg ins Innere
+**es ist ca. 13 Uhr am 13.08.981 DF**
+
+# 009 - Rettungsmission
+- ihr seid gemeinsam zu Lord Thorinstein gegangen, um nach Infos über Umbertos Verschwinden zu fragen
+- er erklärte, dass sich die Spuren aller entführten Leute nahe des Hallix Mausoleums verlieren und meinte, dass er dankbar wäre, wenn ihr euch des Problems annehmen würdet
+- ihr wart noch im Haus des Wissens
+	- eine Art Bildungszentrum für die Allgemeinheit, mit Vorträgen, einer Bib, ...
+- ihr habt das Mausoleum gefunden und seid da rein
+- im Inneren zunächst Gruftschrecken, Ventile, Dinge im Wasser, ...
+- ihr habt in einem Raum Sarcelle Malinosh, eine der entführten Personen, gefunden und befreit
+	- ihr habt sie der Stadtwache übergeben und sie hat euch von ihrer Vision erzählt
+**es ist ca. 12 Uhr am 13.08.981 DF**
+
 # 008 - Ankunft in Thorwacht
 - die Verhandlungen mit dem Drachen wurden fortgesetzt
 - ihr konntet euch darauf einigen, dass ihr Ythryns Überreste bis kurz vor Thorwacht fliegt, dort den Obelisken abkoppelt und die Drachen dann den Rest haben können

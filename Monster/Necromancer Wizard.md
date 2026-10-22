@@ -28,7 +28,7 @@ ___
 >***Spellcasting.*** The necromancer casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 15):  
 >
 >At will: *dancing lights*, *mage hand*, *prestidigitation*  
->2/day each: *bestow curse*, *dimension door*, *mage armor*, *web*  
+>2/day each: *bestow curse*, *dimension door* X, *mage armor*, *web*  
 >1/day: *circle of death*  
 >
 >### Bonus Actions

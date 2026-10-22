@@ -1,6 +1,5 @@
 
-![[ChatGPT Image 2. Juni 2026, 00_40_09.png|350]]
-
+![[ChatGPT Image 5. Juni 2026, 22_27_25.png|350]]
 >[!infobox]+ Allgemeine Infos
 ># Allgemeine Infos
 >---
@@ -14,11 +13,11 @@
 >- **Status:** lebendig
 
 # Vergangenheit
-Xierran ist ihm vor 30 Jahren auf einem Erntedankfest in [[Birth]] begegnet. Damals war er ca. 16 Jahre alt, nannte sich **Ari** und war mit [[Lord Thorinstein]], der sich dort **Benji** nannte, auf dem Fest.
+Xierran ist ihm vor 30 Jahren auf einem Erntedankfest in [[Birth]] begegnet. Damals war er ca. 16 Jahre alt, nannte sich **Ari** und war mit [[Lord Varradan Thorinstein]], der sich dort **Benji** nannte, auf dem Fest.
 Nach einem Zwischenfall mit Vogelscheuchen hat man sich aus den Augen verloren.
 
 ![[ChatGPT Image 2. Juni 2026, 00_38_15.png|300]]
-(*Ari und Benji auf dem Erntedankfest in [[Birth]]*)
+(*Ari und [[Lord Varradan Thorinstein|Benji]] auf dem Erntedankfest in [[Birth]]*)
 
 ___
 **Spieler:innen Notizen:**

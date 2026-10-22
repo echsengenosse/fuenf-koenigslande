@@ -20,7 +20,7 @@ Am Abend soll das Fest offiziell bei Musik und Tanz eröffnet werden. Es ist üb
 
 Es gibt Kinderschminken und viele Leute tragen Kostüme oder einfache Verkleidungen. Es erinnert ein bisschen an Fasching. Manche Leute geben sich mit ihren Kostümen mehr Mühe, als andere, was Xierran für die Darstellung sozialer Hierarchien hält.
 
-Ihnen fallen dabei ein jugendlicher Mensch und ein junger Elf auf, die sich als Ari und Benji vorstellen. Dabei handelt es sich um [[Lord Arryn Stein]] und [[Lord Varradan Benjar Thorinstein]]. Sie sind laut, sie sind selbstbewusst und sie sind offensichtlich gut befreundet.
+Ihnen fallen dabei ein jugendlicher Mensch und ein junger Elf auf, die sich als Ari und Benji vorstellen. Dabei handelt es sich um [[Lord Arryn Steyn]] und [[Lord Varradan Thorinstein]]. Sie sind laut, sie sind selbstbewusst und sie sind offensichtlich gut befreundet.
 Dem genauen Beobachter wird auffallen, dass sie von einem grimmig guckenden Mann beobachtet werden, immer aus einiger Distanz. Dabei handelt es sich um den Bodyguard von Varrn.
 
 ==Alte Frau verteilt Kekse und ist sehr freundlich. Sie wird von Xierran als größte Gefahr verbucht.==

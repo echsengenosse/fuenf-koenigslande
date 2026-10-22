@@ -250,7 +250,7 @@ If the **water elemental** in area C7 fled here, it informed Shanzezim about int
 
 This room's only door is padlocked from the outside with a new, sturdy lock. As an action, a character with thieves' tools can try to use them to open the lock, doing so with a successful **DC 18** *Dexterity (Sleight of Hand)* check. The cult's four mages (in areas C14, C16, and C26) each carry a key that unlocks it. If the characters are friendly with the **water elemental** (see area C7) or Shanzezim (see area C10), either is happy to flow into the crack around the door and burst it open from the inside, much to the surprise of this room's occupant, Umberto Noblin.
 
->Water leaks down the walls of this cell and pools on the floor near a rusty drain. A dejected gnome sits on a sodden mattress in one corner.
+>Water leaks down the walls of this cell and pools on the floor near a rusty drain. A dejected (niedergeschlagener) gnome sits on a sodden (durchweichten) mattress in one corner.
 
 ![[015-01-006.umberto-noblin.webp|350]]
 *(Umberto Noblin)*
@@ -287,7 +287,7 @@ Arriving cultists ring specific bells in a predetermined pattern, based on their
 
 >Tables and chairs in this crypt are arranged to create a meeting room or mess hall. Water drips from a pipe into a basin in the southeast corner beneath a detailed image of a staring eye gripped in a withered hand. Five robed cultists are in this room, with one bullying the rest.
 
-A neutral evil **[[mage]]** and four neutral evil **[[cult fanatics]]** occupy this room. The mage, a sneering, human bully named **Oxtu**, insists the cult fanatics call him by his formal title of "==Teeth of Vecna==." In turn, he refers to them as "==Memories of Vecna==," their rank. Oxtu likes to describe violent methods of coercing secrets from people, and the cult fanatics hang on his words. Oxtu carries keys that unlock all the prisoner cells (areas C5, C11, C18, and C20).
+A neutral evil **[[Mage]]** and four neutral evil **[[Cult Fanatic]]** occupy this room. The mage, a sneering, human bully named **Oxtu**, insists the cult fanatics call him by his formal title of "==Teeth of Vecna==." In turn, he refers to them as "==Memories of Vecna==," their rank. Oxtu likes to describe violent methods of coercing secrets from people, and the cult fanatics hang on his words. Oxtu carries keys that unlock all the prisoner cells (areas C5, C11, C18, and C20).
 
 The cultists are quick to fight intruders. The fanatics try to stay out of the way of Oxtu's spells, but Oxtu makes no effort to exclude them. The cultists all fight to the death.
 
@@ -305,7 +305,7 @@ This kitchen remains empty except during mealtimes, and no one bothers to keep i
 
 >Bones in nooks along this wall were pushed aside to make room for folded robes and other personal effects. Four narrow cots lie against the north wall. A robed human and a robed elf each rest on a cot.
 
-Two neutral evil **[[mage|mages]]**, an elf man named **Hannel** and a human woman named **Algra**, rest here. They are surly, taciturn zealots who venerated Vecna in secret for decades before joining the cult. They love exercising their authority over junior cultists. Each wears a necklace of human teeth in honor of their titles within the cult hierarchy as "==Teeth of Vecna==." They each carry a key to the prisoner cells (areas C5, C11, C18, and C20).
+Two neutral evil **[[Mage|mages]]**, an elf man named **Hannel** and a human woman named **Algra**, rest here. They are surly, taciturn zealots who venerated Vecna in secret for decades before joining the cult. They love exercising their authority over junior cultists. Each wears a necklace of human teeth in honor of their titles within the cult hierarchy as "==Teeth of Vecna==." They each carry a key to the prisoner cells (areas C5, C11, C18, and C20).
 
 The mages are quick to fight if they spot intruders, since they don't want the cult exposed. They are determined to vanquish intruders and prove their worth to the cult, even if it means fighting to the death.
 
@@ -320,7 +320,7 @@ The mages are quick to fight if they spot intruders, since they don't want the c
 >
 >A stone coffin rests against the north wall, its top carved to look like pages of an open book. Engraved on the book's pages is a name: Ayren Griffynstone.
 
-Four chaotic evil **[[cult fanatics]]** are supervising two **[[ghouls]]** trying to reorganize the jumble of books the cultists brought to this tomb. The library belongs to **Ayren Griffynstone**, a human Neverwinter historian. The room hasn't fared well in the graveyard's upheavals, and the uneven floor makes this room *difficult terrain*.
+Four chaotic evil **[[Cult Fanatic]]** are supervising two **[[Ghoul]]** trying to reorganize the jumble of books the cultists brought to this tomb. The library belongs to **Ayren Griffynstone**, a human Neverwinter historian. The room hasn't fared well in the graveyard's upheavals, and the uneven floor makes this room *difficult terrain*.
 
 As Vecna is a god of knowledge as well as secrets, the cultists all contributed their personal libraries to this collection. Each of the cult fanatics has their own ideas about how this hodgepodge of eclectic works should be organized, so the ghouls labor under constant streams of conflicting directions.
 
@@ -344,7 +344,7 @@ The planar scholar **Eldon Keyward** occupied this cell for many miserable days.
 
 >Hundreds of names are etched into metal plates set into the walls of this room, many scratched over and unreadable. Two hulking, red-furred, apelike creatures stalk around the room.
 
-The two **[[barlguras]]** here work as the cult's kidnappers. With little to do until the next kidnapping spree other than guard the imprisoned aristocrat in area C20, the demons spend their time scratching out the names on the memorial plates with their claws.
+The two **[[Barlgura]]** here work as the cult's kidnappers. With little to do until the next kidnapping spree other than guard the imprisoned aristocrat in area C20, the demons spend their time scratching out the names on the memorial plates with their claws.
 
 ***Secret Door.*** One of the nameplates pivots to reveal a secret passage to area C17. A character who searches the room and succeeds on a **DC 17** *Wisdom (Perception)* check finds the secret door and the means to open it. The demons don't know about the secret door, but the cultists do. At the far end of the secret passage is another secret door easily spotted and opened from inside the tunnel.
 
@@ -357,7 +357,7 @@ This room's only obvious door is padlocked from the outside with a sturdy, new l
 ![[017-01-008.indrina-lamsensettle.webp|350]]
 *(Indrina Lamsensettle)*
 
-The prisoner is a human actor named **Indrina Lamsensettle**. Indrina's normally haughty demeanor has diminished in her imprisonment, though she's determined to make the cult pay once she escapes. Indrina dreams of returning to her estate, cleaning up, and dousing herself in perfumes. She doesn't know anything about Vecna or what the cult has in store for her; she believes that Lord Neverember is behind her imprisonment. Indrina has the game statistics of a lawful neutral **noble** but is unarmed and unarmored.
+The prisoner is a human actor named **Indrina Lamsensettle**. Indrina's normally haughty (hochmütig, eingebildet) demeanor has diminished in her imprisonment, though she's determined to make the cult pay once she escapes. Indrina dreams of returning to her estate, cleaning up, and dousing herself in perfumes. She doesn't know anything about Vecna or what the cult has in store for her; she believes that Lord Neverember is behind her imprisonment. Indrina has the game statistics of a lawful neutral **noble** but is unarmed and unarmored.
 
 ***Secret Door.*** Part of the south wall swings aside when shoved. The short hall beyond leads to the latrine and smells even worse than Indrina's cell. A character who searches this room and succeeds on a DC 18 Wisdom (Perception) check finds the secret door. Indrina doesn't know the door is there.
 
@@ -397,12 +397,12 @@ These four rooms are empty.
 
 #### C25: Leader's Room
 
->This large room has been furnished to resemble a cozy bedroom and study. Stooped over a desk and scribbling furiously on a parchment is a gaunt, robed human man. Standing next to the desk is a one-eyed, bipedal horror with spikes growing out of its back. Tapestries depicting feasting undead creatures hang on the wall.
+>This large room has been furnished to resemble a cozy bedroom and study. Stooped over a desk and scribbling furiously on a parchment is a gaunt (hager), robed human man. Standing next to the desk is a one-eyed, bipedal horror with spikes growing out of its back. Tapestries depicting feasting undead creatures hang on the wall.
 
 ![[018-01-009.jerot-galgin.webp|350]]
 *(Jerot Galgin)*
 
-The cult's leader is a neutral evil, human **[[necromancer wizard]]** (see *appendix A*) named **[[Jerot Galgin]]**. A loyal **[[nothic]]** assistant named **Maszundrin** never leaves Jerot's side. A devotee of Vecna, Maszundrin learned Common while lurking in the catacombs for decades and considers the cultists vital servants of the lich-god.
+The cult's leader is a neutral evil, human **[[Necromancer Wizard]]** (see *appendix A*) named **[[Jerot Galgin]]**. A loyal **[[Nothic]]** assistant named **Maszundrin** never leaves Jerot's side. A devotee of Vecna, Maszundrin learned Common while lurking in the catacombs for decades and considers the cultists vital servants of the lich-god.
 
 Jerot is an aristocrat who has lived his entire life in Neverwinter. He has built his deep faith in Vecna and vast necromantic knowledge over many years, right under the noses of his peers. He's engaging in this current research while his friends and family believe him to be on an extended trip to Waterdeep. Jerot considers his secret life as a cult leader, or the "Thought of Vecna," to be yet another way to honor his evil patron.
 
@@ -423,11 +423,11 @@ A character who examines Jerot's notes and succeeds on a **DC 14** *Intelligence
 
 This room's floor is 10 feet lower than the raised galleries.
 
-The room is filled with cultists engaged in an extensive, hours-long ritual to sacrifice the elf **Eldon Keyward's** secrets to Vecna. The ritual leader is a tall, proud, neutral evil **[[mage]]** named **Kendri Nex**. The five **nothics** around her attack intruders on sight. Kendri uses her magic defensively, retreating to the room's floor if pressed. Kendri carries keys that unlock all the prisoner cells (areas C5, C11, C18, and C20), but if the characters haven't already rescued the other prisoners, they might not have the chance to do so, as the encounter likely ends with them being shunted through a planar rift.
+The room is filled with cultists engaged in an extensive, hours-long ritual to sacrifice the elf **Eldon Keyward's** secrets to Vecna. The ritual leader is a tall, proud, neutral evil **[[Mage]]** named **Kendri Nex**. The five **nothics** around her attack intruders on sight. Kendri uses her magic defensively, retreating to the room's floor if pressed. Kendri carries keys that unlock all the prisoner cells (areas C5, C11, C18, and C20), but if the characters haven't already rescued the other prisoners, they might not have the chance to do so, as the encounter likely ends with them being shunted through a planar rift.
 
-The six neutral evil **[[cult fanatics]]** on the raised east gallery don't fight, since they fear interrupting the complicated ritual. They maintain their chanting and wild gesticulations.
+The six neutral evil **[[Cult Fanatic]]** on the raised east gallery don't fight, since they fear interrupting the complicated ritual. They maintain their chanting and wild gesticulations.
 
-***The Cage.*** Eldon is a lawful good elf **[[priest]]** who follows **Deneir**, a god of writing and knowledge. He can't cast spells while he's in the cage. Eldon's cage hangs from a sturdy chain that ends 20 feet above the ground. The door on the cage's side is latched but not locked. Any character who can reach the cage can open its door as an action.
+***The Cage.*** Eldon is a lawful good elf **[[Priest]]** who follows **Deneir**, a god of writing and knowledge. He can't cast spells while he's in the cage. Eldon's cage hangs from a sturdy chain that ends 20 feet above the ground. The door on the cage's side is latched but not locked. Any character who can reach the cage can open its door as an action.
 
 #### Fight's End
 
@@ -443,14 +443,13 @@ The cult's disrupted ritual thrusts the characters (along with Eldon) through a 
 
 The characters experience the following vision:
 
->>Around the world and across the planes, you perceive innumerable cults of Vecna. They snatch away people and strip their secrets in rituals like the one you stopped. Behind them, the withered form of Vecna gathers the secrets like threads, adding them to a glowing sphere of hidden knowledge in some impossibly distant place. The vision fades into darkness, leaving only Vecna's glaring left eye.
->>
+>Around the world and across the planes, you perceive innumerable cults of Vecna. They snatch away people and strip their secrets in rituals like the one you stopped. Behind them, the withered form of Vecna gathers the secrets like threads, adding them to a glowing sphere of hidden knowledge in some impossibly distant place. The vision fades into darkness, leaving only Vecna's glaring left eye.
 
 ### Link to Vecna
 
 The characters each gain a metaphysical link to Vecna, which follows the rules for *blessings* presented in the *Dungeon Master's Guide*. Vecna's Link is the result of feedback from the interrupted ritual. Vecna is unaware the characters—or anyone, for that matter—are linked with him, so the god has no reason to sever the tie. The link can manifest as subtly or as obviously as each player wishes, from the sensation of a specific smell when the character thinks of Vecna to a loud noise only they hear when the lich's name is uttered.
 
->>***Vecna's Link.*** You gain a special intuition for secrets. You have advantage on Wisdom (Insight) checks. In addition, you can use an action to cast *See Invisibility* without expending a spell slot. Once you cast that spell in this way, you can't do so again until you finish a long rest.
+>***Vecna's Link.*** You gain a special intuition for secrets. You have advantage on Wisdom (Insight) checks. In addition, you can use an action to cast *See Invisibility* without expending a spell slot. Once you cast that spell in this way, you can't do so again until you finish a long rest.
 
 When the characters acquire this link, remind them about the Power of Secrets rules. Allow them to spend any secrets they've gained so far as usual.
 
@@ -478,14 +477,13 @@ Eldon grunts for aid and pounds at the wood. Unless a character uses an action t
 
 Once the fight is over, Eldon shares the following information, either all at once or in fragments:
 
->>"Very bad, but not surprising. I don't know if the cultists planned to send us here, but here we are. Neverwinter has cracks between our world and the Shadowfell—Crevices of Dusk, they're called. Planar travelers sometimes slip through.
->>
->>"We're in a nasty city called Evernight. It's an evil echo of Neverwinter, populated by undead. We arrived in Evernight's graveyard because we left from Neverwinter's graveyard.
->>
->>"There's no evidence of the crevice we came through. It doesn't surprise me that it's gone; stable crevices are rarer than spontaneous ones. But we need a stable one to get back to Neverwinter.
->>
->>"We shouldn't spend a lot of time traipsing through an undead-infested metropolis, hoping to stumble across a gateway to Neverwinter. That feels unsafe. Maybe we should ask around inconspicuously. There's a market east of the Neverwinter Graveyard, which means it's likely there's a market east of Evernight's graveyard, too. But we should be careful."
->>
+>"Very bad, but not surprising. I don't know if the cultists planned to send us here, but here we are. Neverwinter has cracks between our world and the Shadowfell—Crevices of Dusk, they're called. Planar travelers sometimes slip through.
+>
+>"We're in a nasty city called Evernight. It's an evil echo of Neverwinter, populated by undead. We arrived in Evernight's graveyard because we left from Neverwinter's graveyard.
+>
+>"There's no evidence of the crevice we came through. It doesn't surprise me that it's gone; stable crevices are rarer than spontaneous ones. But we need a stable one to get back to Neverwinter.
+>
+>"We shouldn't spend a lot of time traipsing through an undead-infested metropolis, hoping to stumble across a gateway to Neverwinter. That feels unsafe. Maybe we should ask around inconspicuously. There's a market east of the Neverwinter Graveyard, which means it's likely there's a market east of Evernight's graveyard, too. But we should be careful."
 
 The characters have little to go on other than Eldon's suggestion. Other explorations of Evernight are both dangerous and fruitless, so you should eventually steer the party back to the market even if they venture elsewhere.
 
@@ -495,8 +493,7 @@ The characters don't have other encounters as they make their way through Everni
 
 ### The Corpse Market
 
->>The wall around Evernight's graveyard is riddled with gaps, and the ground near it is covered in fallen rubble, so leaving the graveyard is easy. Directly east of the graveyard, a large market stretches for blocks in every direction. Tattered canvas and shrouds separate the numerous stalls. Feeble moonlight and flickering torches illuminate the city, regardless of the time of day.
->>
+>The wall around Evernight's graveyard is riddled with gaps, and the ground near it is covered in fallen rubble, so leaving the graveyard is easy. Directly east of the graveyard, a large market stretches for blocks in every direction. Tattered canvas and shrouds separate the numerous stalls. Feeble moonlight and flickering torches illuminate the city, regardless of the time of day.
 
 Everything in the market exhibits pale, subdued colors, but the atmosphere is lively as ghouls, skeletons, and vampires meander from stall to stall.
 
@@ -512,8 +509,7 @@ The Corpse Market occasionally sees living visitors, though the characters are t
 
 Shortly after the characters enter the Corpse Market, they draw the attention of a vampire merchant named Sangora. When she sees the characters, she spreads her cloak wide and shows sharp fangs in her smile. She says:
 
->>"I am Sangora, proprietor of Sangora Sanguinaries. You're not likely interested in a cup of warm blood, but perhaps you need something else? Something more ephemeral, like directions? Or knowledge? I've been in this city a long, long time."
->>
+>"I am Sangora, proprietor of Sangora Sanguinaries. You're not likely interested in a cup of warm blood, but perhaps you need something else? Something more ephemeral, like directions? Or knowledge? I've been in this city a long, long time."
 
 Sangora is a centuries-old **vampire** with sunken eyes and a shock of long, white hair. She is inquisitive and happy to gossip.
 
@@ -525,11 +521,11 @@ Sangora sells information at a higher profit than she sells blood, and she's ful
 
 Sangora can share the following points:
 
-- **Evernight.** Sangora provides background about the city of Evernight, as presented above.
-- **Neverwinter.** Sangora hasn't been to Neverwinter in more than a decade and remembers the place as a lawless ruin. At that time, the populace viewed Lord Neverember as a manipulative tyrant. Sangora knows that gateways called Crevices of Dusk occasionally appear in Evernight and allow passage to and from Neverwinter.
-- **Crevices of Dusk.** Sangora explains that residents of both Evernight and Neverwinter dislike these portals being used indiscriminately. Those who know the location of stable Crevices of Dusk either guard or hide them.
-- **Stable Crevice of Dusk.** Sangora tilts her head with a thoughtful look before revealing that she knows of a stable Crevice of Dusk in a tomb of one of Evernight's former living families, the Dolindars. The Dolindar tomb is in Evernight's graveyard, and Sangora provides true directions to it.
-- **Dolindars.** Sangora explains that the Dolindar family was exiled to the Shadowfell for reasons they never shared. The family studied wizardry and knew much about planar gates despite being unable to use them due to a family curse. They were miserable and lonely in life.
+- [ ] **Evernight.** Sangora provides background about the city of Evernight, as presented above.
+- [ ] **Neverwinter.** Sangora hasn't been to Neverwinter in more than a decade and remembers the place as a lawless ruin. At that time, the populace viewed Lord Neverember as a manipulative tyrant. Sangora knows that gateways called Crevices of Dusk occasionally appear in Evernight and allow passage to and from Neverwinter.
+- [x] **Crevices of Dusk.** Sangora explains that residents of both Evernight and Neverwinter dislike these portals being used indiscriminately. Those who know the location of stable Crevices of Dusk either guard or hide them.
+- [x] **Stable Crevice of Dusk.** Sangora tilts her head with a thoughtful look before revealing that she knows of a stable Crevice of Dusk in a tomb of one of Evernight's former living families, the Dolindars. The Dolindar tomb is in Evernight's graveyard, and Sangora provides true directions to it.
+- [x] **Dolindars.** Sangora explains that the Dolindar family was exiled to the Shadowfell for reasons they never shared. The family studied wizardry and knew much about planar gates despite being unable to use them due to a family curse. They were miserable and lonely in life.
 
 ## Dolindar Tomb
 
@@ -566,68 +562,64 @@ The following locations are keyed to map 1.2.
 ![Map 1.2: Dolindar Tomb](img/adventure/VEoR/022-1.02-dolindar-tomb.webp)![Player Version](img/adventure/VEoR/023-1.02-dolindar-tomb-player.webp)
 #### B1: Portico
 
->>A roof supported by stone pillars extends from the Dolindar tomb into the weedy yard of uneven earth. The stone door to the tomb is engraved with the word "DOLINDAR" above it.
->>
+>A roof supported by stone pillars extends from the Derengar tomb into the weedy yard of uneven earth. The stone door to the tomb is engraved with the word "DERENGAR" above it.
 
-Four **vampire spawn** catch up to the party when the characters reach the door to the tomb. After the characters left her, Sangora detailed her conversation to her vampire spawn assistants. The spawn decided to make a meal of the characters, assuming that Sangora would never discover their perfidy.
+Four **vampire spawn** catch up to the party when the characters reach the door to the tomb. After the characters left her, Sangora detailed her conversation to her vampire spawn assistants. The spawn decided to make a meal of the characters, assuming that Sangora would never discover their perfidy (Tücke).
 
 The ground in the portico is swept and free of weeds, thanks to the efforts of the ghost Newmy (see area B2). The entrance to the tomb isn't locked. It opens onto a small room containing a steep spiral staircase leading 20 feet downward.
 
 #### B2: Hall
 
->>Upright slabs are set into the walls of this large burial chamber. Each slab is carved with the faded likeness of a different robed human above indecipherable writing. One of these slabs is blank with a piece of paper stuck to it.
->>
+>Upright slabs are set into the walls of this large burial chamber. Each slab is carved with the faded likeness of a different robed human above indecipherable writing. One of these slabs is blank with a piece of paper stuck to it.
 
 The lesser-known Dolindars are interred here, buried in the alcoves behind the slabs. The images of the dead and their names have worn away. If the characters open these slabs, they find only dust and bones inside.
 
 The piece of paper is on a slab in front of an open nook that never held a dead Dolindar. Instead, a ghost custodian named Newmy lives inside. She's affixed a piece of paper with "Newmy's Room" written on it in Common. If anyone approaches the slab, Newmy pops out, sputtering apologies.
 
-Newmy is a lawful neutral **ghost** who was once a moon elf. She can cast *Prestidigitation* at will. Newmy isn't quite five feet tall, and she has frizzy blue hair and pale skin shot through with blue veins. She's not interested in fighting, since fights make messes.
+Newmy is a lawful neutral **[[Ghost]]** who was once a moon elf. She can cast *Prestidigitation* at will. Newmy isn't quite five feet tall, and she has frizzy blue hair and pale skin shot through with blue veins. She's not interested in fighting, since fights make messes.
 
 ![Newmy](img/adventure/VEoR/024-01-014.newmy-ghost.webp)
 
 ***Talking with Newmy.*** Newmy would rather talk than fight. She shares the following points:
 
-- **Crypt Cleaner.** The Dolindars hired Newmy and paid her several lifetimes of wages up-front to keep their tomb clean shortly after the tomb was built—more years ago than Newmy can remember. When Newmy died, she returned as a ghost to continue her duties for as long as she was contracted.
-- **Lonely Family.** The Dolindars were all lonely, and there weren't many of them. They didn't like Evernight but couldn't leave it for some reason.
-- **Puzzle Buttons.** Newmy doesn't know anything about a rift or a Crevice of Dusk, but she remembers some "puzzle buttons" deeper in the tomb that she doesn't know how to work. Maybe they lead somewhere special.
-- **Restless Dead.** Newmy doesn't go through the doors at the end of the hall anymore. The Dolindars buried down there "aren't resting right," and Newmy is afraid of them. She hasn't been that way in years and doesn't remember what's there.
+- [x] **Crypt Cleaner.** The Dolindars hired Newmy and paid her several lifetimes of wages up-front to keep their tomb clean shortly after the tomb was built—more years ago than Newmy can remember. When Newmy died, she returned as a ghost to continue her duties for as long as she was contracted.
+- [x] **Lonely Family.** The Dolindars were all lonely, and there weren't many of them. They didn't like Evernight but couldn't leave it for some reason.
+- [x] **Puzzle Buttons.** Newmy doesn't know anything about a rift or a Crevice of Dusk, but she remembers some "puzzle buttons" deeper in the tomb that she doesn't know how to work. Maybe they lead somewhere special.
+- [x] **Restless Dead.** Newmy doesn't go through the doors at the end of the hall anymore. The Dolindars buried down there "aren't resting right," and Newmy is afraid of them. She hasn't been that way in years and doesn't remember what's there.
 
 ***Newmy's Room.*** Newmy rests in a burial nook large enough to hold the corpse of a Medium creature. The nook contains old rags and a decrepit broom. Newmy considers it her personal space and grumbles if anyone seems intent on disturbing it.
 
 #### B3: Lost Dolindars
 
->>Two stone coffins in this room have been broken open, littering the floor with rubble and dust. A creature with too many arms and spikes in place of hands taps at the room's walls.
->>
+>Two stone coffins in this room have been broken open, littering the floor with rubble and dust. A creature with too many arms and spikes in place of hands taps at the room's walls.
 
-The Dolindar siblings buried here were warped into two **lost sorrowsworn** (see *appendix A*). A visible sorrowsworn shrieks in rage and attacks anyone she can see. A second sorrowsworn is resting inside one of the broken coffins, initially out of sight but quick to join his sibling in a fight. The sorrowsworn fight until destroyed.
+The Dolindar siblings buried here were warped into two **[[Lost Sorrowsworn]]** (see *appendix A*). A visible sorrowsworn shrieks in rage and attacks anyone she can see. A second sorrowsworn is resting inside one of the broken coffins, initially out of sight but quick to join his sibling in a fight. The sorrowsworn fight until destroyed.
 
-***Treasure.*** The rubble includes the nameplates that once adorned the coffins. One reads, "Nolan Dolindar, Beloved Brother" and the other reads, "Evisha Dolindar, Beloved Sister." Each silver nameplate is worth 75 gp.
+***Treasure.*** The rubble includes the nameplates that once adorned the coffins. One reads, "Nolan Derengar, Beloved Brother" and the other reads, "Evisha Derengar, Beloved Sister." Each silver nameplate is worth 75 gp.
 
 #### B4: Vault
 
->>This vault contains six pedestals, each bearing treasure.
->>
+>This vault contains six pedestals, each bearing treasure.
 
-Carvings encircling the base of each pedestal read, "What good are treasures when home is denied?"
+Carvings encircling the base of each pedestal read, "What good are treasures when home is denied?" → "Welchen Zweck erfüllen Schätze, wenn einem das zu Hause verwehrt bleibt?"
 
 ***Treasure.*** The following Dolindar family treasures sit atop the pedestals:
 
 - 2,200 gp in neatly stacked piles
 - A golden helmet worth 280 gp
 - A *Driftglobe* with a map of the gate towns of the Outlands carved on it
-- A *Necklace of Adaptation* bearing the inscription "My breath is yours, Kevetta—take it"
+- A *Necklace of Adaptation* bearing the inscription "My breath is yours, Kevetta—take it" → "Mein Atem ist deiner, Kevetta - nimm' ihn"
 - A book titled *Out of the Endless Prison*, outlining methods of escaping the prison-plane of Carceri, worth 500 gp to a planar scholar (such as Eldon, who promises to buy the book once returned to Neverwinter)
 - A snow globe containing a miniature replica of the city of Neverwinter, worth 350 gp
 
 #### B5: Puzzle Door
 
->>The door in the east wall of this otherwise empty room bears the inscription "DOLINDAR" above "NO WORLD TO RETURN." Every letter of each word is set into the wall on a separate tile.
->>
+>The door in the east wall of this otherwise empty room bears the inscription "DERENGAR" above "NO WORLD TO RETURN." Every letter of each word is set into the wall on a separate tile.
+
 
 The door is sealed with a puzzle that requires pushing the right letter tiles in sequence. A pushed letter makes its whole word sink into the door with a click. The door unlocks when the correct combination is input. (Pushing a second letter in the same word doesn't do anything.) The correct combination, which causes the wall to slide aside, is to push the letters spelling ALONE in this order:
 
-**A** in DOLINDAR
+**A** in DERENGAR
 
 **L** in WORLD
 
@@ -645,10 +637,9 @@ The first time a character pushes the tiles incorrectly, they see a small mechan
 
 ![The matriarch Kevetta Dolindar has become a monster called a lonely sorrowsworn](img/adventure/VEoR/025-01-013.kevetta-dolindar.webp)
 
->>On the far side of this room rests a stone coffin. Between the door and the coffin, the floor is studded with a sharp metal blades. A person-shaped figure with elongated arms lurks near the coffin.
->>
+>On the far side of this room rests a stone coffin. Between the door and the coffin, the floor is studded with a sharp metal blades. A person-shaped figure with elongated arms lurks near the coffin.
 
-Isolation warped the matriarch of the Dolindar family, Kevetta, into a **lonely sorrowsworn** (see *appendix A*). She remains near her coffin and uses her harpoon arms to attack anyone who enters the room. She fights until destroyed but doesn't pursue foes who flee.
+Isolation warped the matriarch of the Dolindar family, Kevetta, into a **[[Lonely Sorrowsworn]]** (see *appendix A*). She remains near her coffin and uses her harpoon arms to attack anyone who enters the room. She fights until destroyed but doesn't pursue foes who flee.
 
 ***Blades.*** The blades on the floor are *difficult terrain*. When a creature moves into or through the blades on its turn, it takes 5 (2d4) slashing damage for every 5 feet it travels. A character can use an action to pull a lever behind the stone coffin to cause the blades to retract into the floor or to raise them again.
 
